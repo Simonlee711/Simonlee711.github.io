@@ -1,5 +1,6 @@
 ---
 title: "Simon's Blog"
+permalink: /:blog/
 layout: posts
 author_profile: true
 read_time: true
