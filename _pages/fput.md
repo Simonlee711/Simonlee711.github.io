@@ -1,6 +1,6 @@
 ---
 title: "Fermi-Pasta-Ulam-Tsongui"
-permalink: projects/fput/
+permalink: /fput/
 layout: splash 
 classes: wide
 excerpt: "A unique Physics quasiliniear simulation"

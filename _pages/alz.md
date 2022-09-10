@@ -1,6 +1,6 @@
 ---
 title: "Optimized Alzheimer's Disease Diagnostics Machine"
-permalink: projects/alzheimers/
+permalink: /alzheimers/
 layout: splash 
 classes: wide
 excerpt: "An data-efficient Alzheimer's disease predictor"

@@ -1,6 +1,6 @@
 ---
 title: "Photos 2022"
-permalink: photos/photos2022/
+permalink: /photos2022/
 layout: single 
 classes: wide
 excerpt: "Photos taken from 2022"

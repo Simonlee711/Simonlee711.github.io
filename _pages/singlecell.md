@@ -1,6 +1,6 @@
 ---
 title: "Mapping Gene Expression to Chromatin Accessibility Data"
-permalink: projects/scRNA/
+permalink: /scRNA/
 layout: splash 
 classes: wide
 excerpt: "A single cell analysis research problem"

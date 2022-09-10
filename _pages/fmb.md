@@ -1,6 +1,6 @@
 ---
 title: "Find my Bread"
-permalink: projects/fmb/
+permalink: /fmb/
 layout: splash 
 classes: wide
 excerpt: "A video game created by Simon Lee"
