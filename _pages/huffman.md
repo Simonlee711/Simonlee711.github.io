@@ -14,6 +14,9 @@ feature_row_left1:
     btn_label: "Code"
     btn_class: "btn--primary"
 ---
+# Keywords: 
+
+Data Compression, David Huffman, Information theory, entropy, Huffman coding
 
 # History
 
@@ -114,3 +117,5 @@ Step 3. Run the decoder exectuable file while passing in the proper system argum
 //to run decoder
 ./decode [-h] [-v] [-i infile] [-o outfile]
 ```
+
+
