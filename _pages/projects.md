@@ -1,5 +1,7 @@
 ---
-title: "Projects"
+title: ```python
+{page = Projects}
+```
 permalink: /projects/
 layout: single 
 classes: wide
