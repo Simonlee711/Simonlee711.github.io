@@ -1,8 +1,9 @@
 ---
 title: "Photo Gallery"
 permalink: /photos/
-layout: single 
----
+layout: splash
+date: 2022-09-10
+--- 
 
 This is where photos go
 
