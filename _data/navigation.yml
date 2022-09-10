@@ -30,7 +30,7 @@ docs2:
         url: /abp/
       - title: "Alzheimer's Disease Predictor"
         url: /alz/
-      -title: "Spectral Analysis of Covid-19"
+      - title: "Spectral Analysis of Covid-19"
         url: /spectral/
 
   - title: "2021"
