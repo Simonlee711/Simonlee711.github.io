@@ -1,7 +1,7 @@
 ---
 title: "Photo Gallery"
 permalink: /photos/
-layout: splash
+layout: single
 date: 2022-09-10
 
 docs:
@@ -13,6 +13,8 @@ docs:
         url: /docs/structure/
       - title: "2019"
         url: /docs/installation/
+sidebar:
+  nav: "docs"
 --- 
 
 This is where photos go

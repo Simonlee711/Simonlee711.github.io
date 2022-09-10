@@ -1,13 +1,17 @@
 ---
 title: "About Me"
 permalink: /about/
-layout: splash 
+layout: single 
 classes: wide
 excerpt: "A brief biography."
 header:
   overlay_image: /images/IMG_9046.jpg
   caption: "Photo credit: Simon Lee"
 date: 2022-09-10
+sidebar:
+  - title: "Simon Lee"
+    image: images/IMG_8952.jpg
+    image_alt: "image"
 ---
 # Introduction
 

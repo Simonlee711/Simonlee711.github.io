@@ -22,6 +22,8 @@ docs:
         url: /docs/navigation/
       - title: "Where's My Bread"
         url: /docs/ui-text/
+sidebar:
+  nav: "docs"
 ---
 
 This is where projects go
