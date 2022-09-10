@@ -32,7 +32,6 @@ In the summer of 2022, I worked as a computational and genomics analyst at UCLA 
 
 In Fall 2021, I entered [Dr. Vanessa Jonsson's](https://jonssonlab.com/) lab as an undergraduate researcher and was therefore affiliated with the UCSC Genomics Institute. During my time in this institute I was collaborating with [Razvan Marinescu](http://www.mit.edu/~razvan/) (MIT Computer Science & Artificial Intelligence Laboratory) and [Vedu Mallela](https://people.csail.mit.edu/vmallela/) (Georgia Tech, School of Computing) on a single cell genomics problem. With a recent influx of biological data due to single-cell sequencing, we are able to comprehend key changes "cell-by-cell" rather than those at a population level. The hope in this field is that we can understand things like cancer, stem cells, aging, as well as the development of drug resistance to a much greater extent. You can read more about our research under the [Projects tab](https://simonlee711.github.io/projects/).
 
-{% include figure image_path="images/VLab.JPG" alt="this is a placeholder image" caption="Jonsson Lab 2022" %}
 
 ### UC Santa Cruz, Baskin School of Engineering (2019-2022)
 
