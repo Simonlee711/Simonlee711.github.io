@@ -47,25 +47,43 @@ This project was done in CSE13-S at UC Santa Cruz taught by Professor Darrell Lo
 
 ```Makefile```: a make file to easily run the program by prompting make into the Linux terminal on our
 Ubuntu virtual machine.
+
 ```README.md```: describes how the program works and runs in addition to how to use the makefile
+
 ```Encode.c```:this file contains the encoded huffman codes
+
 ```Decode.c```:this file contains the decoded huffman codes
+
 ```Entropy.c```: like last assignment entropy.c will be used to test our codes level of entropy
+
 ```defines.h```: This file will contain the macro definitions used throughout the assignment.
+
 ```header.h```: This will contain thestruct definition for a file header.
+
 ```node.h```: This file will contain the node ADT interface. This file will be provided.
+
 ```node.c```: This file will contain your implementation of the node ADT.
+
 ```pq.h```: This file will contain the priority queue ADT interface. This file will be provided.
+
 ```pq.c```: This file will contain your implementation of the priority queue ADT. You Must Define your priority
 queue struct in this file.
+
 ```code.h```: This file will contain the code ADT interface. This file will be provided.
+
 ```code.c```: This file will contain your implementation of the code ADT.
+
 ```io.h```: This file will contain the I/O module interface. This file will be provided.
+
 ```io.c```: This file will contain your implementation of the I/O module.
+
 ```stack.h```: This file will contain the stack ADT interface. This file will be provided.
+
 ```stack.c```: This file will contain your implementation of the stack ADT. You must define your stack struct in
 this file.
+
 ```huffman.h```: This file will contain the Huffman coding module interface. This file will be provided.
+
 ```huffman.c``` : This file will contain your implementation of the Huffman coding module interface.
 
 
