@@ -6,6 +6,8 @@ classes: wide
 date: 2022-09-10
 sidebar:
   nav: "docs2"
+header:
+  overlay_image: /images/home.jpg
 ---
 
 This is where projects go
