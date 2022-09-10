@@ -11,7 +11,7 @@ main:
   - title: "Blog"
     url: /blog/
 
-  docs:
+docs:
   - title: Photo Gallery
     children:
       - title: "2022"
