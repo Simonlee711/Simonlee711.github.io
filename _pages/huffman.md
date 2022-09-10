@@ -29,13 +29,13 @@ The variable-length codes assigned to input characters are Prefix Codes, meaning
 
 ---
 
-## Creating a Huffman Tree
+## Encode
 
 The first step in building the huffman tree is to create leaf nodes for all unique characters. We then take a data structure called the **min heap** and build the tree. The min heap acts as a priority queue where the leaf nodes are all sorted by ascending order. This is because we want to take the two least frequency leaf nodes and combine them to build out the tree. We repeat these steps of combining lead nodes of the two smallest frequencies until we have only one node remaining. Our tree is complete. Next in order to establish the codes, we run a post traversal order tree traversal where if we go left we encode a 0 and if we go right we encode a 1. Once we hit a terminal node we know exactly what the code will be. We save these codes for the decoder and we can now feed the input characters into the tree to compress our data. We are left with a containing strictly zeros and ones.
 
 ---
 
-## Decode by using codes and huffman tree
+## Decode
 
 In order to decode we first must feed the huffman tree as well as the list of codes for every unique character. We then take our file containing binary files and walk the tree. The tree walking process takes in a single bit at a time and it is basically an instructions manual on whether to go left or right in the tree. If the bit is a 0 we go left and if the bit is a 1 we go right until we hit a terminal node. Once we hit the terminal node we can translate the sequence of bits to be the character saved in the codes table. We repeat this process until we are left with the original data. Congratulations you have performed the Huffman Compression Algorithm
 
