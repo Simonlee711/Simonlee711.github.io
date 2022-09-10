@@ -6,13 +6,13 @@ classes: wide
 excerpt: "An incredible compression algorithm"
 header:
   overlay_image: /images/huff.png
-  caption: "Huffman Coding"
-date: 2022-09-10
+  caption: "Huffman Coding" 
+date: 2022-09-11
 
 feature_row_left1:
   - url: "https://github.com/Simonlee711/CSE-13S/tree/master/asgn6"
     btn_label: "Code"
-    btn_class: "btn--secondar"
+    btn_class: "btn--primary"
 ---
 
 # History
