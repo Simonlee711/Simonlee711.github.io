@@ -13,10 +13,10 @@ feature_row_left1:
   - url: "https://github.com/Simonlee711/Research/tree/master/Fermi-Pasta-Ulam-Tsongu"
     btn_label: "Code"
     btn_class: "btn--primary"
-# feature_row_left2:
-#     - url: "/files/fput-Lee-2021.pdf"
-#     btn_label: "Paper"
-#     btn_class: "btn--primary"
+feature_row_left2:
+    - url: "https://github.com/Simonlee711/Research/blob/master/Fermi-Pasta-Ulam-Tsongu/fput-Lee-2021.pdf"
+    btn_label: "Paper"
+    btn_class: "btn--primary"
 ---
 
 # Abstract
@@ -70,11 +70,13 @@ This project was done in AM 129 - Scientific Computing at UC Santa Cruz taught b
 
 {% include feature_row id="feature_row_left1" type="left" %}
 
+{% include feature_row id="feature_row_left2" type="left" %}
+
 
 
 # Tutorial on how to run code
 
-1. run ```code/PyRun/fput_viz.py```
+1. run python file
 
 ```cd code/PyRun/ | python3 fput_viz.py```
 
