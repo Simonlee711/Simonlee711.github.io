@@ -26,7 +26,7 @@ When David Huffman was a graduate student in a class at MIT, the professor gave 
 
 The key idea is called **entropy**, originally defined by Claude Shannon in 1948. Entropy is a measure of the amount of information in a say, set of symbols. If we define \\( I(x) = log_{2} Pr[x] \\) to be the information content of a symbol, then the entropy of the set \\( X = {x_{1},..., x_{n} \\) is 
 
-{% include figure image_path="images/eq.png" alt="this is a placeholder image" caption="" %}
+\\[ H( \chi ) = \sum_{i=1}^{n} Pr[x_{i} I(x_{i})] = \sum_{i=1}^{n} Pr[ x_{i}] \log_{2} Pr[ x_i]\\]
 
 We can see that the optimal static encoding will assign the least number of bits to the most common symbol, and the greatest number of bits to the least common symbol. 
 
