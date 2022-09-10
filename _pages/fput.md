@@ -13,10 +13,10 @@ feature_row_left1:
   - url: "https://github.com/Simonlee711/Research/tree/master/Fermi-Pasta-Ulam-Tsongu"
     btn_label: "Code"
     btn_class: "btn--primary"
-feature_row_left2:
-    - url: "/files/fput-Lee-2021.pdf"
-    btn_label: "Paper"
-    btn_class: "btn--primary"
+# feature_row_left2:
+#     - url: "/files/fput-Lee-2021.pdf"
+#     btn_label: "Paper"
+#     btn_class: "btn--primary"
 ---
 
 # Abstract
@@ -69,6 +69,8 @@ This project was done in AM 129 - Scientific Computing at UC Santa Cruz taught b
 ```code/fputPrototype.py```: the simulation file
 
 {% include feature_row id="feature_row_left1" type="left" %}
+
+
 
 # Tutorial on how to run code
 
