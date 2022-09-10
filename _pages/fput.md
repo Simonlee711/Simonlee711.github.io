@@ -25,9 +25,11 @@ In the summer of 1953 Enrico Fermi, John Pasta, Stanislaw Ulam, and Mary Tsingou
 
 # Governing Differential Equations
 
-\\[\ddot{x} = f_{i} = K(x_{i+1}-2x_{i}+x_{i-1})(1+\alpha(x_{i+1}-x_{i-1}))\\]
-\\[x_{i}(0) = x_{i}^{0}\\]
-\\[\dot{x}\_{i}(0) = v_{i}^{0} \\]
+\\[\begin{cases}
+\ddot{x} = f_{i} = K(x_{i+1}-2x_{i}+x_{i-1})(1+\alpha(x_{i+1}-x_{i-1}))\\
+x_{i}(0) = x_{i}^{0}\\
+\dot{x} \_{i}(0) = v_{i}^{0}\\
+\end{cases} \\]
 
 
 # Source Code
