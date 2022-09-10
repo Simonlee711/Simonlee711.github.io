@@ -8,6 +8,11 @@ header:
   overlay_image: /images/huff.png
   caption: "Huffman Coding"
 date: 2022-09-10
+
+feature_row_left1:
+  - url: "https://github.com/Simonlee711/CSE-13S/tree/master/asgn6"
+    btn_label: "Code"
+    btn_class: "btn--secondar"
 ---
 
 # History
@@ -87,7 +92,7 @@ this file.
 ```huffman.c``` : This file will contain your implementation of the Huffman coding module interface.
 
 
-[Code](https://github.com/Simonlee711/CSE-13S/tree/master/asgn6)
+{% include feature_row id="feature_row_left1" type="left" %}
 
 ---
 
