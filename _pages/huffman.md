@@ -5,7 +5,13 @@ layout: splash
 classes: wide
 excerpt: "A incredible compression algorithm"
 header:
-  overlay_image: /images/IMG_9046.jpg
-  caption: "Photo credit: Simon Lee"
+  overlay_image: /images/huff.png
+  caption: "Huffman Coding"
 date: 2022-09-10
 ---
+
+# Introduction
+
+When David Huffman was a graduate student in a class at MIT, the professor gave the class an unsolved problem: How to construct an optimal static encoding of information. The young Huffman came back a few days later with his solution, and that solution changed the world. Data compression is now used in all aspects of communication. David Huffman joined the faculty of MIT in 1953, and in 1967 he joined the faculty of University of California, Santa Cruz as one of its earliest members and helped to found its Computer Science Department, where he served as chairman from 1970 to 1973. He retired in 1994, and passed away in 1999.
+
+The key idea is called entropy, originally defined by Claude Shannon in 1948. Entropy is a measure of the amount of information in a, say, set of symbols. If we define \\( I(x) = log2 Pr[x] \\) to be the information content of a symbol, then the entropy of the set \\( X = {x1,..., xn} is \\)

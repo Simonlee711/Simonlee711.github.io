@@ -292,5 +292,6 @@ defaults:
       related: true
       show_dates: true
       date_format: "%Y-%m-%d"
+      mathjax: true
 
   
