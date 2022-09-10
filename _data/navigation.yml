@@ -15,11 +15,11 @@ docs:
   - title: Photo Gallery
     children:
       - title: "2022"
-        url: /photos/photos2022/
+        url: /photos2022/
       - title: "2021"
-        url: photos/photos2021/
+        url: /photos2021/
       - title: "2019"
-        url: photos/photos2020/
+        url: /photos2020/
 
 docs2:
   - title: "2022"
