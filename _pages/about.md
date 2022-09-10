@@ -38,6 +38,8 @@ In Spring 2022, I graduated with my Bachelors in Science in Applied Mathematics 
 
 # Goals
 
+Some of my recent goals consist on becoming specialized in deep learning, and have the skills necessary to pursue a field in data sciences. Over the summer I hope to return back to the USA to pursue an industrial internship in this field. Also after the completion of my masters degree, I likely will return to the San Francisco Bay area to pursue several dream companies to work at for a life time.
+
 ---
 
 
