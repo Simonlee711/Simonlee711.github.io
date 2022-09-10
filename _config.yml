@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -113,9 +113,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:simonlee711@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/simon-lee-307ba4172/"
     - label: "CV"
       icon: "fa-solid fa-user"
       # url: "files/Curriculum Vitae.pdf"
@@ -135,12 +135,12 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/simon-lee-307ba4172/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Simonlee711"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/simonlee.a/"
 
 
 # Reading Files
