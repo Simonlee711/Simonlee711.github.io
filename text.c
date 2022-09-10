@@ -18,3 +18,5 @@ void LIpt(Node *root, Stack **s) { //Leaf and Internal Post Traversal
         stack_push(*s, I);
     }
 }
+
+
