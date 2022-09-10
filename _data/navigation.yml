@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: https://simonlee711.github.io/
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Photos"
+    url: /photos/
+  - title: "blog"
+    url: /blog/
