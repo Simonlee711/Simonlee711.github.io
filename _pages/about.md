@@ -5,7 +5,7 @@ layout: splash
 classes: wide
 excerpt: "A brief biography."
 header:
-  image: /images/IMG_9046.jpg
+  overlay_image: /images/IMG_9046.jpg
   caption: "Photo credit: Simon Lee"
 date: 2022-09-10
 ---
