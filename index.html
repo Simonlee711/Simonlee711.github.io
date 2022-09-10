@@ -3,19 +3,21 @@ layout: home
 author_profile: true
 classes: wide
 
-feature_row:
+feature_row_left1:
   - image_path: /assets/splash/1.jpg
     title: "Projects"
     excerpt: "Click here to view some of the projects I have done."
     url: "https://simonlee711.github.io/projects/"
     btn_label: "View Code"
     btn_class: "btn--primary"
+feature_row_left2:
   - image_path: /assets/splash/2.jpg
     title: "Blog"
     excerpt: "Click here to read my personal blog about academics and life."
     url: "https://simonlee711.github.io/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row_left3:
   - image_path: /assets/splash/3.jpg
     title: "Photos"
     excerpt: "Click here to review my public photo gallery."
@@ -28,7 +30,9 @@ feature_row:
     <h1><code>&lt;Hello and Welcome to my website&gt;</code> </br> </br></h1>
 </div>
 
-{% include feature_row %}
+{% include feature_row id="feature_row_left1" type="left" %}
+{% include feature_row id="feature_row_left2" type="right" %}
+{% include feature_row id="feature_row_left3" type="left" %}
 
 
 
