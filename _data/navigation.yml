@@ -4,7 +4,7 @@ main:
     url: https://simonlee711.github.io/
   - title: "About"
     url: /about/
-  - title: "Projects"
+  - title: "Projects" 
     url: /projects/
   - title: "Photos"
     url: /photos/
