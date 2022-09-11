@@ -46,8 +46,8 @@ It is important to know that this equation that resembles how we advance our sol
 There is nothing obsolete about this behavior, as long as our equation stays linear, the bahvior of the masses on a string will remain consistent. However lets revisit if we include an \\( \alpha \\) value that is not equal to 0. As mentioned in the Preface, Fermi, Pasta, Ulam, and Tsingou thought that the behavior would not follow any certain pattern. However as they ran the simulation they were shocked to find that their was a pattern within this non-linear system. As to why this occurs remains an active part of research but it is odd but amazing how this system in particular behaves.
 
 # The Simulation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/=XB2yuHfzlXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/=XB2yuHfzlXE" width="560" height="315" frameborder="0"> </iframe>
 
 
 # Source Code
