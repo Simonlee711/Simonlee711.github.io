@@ -44,12 +44,15 @@ Muhlebach, Switzerland | August 17, 2022
 
 ![image-left](/images/july3.jpg){: .align-left style="width: 20%;"}
 Baldwin Hills Scenic Overlook, Culver City | July 20, 2022
+\\
 
 ![image-right](/images/july2.jpg){: .align-right style="width: 30%;"}
 Sawtelle, Los Angeles | July 21, 2022
+\\
 
 ![image-left](/images/july.jpg){: .align-left style="width: 20%;"}
 Westwood, Los Angeles | July 11, 2022
+\\
 ---
 
 ## June 2022
