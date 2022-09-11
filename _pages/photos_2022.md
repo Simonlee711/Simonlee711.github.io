@@ -33,7 +33,7 @@ feature_row_left:
 
 # August 2022
 
-{% include figure image_path="images/august.jpg" alt="sample image" caption="" %}{: .align-left}
+{% include figure image_path="images/august-300x200.jpg" alt="sample image" caption="" %}{: .align-left}
 
 I recently arrived to Switzerland.
 
