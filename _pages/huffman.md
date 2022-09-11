@@ -86,6 +86,9 @@ void LIpt(Node *root, Stack **s) { //Leaf and Internal Post Traversal
 }
 
 int main(int argc, char **argv) {
+    int opt = 0;
+    int in = STDIN_FILENO, out = STDOUT_FILENO;
+    int verbose = 0;
 
     //make histogram
     //SOURCE: Proffessor Long's example from class to construct histogram
@@ -187,7 +190,214 @@ int main(int argc, char **argv) {
 
 ## Decode
 
-In order to decode we first must feed the huffman tree as well as the list of codes for every unique character. We then take our file containing binary files and walk the tree. The tree walking process takes in a single bit at a time and it is basically an instructions manual on whether to go left or right in the tree. If the bit is a 0 we go left and if the bit is a 1 we go right until we hit a terminal node. Once we hit the terminal node we can translate the sequence of bits to be the character saved in the codes table. We repeat this process until we are left with the original data. Congratulations you have performed the Huffman Compression Algorithm
+In order to decode we first must feed the huffman tree as well as the list of codes for every unique character. We then take our file containing binary files and walk the tree. The tree walking process takes in a single bit at a time and it is basically an instructions manual on whether to go left or right in the tree. If the bit is a 0 we go left and if the bit is a 1 we go right until we hit a terminal node. Once we hit the terminal node we can translate the sequence of bits to be the character saved in the codes table. We repeat this process until we are left with the original data. Congratulations you have performed the Huffman Compression Algorithm.
+
+{% highlight C linenos %}
+
+#include "code.h"
+#include "defines.h"
+#include "header.h"
+#include "huffman.h"
+#include "io.h"
+
+#include <fcntl.h>
+#include <inttypes.h>
+#include <stdbool.h>
+#include <stdint.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/stat.h>
+#include <unistd.h>
+
+#define OPTIONS "hi:o:v"
+
+uint64_t bytes_read;
+uint64_t bytes_written;
+
+int main(int argc, char **argv) {
+    int opt = 0;
+    int in = STDIN_FILENO, out = STDOUT_FILENO;
+    int verbose = 0;
+
+    //read in header
+    Header h = { 0 };
+    read_bytes(in, (uint8_t *) &h, sizeof(Header));
+
+    //header check
+    if (h.magic != 0xDEADBEEF) {
+        fprintf(stderr, "*** Invalid Magic Number ***\n");
+        return 0;
+    }
+
+    //file permission
+    struct stat statbuf;
+    fstat(in, &statbuf);
+    fchmod(out, statbuf.st_mode);
+
+    //rebuild tree;
+    uint8_t dump[h.tree_size];
+    read(in, dump, h.tree_size);
+    Node *root = rebuild_tree(h.tree_size, dump);
+
+    //decompress the message
+    uint8_t bit; // = 0;
+    uint64_t pos = 0;
+    Node *curr = root;
+    uint32_t bits = 0;
+    double byte_counter;
+    while ((bits = read_bit(in, &bit)) > 0) {
+        if (pos == h.file_size + 1) {
+            break;
+        }
+        if (bit == 0) {
+            if (curr->left == NULL) {
+                write_bytes(out, &(curr->symbol), 1);
+                curr = root;
+            } else {
+                curr = curr->left;
+            }
+        }
+        if (bit == 1) {
+            if (curr->right == NULL) {
+                write_bytes(out, &(curr->symbol), 1);
+                curr = root;
+            } else {
+                curr = curr->right;
+            }
+        }
+        pos += 1;
+    }
+    //calculating bytes to decompress
+    if ((pos) <= 8) {
+        byte_counter = 1;
+    } else {
+        if (((pos) % 8) == 0) {
+            byte_counter = (pos) / 8;
+        } else {
+            byte_counter = ((pos) / 8) + 1;
+        }
+    }
+
+    //verbose printing
+    if (verbose) {
+        printf("compressed file size: %0.0f\n", byte_counter);
+        printf("uncompressed file size %lu: \n", h.file_size);
+        double all_bytes = h.file_size;
+        printf("Space saving: %0.2f%%\n", (1.0 - (byte_counter / all_bytes)) * 100);
+    }
+
+    close(in);
+    close(out);
+}
+
+{% endhighlight %}
+
+# Example
+
+Let us insert the Delta Corona Virus Genome within the file ```delta_variant.fa``` into our Huffman encoder. The file content looks like this:
+
+{% highlight txt linenos %}
+
+\>FJ376619.2 Bulbul coronavirus HKU11-934, complete genome
+GACAAAGCTCAAAATCAATACGTTATACGTATTGTATTTTGTAGCCCTCTAGCTTCGCTAGCTCGATTCC
+GACACCAATCCAGGTGCGTTGTGCTGGACAGTGCCTGCCCGGTTTAGTGACTTACAGATTTGATCACGCC
+TAACCACAGTTCATTGTGGAGTTTCGGCTGTTGATTGTCTGTTTGTTGCAACGGGGTCTTACTGTGTTCT
+...
+
+{% endhighlight %}
+
+Once we run the compression, we are left with a binary file that is illegible in plaintext.
+
+{% highlight txt linenos %}
+
+^C^EB<96>^S<80>pO^EÁpÀ@^E^@aá Â0<90>^_!^XH<2^V^D^V^H^[^E<80>^@<82>0xx
+^F^D^PÀ\`&<84>^@8^Y^F<83>Ã!`à $^\^U^N^O^F^C<81>^BÁÁÂf¢íV×'îOyïóÅ]âú^.<9b>ÔLËZÄå>räÌr¹T<9f>ã<99>ù<8d>ù¶J<8f>K1öó<93>^_Ò\ù¼î^?>ZI'~s<9f>qó^S<¼OL³{^\<9c><9f>õx<97>_¾$²Æaò±<9f>òÏ{ÕoñõÞ<96>æ^|¹<8b>ìq-ó<9e>$ýy<¤îYJ§b<93>G=Ç1f,<8e>¾YLW<8f>$ÝRªy$æuè©õ½)ÉÆ%¾;<Nz9·íÙMlþRÑå©[<89>^X¥5kÞå<8b><95>ÍçâßÆì<9f>£IÎÕ%^X«Þråf®ie×u<8b><9f>î,|¹bæ<88>Ñ;kTeú=ù'¯ºÜ<9d><97>MG¯\<9c>â±?õ*ÕvÏÎcù<8b>^W?<93>^Vis<9f><93><89>o)é|ùóR¥¬¹NMdºÑboòåa¢íG~_ç6Éÿ1%¬ÛWyWR<9c>þ<8e>YòÛù.çþc^sUÆÊÔmüæÏ<95>^[Íç+y<89>òÜÇ'£9¦<
+
+{% endhighlight %}
+
+However during the encoding, a list of codes were successfully generated to help us decode our encoded file as long as we feed it both the huffman tree as well as this list of codes in the decoding process. A list of our codes are printed here: 
+
+{% highlight txt linenos %}
+
+ Char | Huffman code 
+ 'G'  |          00
+ 'o'  |    01000000
+ 's'  |   010000010
+ 'h'  | 01000001100
+ ','  | 01000001101
+ 'g'  | 01000001110
+ '>'  | 01000001111
+ 'y'  |  0100001000
+ 'v'  |  0100001001
+ 'n'  |   010000101
+ '.'  | 01000011000
+ 'd'  | 01000011001
+ 'p'  |  0100001101
+ '-'  |   010000111
+ 'N'  |      010001
+ '7'  | 01001000000
+ '3'  | 01001000001
+ 'O'  | 01001000010
+ 'V'  | 01001000011
+ 'S'  |   010010001
+ '8'  | 01001001000
+ '6'  | 01001001001
+ 'R'  | 01001001010
+ 'H'  |0100100101100
+ 'P'  |0100100101101
+ 'B'  |010010010111000
+ 'I'  |010010010111001
+ 'F'  |01001001011101
+ 'Y'  |01001001011110
+ 'X'  |01001001011111
+ '4'  |  0100100110
+ '1'  |  0100100111
+ ' '  |    01001010
+ 'a'  |   010010110
+ '5'  | 01001011100
+ '9'  | 01001011101
+ '0'  |  0100101111
+ 'e'  |    01001100
+ 'U'  | 01001101000
+ 'M'  | 01001101001
+ 'u'  |  0100110101
+ 'i'  |  0100110110
+ 'c'  |  0100110111
+ '2'  |   010011100
+ 'r'  |   010011101
+ 'L'  |0100111100000
+ 'K'  |010011110000100
+ 'Q'  |010011110000101
+ 'E'  |010011110000110
+ 'b'  |0100111100001110000
+ '_'  |0100111100001110001
+ 'Z'  |010011110000111001
+ 'J'  |01001111000011101
+ 'W'  |0100111100001111
+ 'D'  |010011110001
+ 'l'  | 01001111001
+ '/'  |  0100111101
+ 'm'  |  0100111110
+ 't'  |  0100111111
+ '\n' |        0101
+ 'C'  |         011
+ 'A'  |          10
+ 'T'  |          11
+
+{% endhighlight %}
+
+We can also see a clear compression that occurs when we observe our output. Our file went from \\(4.72mb\\) to \\( 1.33mb\\) which is a compression rate of \\( 71.89% \\) Finally in order to retrieve our original file we feed our binary file ```delta_variant.bin```, our list of codes and feed it back along with the huffman tree construction to get our original file.
+
+{% highlight txt linenos %}
+
+\>FJ376619.2 Bulbul coronavirus HKU11-934, complete genome
+GACAAAGCTCAAAATCAATACGTTATACGTATTGTATTTTGTAGCCCTCTAGCTTCGCTAGCTCGATTCC
+GACACCAATCCAGGTGCGTTGTGCTGGACAGTGCCTGCCCGGTTTAGTGACTTACAGATTTGATCACGCC
+TAACCACAGTTCATTGTGGAGTTTCGGCTGTTGATTGTCTGTTTGTTGCAACGGGGTCTTACTGTGTTCT
+...
+
+{% endhighlight %}
 
 # Code
 
