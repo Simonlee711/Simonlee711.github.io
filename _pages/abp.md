@@ -15,7 +15,7 @@ feature_row_left1:
     btn_label: "Code"
     btn_class: "btn--primary"
   - url: "https://Simonlee711.github.io/files/Poster.pdf"
-    btn_label: "Code"
+    btn_label: "Poster"
     btn_class: "btn--primary"
 ---
 
