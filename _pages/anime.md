@@ -11,6 +11,10 @@ date: 2022-09-10
 comments: true
 sidebar:
   nav: "docs2"
+feature_row_left1:
+- url: "https://github.com/Simonlee711/Anime-recommendations"
+  btn_label: "Code"
+  btn_class: "btn--primary"
 ---
 # Collaborator
 
