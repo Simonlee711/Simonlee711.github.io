@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "Photos taken from 2021."
 header:
-  overlay_image: /images/IMG_9046.jpg
+  overlay_image: /images/back1.jpg
   caption: "Photo credit: Simon Lee"
 date: 2022-09-10
 sidebar:
