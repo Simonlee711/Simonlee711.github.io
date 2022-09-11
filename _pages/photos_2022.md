@@ -54,7 +54,7 @@ If on a mobile device, I suggest you tilt your phone horizontally to get the tim
 #### July 30, 2022
 <br/><br/><br/><br/>
 
-![image-right](/images/2022/july4.jpg){: .align-right style="width: 30%;"}
+![image-right](/images/2022/july4.jpg){: .align-right style="width: 20%;"}
 #### Getty Center, Los Angeles
 {: style="text-align: right;"}
 #### July 23, 2022
@@ -79,7 +79,7 @@ If on a mobile device, I suggest you tilt your phone horizontally to get the tim
 #### July 11, 2022
 <br/><br/><br/><br/>
 
-![image-right](/images/2022/july7.jpg){: .align-right style="width: 30%;"}
+![image-right](/images/2022/july7.jpg){: .align-right style="width: 20%;"}
 #### Los Angeles Country Museum of Art (LACMA), Los Angeles
 {: style="text-align: right;"}
 #### July 10, 2022

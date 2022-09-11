@@ -20,7 +20,7 @@ If on a mobile device, I suggest you tilt your phone horizontally to get the tim
 
 # December 2021
 
-![image-right](/images/2021/dec.jpg){: .align-right style="width: 20%;"}
+![image-right](/images/2021/dec3.jpg){: .align-right style="width: 20%;"}
 #### Skaftafell, Iceland
 {: style="text-align: right;"}
 #### December 12, 2021
@@ -111,7 +111,7 @@ If on a mobile device, I suggest you tilt your phone horizontally to get the tim
 
 # April 2021
 
-![image-left](/images/2021/march.jpg){: .align-left style="width: 20%;"}
+![image-left](/images/2021/april2.jpg){: .align-left style="width: 20%;"}
 #### CVS Pharmacy, Downtown, Santa Cruz
 #### April 8, 2021
 <br/><br/><br/><br/>
