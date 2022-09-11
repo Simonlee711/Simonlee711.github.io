@@ -1,6 +1,6 @@
 ---
 title: "Optimized Alzheimer's Disease Diagnostics Machine"
-permalink: /alzheimers/
+permalink: /alz/
 layout: single
 classes: wide
 excerpt: "An data-efficient Alzheimer's disease predictor"
