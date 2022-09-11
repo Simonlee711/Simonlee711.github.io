@@ -28,7 +28,7 @@ When David Huffman was a graduate student in a class at MIT, the professor gave 
 # Algorithm
 **The Huffman Compression algorithm** or **huffman coding** is a lossless algorithm. The idea is to assign variable-length bit codes to input characters, lengths of the assigned codes are based on the frequencies of corresponding characters. The most frequent character gets the smallest code and the least frequent character gets the largest code. And since we are working with bits (1 byte of memory is 8 bits), it results in a smaller data size. But lets look further into how the underlying mathematics works.
 
-The key idea is called **entropy**, originally defined by Claude Shannon in 1948. Entropy is a measure of the amount of information in a say, set of symbols. If we define \\( I(x) = log_{2} Pr[ x] \\) to be the information content of a symbol, then the entropy of the set  \\( X = {x_{1},..., x_{n}  \\) is 
+The key idea is called **entropy**, originally defined by Claude Shannon in 1948. Entropy is a measure of the amount of information in a say, set of symbols. If we define \\( I(x) = log_{2} Pr[ x] \\) to be the information content of a symbol, then the entropy of the set  X = x1,x2,..., xn is 
 
 \\[ H( \chi ) = \sum_{i=1}^{n} Pr[x_{i} I(x_{i})] = \sum_{i=1}^{n} Pr[ x_{i}] \log_{2} Pr[ x_i]\\]
 
