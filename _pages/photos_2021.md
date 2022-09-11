@@ -12,54 +12,147 @@ sidebar:
   nav: "docs"
 ---
 
+# 2021 Timeline
+
+If on a mobile device, I suggest you tilt your phone horizontally to get the timeline effect. Enjoy my 2021 year.
+
+---
+
 # December 2021
+
+![image-right](/images/2021/dec.jpg){: .align-right style="width: 20%;"}
+#### Skaftafell, Iceland
+{: style="text-align: right;"}
+#### December 12, 2021
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2021/dec2.jpg){: .align-left style="width: 20%;"}
+#### Skaftafell, Iceland
+#### December 12, 2021
+<br/><br/><br/><br/>
+
+![image-right](/images/2021/dec.jpg){: .align-right style="width: 30%;"}
+#### London, United Kingdom
+{: style="text-align: right;"}
+#### December 10, 2021
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ---
 
 # November 2021
 
----
-
-# October 2021
-
----
-
-# September 2021
+![image-left](/images/2021/nov.jpg){: .align-left style="width: 20%;"}
+#### Bocci Cellar, Harvey West Santa Cruz
+#### November 6, 2021
+<br/><br/><br/><br/>
 
 ---
 
 # August 2021
 
+![image-right](/images/2021/aug.jpg){: .align-right style="width: 20%;"}
+#### Golden Gate Park, San Francisco
+{: style="text-align: right;"}
+#### August 10, 2021
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ---
 
 # July 2021
+
+![image-left](/images/2021/july2.jpg){: .align-left style="width: 30%;"}
+#### Yosemite
+#### June 28, 2021
+<br/><br/><br/><br/>
+
+![image-right](/images/2021/july.jpg){: .align-right style="width: 20%;"}
+#### Great China Cafe, Walnut Creek
+{: style="text-align: right;"}
+#### July 11, 2021
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ---
 
 # June 2021
 
+![image-left](/images/2021/june2.jpg){: .align-left style="width: 30%;"}
+#### Western Drive, Santa Cruz
+#### June 27, 2021
+<br/><br/><br/><br/>
+
+![image-right](/images/2021/june.jpg){: .align-right style="width: 30%;"}
+#### Empire Grade Forest, Santa Cruz
+{: style="text-align: right;"}
+#### June 25, 2021
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ---
 
 # May 2021
+
+![image-left](/images/2021/may2.jpg){: .align-left style="width: 30%;"}
+#### Seabright Beach, Seabright
+#### May 27, 2021
+<br/><br/><br/><br/>
+
+![image-right](/images/2021/may.jpg){: .align-right style="width: 30%;"}
+#### Surf City, Downtown Santa Cruz
+{: style="text-align: right;"}
+#### May 20, 2021
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ---
 
 # April 2021
 
+![image-left](/images/2021/march.jpg){: .align-left style="width: 20%;"}
+#### CVS Pharmacy, Downtown, Santa Cruz
+#### April 8, 2021
+<br/><br/><br/><br/>
+
+![image-right](/images/2021/april.jpg){: .align-right style="width: 20%;"}
+#### West Cliff Drive, Santa Cruz
+{: style="text-align: right;"}
+#### April 1, 2021
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ---
 
 # March 2021
+
+![image-left](/images/2021/march.jpg){: .align-left style="width: 30%;"}
+#### Carl's Jr., Oakland
+#### March 11, 2021
+<br/><br/><br/><br/>
 
 ---
 
 # February 2021
 
+![image-right](/images/2021/feb.jpg){: .align-right style="width: 30%;"}
+#### Soquel
+{: style="text-align: right;"}
+#### February 12, 2021
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ---
 
 # January 2021
 
----
+![image-left](/images/2021/jan.jpg){: .align-left style="width: 30%;"}
+#### University of California Davis, Davis
+#### January 19, 2021
+<br/><br/><br/><br/>
 
+---
 
 
 

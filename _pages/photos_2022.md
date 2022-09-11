@@ -14,6 +14,8 @@ sidebar:
 
 # 2022 Timeline
 
+If on a mobile device, I suggest you tilt your phone horizontally to get the timeline effect. Enjoy my 2022 year.
+
 ## December 2022
 
 ---
@@ -49,19 +51,44 @@ sidebar:
 
 ![image-left](/images/2022/july3.jpg){: .align-left style="width: 20%;"}
 #### Baldwin Hills Scenic Overlook, Culver City 
-#### July 20, 2022
+#### July 30, 2022
 <br/><br/><br/><br/>
 
-![image-right](/images/2022/july2.jpg){: .align-right style="width: 30%;"}
-#### Sawtelle, Los Angeles 
+![image-right](/images/2022/july4.jpg){: .align-right style="width: 30%;"}
+#### Getty Center, Los Angeles
 {: style="text-align: right;"}
+#### July 23, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2022/july2.jpg){: .align-left style="width: 20%;"}
+#### Sawtelle, Los Angeles
 #### July 21, 2022
+<br/><br/><br/><br/>
+
+
+![image-right](/images/2022/july5.jpg){: .align-right style="width: 30%;"}
+#### Santa Monica Pier, Santa Monica
+{: style="text-align: right;"}
+#### July 17, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/july.jpg){: .align-left style="width: 20%;"}
 #### Westwood, Los Angeles 
 #### July 11, 2022
+<br/><br/><br/><br/>
+
+![image-right](/images/2022/july7.jpg){: .align-right style="width: 30%;"}
+#### Los Angeles Country Museum of Art (LACMA), Los Angeles
+{: style="text-align: right;"}
+#### July 10, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2022/july6.jpg){: .align-left style="width: 20%;"}
+#### BJ's Westwood, Los Angeles 
+#### July 1, 2022
 <br/><br/><br/><br/>
 
 ---
@@ -72,6 +99,18 @@ sidebar:
 #### Santa Monica Pier, Santa Monica 
 {: style="text-align: right;"}
 #### June 30, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2022/june3.jpg){: .align-left style="width: 20%;"}
+#### Malibu Beach, Malibu
+#### June 28, 2022
+<br/><br/><br/><br/>
+
+![image-right](/images/2022/june4.jpg){: .align-right style="width: 20%;"}
+#### Target, Westwood Los Angeles
+{: style="text-align: right;"}
+#### June 22, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
