@@ -36,6 +36,7 @@ sidebar:
 ## August 2022
 ![image-right](/images/2022/august.jpg){: .align-right style="width: 20%;"}
 #### Muhlebach, Switzerland 
+{: style="text-align: right;"}
 #### August 17, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
@@ -51,6 +52,7 @@ sidebar:
 
 ![image-right](/images/2022/july2.jpg){: .align-right style="width: 30%;"}
 #### Sawtelle, Los Angeles 
+{: style="text-align: right;"}
 #### July 21, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
@@ -66,6 +68,7 @@ sidebar:
 
 ![image-right](/images/2022/june.jpg){: .align-right style="width: 20%;"}
 #### Santa Monica Pier, Santa Monica 
+{: style="text-align: right;"}
 #### June 30, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
@@ -81,6 +84,7 @@ sidebar:
 
 ![image-right](/images/2022/may2.jpg){: .align-right style="width: 30%;"}
 #### Downtown, Santa Barbara 
+{: style="text-align: right;"}
 ##### May 27, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
@@ -95,9 +99,11 @@ sidebar:
 ## April 2022
 
 ![image-right](/images/2022/april.jpg){: .align-right style="width: 30%;"}
-#### Natural Bridges, Santa Cruz 
-#### April 19, 2022
+#### Natural Bridges, Santa Cruz
 {: style="text-align: right;"}
+#### April 19, 2022 
+{: style="text-align: right;"}
+
 <br/><br/><br/><br/>
 
 ---
@@ -115,6 +121,7 @@ sidebar:
 
 ![image-right](/images/2022/jan.jpg){: .align-right style="width: 20%;"}
 #### Davenport Beach 
+{: style="text-align: right;"}
 #### January 28, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
