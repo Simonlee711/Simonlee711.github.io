@@ -1,7 +1,7 @@
 ---
 title: "Huffman Compression Algorithm"
 permalink: /huffman/
-layout: splash
+layout: single
 classes: wide
 excerpt: "An incredible compression algorithm"
 header:
@@ -9,6 +9,9 @@ header:
   caption: "Huffman Coding" 
 date: 2022-09-11
 
+sidebar:
+  nav: "docs2"
+  
 feature_row_left1:
   - url: "https://github.com/Simonlee711/CSE-13S/tree/master/asgn6"
     btn_label: "Code"

@@ -1,13 +1,16 @@
 ---
 title: "Fermi-Pasta-Ulam-Tsongui"
 permalink: /fput/
-layout: splash 
+layout: single
 classes: wide
 excerpt: "A unique Physics quasiliniear simulation"
 header:
   overlay_image: /images/fput.jpg
   caption: "Photo credit: Simon Lee"
 date: 2022-09-11
+
+sidebar:
+  nav: "docs2"
 
 feature_row_left1:
   - url: "https://github.com/Simonlee711/Research/tree/master/Fermi-Pasta-Ulam-Tsongu"

@@ -1,13 +1,16 @@
 ---
 title: "Anime Recommendation System"
 permalink: /anime/
-layout: splash 
+layout: single 
 classes: wide
 excerpt: "A content based recommendation system"
 header:
   overlay_image: /images/anime.png
-  caption: "Photo credit: Simon Lee"
+  caption: "Anime"
 date: 2022-09-10
+
+sidebar:
+  nav: "docs2"
 ---
 # Collaborator
 
