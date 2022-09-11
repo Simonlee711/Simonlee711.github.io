@@ -8,7 +8,8 @@ header:
   overlay_image: /images/ekg.jpg
   caption: "ABP Imputation model"
 date: 2022-09-10
-
+sidebar:
+  nav: "docs2"
 feature_row_left1:
   - url: "https://github.com/Simonlee711/CSE-13S/tree/master/asgn6"
     btn_label: "Code"
