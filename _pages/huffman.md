@@ -23,10 +23,13 @@ feature_row_left1:
 
 Data Compression, David Huffman, Information theory, entropy, Huffman coding
 
+---
+
 # History
 
 When David Huffman was a graduate student in a class at MIT, the professor gave the class an unsolved problem: **How to construct an optimal static encoding of information**. The young Huffman came back a few days later with his solution, and that solution changed the world. Data compression is now used in all aspects of communication. David Huffman joined the faculty of MIT in 1953, and in 1967 he joined the faculty of University of California, Santa Cruz as one of its earliest members and helped to found its Computer Science Department, where he served as chairman from 1970 to 1973. He retired in 1994, and passed away in 1999.
 
+---
 
 # Algorithm
 **The Huffman Compression algorithm** or **huffman coding** is a lossless algorithm. The idea is to assign variable-length bit codes to input characters, lengths of the assigned codes are based on the frequencies of corresponding characters. The most frequent character gets the smallest code and the least frequent character gets the largest code. And since we are working with bits (1 byte of memory is 8 bits), it results in a smaller data size. But lets look further into how the underlying mathematics works.
@@ -38,6 +41,8 @@ The key idea is called **entropy**, originally defined by Claude Shannon in 1948
 We can see that the optimal static encoding will assign the least number of bits to the most common symbol, and the greatest number of bits to the least common symbol. 
 
 The variable-length codes assigned to input characters are Prefix Codes, meaning the codes (bit sequences) are assigned in such a way that the code assigned to one character is not the prefix of code assigned to any other character and is therefore unique. This is how Huffman Coding makes sure that there is no ambiguity during the decoding from the generated bitstream. So in totality the algorithm is to encode all unique characters to form a huffman tree, and decode the information using the codes established during the encoding phase.
+
+---
 
 ## Encode
 
@@ -189,7 +194,7 @@ int main(int argc, char **argv) {
 
 {% endhighlight %}
 
-
+---
 
 ## Decode
 
@@ -295,6 +300,8 @@ int main(int argc, char **argv) {
 }
 
 {% endhighlight %}
+
+---
 
 # Example
 
@@ -402,6 +409,8 @@ TAACCACAGTTCATTGTGGAGTTTCGGCTGTTGATTGTCTGTTTGTTGCAACGGGGTCTTACTGTGTTCT
 
 {% endhighlight %}
 
+---
+
 # Code
 
 This project was done in CSE13-S at UC Santa Cruz taught by Professor Darrell Long. Below I will list the source files that were made in this assignment as well as the code linked below it.
@@ -449,6 +458,8 @@ this file.
 
 
 {% include feature_row id="feature_row_left1" type="left" %}
+
+---
 
 # Tutorial on how to run code
 

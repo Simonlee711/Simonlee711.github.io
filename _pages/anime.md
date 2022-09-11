@@ -20,9 +20,13 @@ feature_row_left1:
 
 Eugene Lee (eugenelee530@gmail.com)
 
+---
+
 # Keywords: 
 
 Recommendation Systems, Transformer models, Cosine-similarity functions, anime
+
+---
 
 # Introducing the concept
 
@@ -31,6 +35,8 @@ Artificial Intellegence has widely slipped under the cracks of how appparent it 
 In a nutshell, a recommender system is a tool that suggests you the next content given what you have already seen and liked. Companies like Youtube, Netflix and Amazon have long used recommender systems to suggest you the next video or song to suggest products that you may be widely interested in purchasing. These systems have been very advanced for many years and by no means are we going to top them. However we wanted to try an approach using Natural language processing to showcase similarities between shows and recommend them mathematically using a cosine similarity function.
 
 This page and code tutorial showcases our entire pipeline from data processing all the way down to the algorithms and models and it actually works quite incredibly well. 
+
+---
 
 # Dataset
 
@@ -53,6 +59,8 @@ We first take a look at our dataset which we got from **kaggle**. Kaggle itself 
 ```name``` - title of the anime
 
 ```genre``` - up to one or more genres that describe the genre of the anime
+
+---
 
 # BERT NLP Model
 
@@ -78,6 +86,8 @@ We take what is called a **transformer model** specifically the BERT model to pe
 
 Although we now know what BERT is, why is transforming the text into a vector an important aspect of the pipeline? To that we say vectors are able to do all the operations that you usually do in machine learning pipelines. In our case we will use the vectorize test to find the similarity between two vectors. Our recommendation will be the (5) most similar vectors with the one we are considering. 
 
+---
+
 # Cosine Similarity function 
 
 {% highlight python linenos %}
@@ -94,6 +104,8 @@ def give_recommendations(index,print_recommendation = False):
 Let’s say x and y are two components. If an anime talks about a high school love story and another one talks more or less about the same stuff, we expect the two vectors to be close. On the other hand, if the other anime is about a destroying the world as a titan we will expect this vector to be far away. To get the proximity between two vectors we take what is know as the **cosine similarity** which calculates the cosine of the angle between two vectors. Based on their outputs we are going to select the 5 highest cosine similarity outputs to be the recommended anime.
 
 {% include figure image_path="images/cosine-sim.png" alt="this is a placeholder image" caption="Cosine Similarity ranks the 5 highest similar animes based on the anime in the title" %}
+
+---
 
 # Code
 
@@ -121,6 +133,8 @@ This project was done in CSE13-S at UC Santa Cruz taught by Professor Darrell Lo
 
 
 {% include feature_row id="feature_row_left1" type="left" %}
+
+---
 
 # Tutorial on how to run code
 
