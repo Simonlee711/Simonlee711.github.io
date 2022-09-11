@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "deep learning model that predicts future blood pressure"
 header:
-  overlay_image: /images/ekg.jpg
+  overlay_image: /images/ekg.png
   caption: "ABP Imputation model"
 date: 2022-09-10
 sidebar:
@@ -16,11 +16,6 @@ feature_row_left1:
     btn_class: "btn--primary"
 ---
 
-<p align="center">
-  <img src="https://github.com/brianhill11/media/blob/master/abpimputation/ABPImputation.gif" alt="imputation-gif">
-</p>
-
----
 
 # Abstract
 
