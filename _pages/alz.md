@@ -8,7 +8,8 @@ header:
   overlay_image: /images/mri.png
   caption: "Photo credit: Simon Lee"
 date: 2022-09-10
-
+sidebar:
+  nav: "docs2"
 feature_row_left1:
   - url: "https://github.com/Simonlee711/Research/tree/master/Alzheimer's%20Classifier"
     btn_label: "Code"
