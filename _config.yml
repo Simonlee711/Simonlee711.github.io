@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:simonlee711@gmail.com"
+      # url: "mailto:simonlee711@gmail.com"
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/simon-lee-307ba4172/"
