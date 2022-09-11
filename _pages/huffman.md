@@ -1,8 +1,8 @@
 ---
 title: "Huffman Compression Algorithm"
 permalink: /huffman/
-layout: single
-# classes: wide
+layout: splash
+classes: wide
 excerpt: "An incredible compression algorithm"
 header:
   overlay_image: /images/huff.png
