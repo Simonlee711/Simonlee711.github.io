@@ -33,9 +33,9 @@ feature_row_left:
 
 # August 2022
 
-{% include figure image_path="images/august.jpg" alt="sample image" caption="Arrival in Switzerland" %}{: .align-left}
-{% include feature_row id="feature_row_left" type="left" %}
+{% include figure image_path="images/august.jpg" alt="sample image" caption="" %}{: .align-left}
 
+I recently arrived to Switzerland.
 
 
 ---
