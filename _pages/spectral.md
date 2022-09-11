@@ -104,7 +104,7 @@ transform equations:
 
 Doing so yields a similar equation like that of Discrete Fourier Transform. The Fast Fourier Transform can be seen as the following:
 
-\\[ X_k = \sum^{N/2-1}_{n=0} W^{kn} x_n + \sum^{N/2-1}_{n=0} W^{kn} x_n.\\]
+\\\[ X_k = \sum^{N/2-1}_{n=0} W^{kn} x_n + \sum^{N/2-1}_{n=0} W^{kn} x_n.\\\]
 
 To compute the FFT, we would perform two separate matrix-vector products of the \\( x_{n} \\)’s vectors multiplied
 to a matrix whose \\(k\\) and \\(n\\) elements is the the power to the W . This matrix vector product results into
