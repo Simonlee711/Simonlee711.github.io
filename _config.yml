@@ -117,7 +117,7 @@ author:
       icon: "fa fa-linkedin-in"
       url: "https://www.linkedin.com/in/simon-lee-307ba4172/"
     - label: "CV"
-      icon: "fa-solid fa-user"
+      icon: "<font-awesome-icon icon='far fa-file-pdf' />"
       url: "https://Simonlee711.github.io/files/Curriculum%20Vitae.pdf"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
