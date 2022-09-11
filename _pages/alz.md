@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "An data-efficient Alzheimer's disease predictor"
 header:
-  overlay_image: /images/IMG_9046.jpg
+  overlay_image: /images/mri.png
   caption: "Photo credit: Simon Lee"
 date: 2022-09-10
 
