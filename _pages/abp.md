@@ -25,7 +25,7 @@ Hypotension (a sustained decrease in blood pressure) within critical care patien
 
 # Keywords
 
-Arterial Blood Pressure, V-Net, Imputation, Deep Learning, Data Wrangling, Data Science
+Arterial Blood Pressure, 1D V-Net, Imputation, Deep Learning, Data Wrangling, Data Science
 
 ---
 
