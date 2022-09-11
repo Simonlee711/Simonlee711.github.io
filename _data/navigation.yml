@@ -37,8 +37,6 @@ docs2:
     children:
       - title: "Fermi-Pasta-Ulam-Tsingou"
         url: /fput/
-      - title: "Single-Cell Genomics"
-        url: /singlecell/
       - title: "Where's My Bread"
         url: /fmb/
   - title: "2020"

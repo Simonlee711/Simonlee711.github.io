@@ -397,7 +397,7 @@ However during the encoding, a list of codes were successfully generated to help
 
 {% endhighlight %}
 
-We can also see a clear compression that occurs when we observe our output. Our file went from \\(4.72mb\\) to \\( 1.33mb\\) which is a compression rate of \\( 71.89% \\) Finally in order to retrieve our original file we feed our binary file ```delta_variant.bin```, our list of codes and feed it back along with the huffman tree construction to get our original file.
+We can also see a clear compression that occurs when we observe our output. Our file went from \\(4.72mb\\) to \\( 1.33mb\\) which is a compression rate of \\( 71.89% \\) percent. Finally in order to retrieve our original file we feed our binary file ```delta_variant.bin```, our list of codes and feed it back along with the huffman tree construction to get our original file.
 
 {% highlight txt linenos %}
 
