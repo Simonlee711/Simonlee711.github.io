@@ -14,21 +14,21 @@ feature_row_left1:
     title: "Arterial Blood Pressure Imputer"
     excerpt: "Hypotension (a sustained decrease in blood pressure) within critical care patients is associated with a higher risk of mortality and other severe complications. Therefore we built a deep learning architecture that can predict future blood pressure."
     url: "https://simonlee711.github.io/abp/"
-    btn_label: "Read More about it"
+    btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left2:
   - image_path: /assets/splash2/2.jpg
     title: "Anime Recommendation System"
     excerpt: "Have you ever wanted to watch a show just like your favorite anime? Well look no further because using our content based anime recommendation system, you will get 5 reliable recommendations based on the synopsis. Our sources are from myanimelist.com"
     url: "https://simonlee711.github.io/blog/"
-    btn_label: "Read More about it"
+    btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left3:
   - image_path: /assets/splash2/3.png
     title: "Where's my Bread"
     excerpt: "Have you ever wondered how to build a video game from beginning to end? Well I built one using the PyGame game engine where I designed all characters using pixel art, coded up my own physics engine, and more."
     url: "https://simonlee711.github.io/photos/"
-    btn_label: "Read More about it"
+    btn_label: "Read More"
     btn_class: "btn--secondar"
 ---
 # Overview

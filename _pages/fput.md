@@ -47,7 +47,7 @@ There is nothing obsolete about this behavior, as long as our equation stays lin
 
 # The Simulation
 
-<iframe src="https://www.youtube.com/embed/=XB2yuHfzlXE&ab_channel=SimonLee" width="560" height="315" frameborder="0"> </iframe>
+<iframe src="https://www.youtube.com/embed/=XB2yuHfzlXE" width="560" height="315" frameborder="0"> </iframe>
 
 
 # Source Code
