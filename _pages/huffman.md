@@ -8,10 +8,10 @@ header:
   overlay_image: /images/huff.png
   caption: "Huffman Coding" 
 date: 2022-09-11
-
+comments: true
 sidebar:
   nav: "docs2"
-  
+
 feature_row_left1:
   - url: "https://github.com/Simonlee711/CSE-13S/tree/master/asgn6"
     btn_label: "Code"

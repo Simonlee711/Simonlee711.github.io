@@ -8,7 +8,7 @@ header:
   overlay_image: /images/fput.jpg
   caption: "Photo credit: Simon Lee"
 date: 2022-09-11
-
+comments: true
 sidebar:
   nav: "docs2"
 
