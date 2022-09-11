@@ -32,7 +32,7 @@ feature_row_left:
 ---
 
 # August 2022
-![image-left](images/august.jpg){: .align-left style="width: 10%;"}
+![image-left](/images/august.jpg){: .align-left style="width: 10%;"}
 
 I recently arrived to Switzerland.
 
