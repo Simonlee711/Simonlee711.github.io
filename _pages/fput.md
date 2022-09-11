@@ -6,7 +6,7 @@ classes: wide
 excerpt: "A unique Physics quasiliniear simulation"
 header:
   overlay_image: /images/projects/Fput.jpg
-  caption: "Photo credit: Simon Lee"
+  caption: "F.P.U.T."
 date: 2022-09-11
 comments: true
 sidebar:
