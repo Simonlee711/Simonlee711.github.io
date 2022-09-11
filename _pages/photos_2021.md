@@ -16,6 +16,8 @@ sidebar:
 
 If on a mobile device, I suggest you tilt your phone horizontally to get the timeline effect. Enjoy my 2021 year.
 
+![image-center](/images/phone.png){: .align-center style="width: 30%;"}
+
 ---
 
 # December 2021
