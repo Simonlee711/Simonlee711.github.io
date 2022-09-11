@@ -7,7 +7,7 @@ excerpt: "A video game created by Simon Lee"
 header:
   overlay_image: /images/sky_9046.jpg
   caption: "Where's my bread"
-date: 2022-09-10
+date: 2022-09-12
 sidebar:
   nav: "docs2"
 feature_row_left1:
@@ -28,7 +28,7 @@ Welcome to the 2D platformer created entirely by me titled **Where's My Bread**.
 
 # Design
 
-{% include figure image_path="images/0.png" alt="this is a placeholder image" caption="French Man" %}
+{% include figure image_path="images/1.png" alt="this is a placeholder image" caption="French Man" %}
 
 
 The longest part of the game development came from the art itself. Having to hand draw everything from the players, to the enemies, even to the backdrop of Paris and the Eiffel Tower took nearly two and a half weeks of work. I used the [Aesprite](https://www.aseprite.org/) software to draw everything. 
