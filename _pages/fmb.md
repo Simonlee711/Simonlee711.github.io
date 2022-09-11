@@ -198,7 +198,7 @@ In the above code segment just in the movement section alone, I had to engineer 
 
 </p>
 
-# AI
+# Enemy Artificial Intellegence
 
 
 When it came to the AI of the enemies, I installed cool down timers as a way of when to change directions while pacing back and forth. This was to ensure that the enemies never fall off the screen. There were also hidden hit boxes which would trigger the enemy to stop movement and launch an attack. The following Python function displays some the features implemented into the AI that made the game so much fun.
