@@ -94,7 +94,44 @@ whats being shown in summation equation.
 
 ## Fast Fourier Transform
 
+Now that we have laid out the mathematical foundation, we need to discuss how we get these results
+numerically. To that, we introduce the Fast Fourier Transform (FFT) which is one the most prominent
+algorithms that computes the DFT’s of any given time series data. This algorithm is a divide and conquer
+algorithm, where it divides up the signal into smaller signals, computes the DFT of the smaller signals, and
+joins them together. We therefore define W , as our complex number to simplify the the Discrete Fourier
+transform equations:
+
+\\[ W = e^{\frac{2 \pi i}{N}}. \\]
+
+To compute the FFT, we would perform two separate matrix-vector products of the \\( x_{n} \\)’s vectors multiplied
+to a matrix whose \\(k\\) and \\(n\\) elements is the the power to the W . This matrix vector product results into
+another vector whose entries are the \\(X_{k} \\) values [9]. Danielson and Lanczos, created this numerical method
+in which splitting up our DFT into two separate DFT’s \\( (N/2) \\)and summing them would produce the same
+result compared to one giant DFT. This completely changes the time complexity of such computations where
+a DFT is \\(O(n2)\\) while a FFT is \\(O(n log n)\\). This nearly linear time complexity was a breakthrough and this
+algorithm is one of the most widely used and prominent algorithms of the 20th century
+
 ## Power Spectrum Density
+
+Last of all, we want to talk about the Power Spectrum Density (PSD). A power spectrum \\(S_{xx}(f) \\) of a time
+series \\(x(t) \\) describes the distribution of power into a frequency that shows up in the form of a signal/impulse.
+[5] It is a popular method in Fourier analysis, and we can use it to see physical signals that are shot up over a
+periodic range. The reason we care about the PSD is because it will reveal frequencies which have the largest
+power to identify dominant periodic signals. Therefore in the context of our paper, we are looking to see
+what periodic signals (spikes) we can see within a range of time (seasons). The following can be computed
+with the below equation
+
+\\[ \text{PSD} = (\frac{1}{\omega*\text{len(covid data)}}) * abs(\text{X})^2 . \\]
+
+However, this still does not totally overcome our noise problem. In previous sections, we made an
+emphasis on how noisy Covid-19 data was. Even when converting it to a frequency domain, some of this
+noise is able to bypass the mitigation process and appear in our periodicity data. For this reason, many
+impulses are actually shot up in our PSD. But what is misleading is that almost all these signals are very
+minimal minus one or two impulses. So a popular trick in signal processing is to “denoise” our data by
+setting some threshold that will drown out those tiny signals. Our decision to drown out these mini signals
+was because by doing so we are killing the noise that may have gotten through [8]. This makes a more clear
+and easier interpretation and it will be useful in analyzing the possible seasonal trends we might see in the
+Covid-19 data.
 
 # Code
 
