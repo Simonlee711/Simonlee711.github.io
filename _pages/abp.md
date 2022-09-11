@@ -5,8 +5,8 @@ layout: single
 classes: wide
 excerpt: "deep learning model that predicts future blood pressure"
 header:
-  overlay_image: /images/IMG_9046.jpg
-  caption: "Photo credit: Simon Lee"
+  overlay_image: /images/ekg.jpg
+  caption: "ABP Imputation model"
 date: 2022-09-10
 
 feature_row_left1:

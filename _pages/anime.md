@@ -16,11 +16,6 @@ feature_row_left1:
   btn_label: "Code"
   btn_class: "btn--primary"
 ---
-# Collaborator
-
-Eugene Lee (eugenelee530@gmail.com)
-
----
 
 # Keywords: 
 
@@ -142,6 +137,12 @@ Step 1. Run the following Jupyter notebook
 ```
 anime_pipeline.ipynb
 ```
+
+---
+
+# Collaborator
+
+Eugene Lee (eugenelee530@gmail.com)
 
 ---
 
