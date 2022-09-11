@@ -244,7 +244,7 @@ This project was done in AM 170B at UC Santa Cruz taught by Professor Vanessa Jo
 
 ```data``` - folder where data generated is stored
 
-```mri_data_png`` - folder containing all the brain scans
+```mri_data_png``` - folder containing all the brain scans
 
 ```Alz_Predictor.ipynb``` - Jupyter notebook to run the CNN pipeline
 
