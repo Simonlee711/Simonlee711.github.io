@@ -8,6 +8,62 @@ header:
   overlay_image: /images/IMG_9046.jpg
   caption: "Photo credit: Simon Lee"
 date: 2022-09-10
+feature_row_left:
+  location         : "San Francisco Bay Area"
 ---
 
+# December 2022
 
+---
+
+# November 2022
+
+---
+
+# October 2022
+
+---
+
+# September 2022
+
+
+
+
+---
+
+# August 2022
+
+{% include figure image_path="images/august.jpg" alt="sample image" caption="Arrival in Switzerland" %}{: .align-left}
+{% include feature_row id="feature_row_left" type="left" %}
+
+
+
+---
+
+# July 2022
+
+---
+
+# June 2022
+
+---
+
+# May 2022
+
+---
+
+# April 2022
+
+---
+
+# March 2022
+
+---
+
+# February 2022
+
+---
+
+# January 2022
+
+---
