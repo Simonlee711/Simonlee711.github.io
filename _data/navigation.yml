@@ -29,7 +29,7 @@ docs2:
       - title: "Arterial Blood Pressure Imputer"
         url: /abp/
       - title: "Alzheimer's Disease Predictor"
-        url: /alz/
+        url: /projects/alz/
       - title: "Spectral Analysis of Covid-19"
         url: /spectral/
 

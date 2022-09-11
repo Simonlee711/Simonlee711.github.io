@@ -1,6 +1,6 @@
 ---
 title: "Alzheimer's Disease Classification"
-permalink: /alz/
+permalink: /projects/alz/
 layout: single
 classes: wide
 excerpt: "An data-efficient Alzheimer's disease predictor"
