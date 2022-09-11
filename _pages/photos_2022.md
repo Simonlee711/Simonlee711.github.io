@@ -45,7 +45,7 @@ Muhlebach, Switzerland | August 17, 2022
 ![image-left](/images/july3.jpg){: .align-left style="width: 20%;"}
 Baldwin Hills Scenic Overlook, Culver City | July 20, 2022
 
-![image-right](/images/july2.jpg){: .align-right style="width: 35%;"}
+![image-right](/images/july2.jpg){: .align-right style="width: 30%;"}
 Sawtelle, Los Angeles | July 21, 2022
 
 ![image-left](/images/july.jpg){: .align-left style="width: 20%;"}
@@ -63,24 +63,24 @@ West Cliff Drive, Santa Cruz | June 10, 2022
 
 ## May 2022
 
-![image-right](/images/may2.jpg){: .align-right style="width: 35%;"}
+![image-right](/images/may2.jpg){: .align-right style="width: 30%;"}
 Downtown, Santa Barbara | May 27, 2022
 
-![image-left](/images/may1.jpg){: .align-left style="width: 35%;"}
+![image-left](/images/may1.jpg){: .align-left style="width: 30%;"}
 Castro, San Francisco | May 1, 2022
 
 ---
 
 ## April 2022
 
-![image-right](/images/april.jpg){: .align-right style="width: 35%;"}
+![image-right](/images/april.jpg){: .align-right style="width: 3%;"}
 Natural Bridges, Santa Cruz | April 19, 2022
 
 ---
 
 ## March 2022
 
-![image-left](/images/march.jpg){: .align-left style="width: 35%;"}
+![image-left](/images/march.jpg){: .align-left style="width: 30%;"}
 
 675 Meder Street, Santa Cruz | March 11, 2022
 
