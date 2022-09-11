@@ -8,8 +8,8 @@ header:
   overlay_image: /images/IMG_9046.jpg
   caption: "Photo credit: Simon Lee"
 date: 2022-09-10
-feature_row_left:
-  location         : "San Francisco Bay Area"
+sidebar:
+  nav: "docs"
 ---
 
 ## December 2022
