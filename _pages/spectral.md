@@ -109,7 +109,7 @@ Now that we have laid out the mathematical foundation, we need to discuss how we
 numerically. To that, we introduce the Fast Fourier Transform (FFT) which is one the most prominent
 algorithms that computes the DFT’s of any given time series data. This algorithm is a divide and conquer
 algorithm, where it divides up the signal into smaller signals, computes the DFT of the smaller signals, and
-joins them together. We therefore define W , as our complex number to simplify the the Discrete Fourier
+joins them together. We therefore define \\(W\\) , as our complex number to simplify the the Discrete Fourier
 transform equations:
 
 \\[ W = e^{\frac{2 \pi i}{N}}. \\]
