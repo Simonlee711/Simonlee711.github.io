@@ -222,6 +222,10 @@ To evaluate the agreement between the gold standard invasive blood pressure meas
 
 ---
 
+## Ethical Approval and Patient Consent
+
+The institutional review board (IRB) of the Massachusetts Institute of Technology (Cambridge, MA) and Beth Israel Deaconess Medical Center (Boston, MA) approved the use of MIMIC-III for research, and the requirement for individual patient consent was waived because the project did not impact clinical care and all protected health information was de-identified. 
+
 # Code
 This project was done in part of the Bruin in Genomics Summer 2022 Internship at UCLA. I worked under Dr. Jeffrey Chiang, and was supervised by Dr. Akos Rudas. Below I will list the source files that were made in this assignment as well as the code linked below it.
 
