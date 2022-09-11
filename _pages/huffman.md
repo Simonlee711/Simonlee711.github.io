@@ -4,9 +4,9 @@ permalink: /huffman/
 layout: single
 # classes: wide
 excerpt: "An incredible compression algorithm"
-# header:
-#   overlay_image: /images/huff.png
-#   caption: "Huffman Coding" 
+header:
+  overlay_image: /images/huff.png
+  caption: "Huffman Coding" 
 date: 2022-09-11
 
 feature_row_left1:
@@ -15,7 +15,6 @@ feature_row_left1:
     btn_class: "btn--primary"
 ---
 
-{% include figure image_path="images/huff.png" alt="this is a placeholder image" caption="Some oscillating behaviors within non-linear system" %}
 
 # Keywords: 
 
