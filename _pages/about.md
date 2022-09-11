@@ -48,4 +48,6 @@ Some of my recent goals consist on becoming specialized in deep learning, and ha
 
 ---
 
+# Outside Interests
+
 

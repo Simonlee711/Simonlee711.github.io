@@ -24,7 +24,7 @@ docs:
 docs2:
   - title: "2022"
     children:
-      - title: "Anime Prediction System"
+      - title: "Anime Recommendation System"
         url: /anime/
       - title: "Arterial Blood Pressure Imputer"
         url: /abp/
