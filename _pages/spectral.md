@@ -136,6 +136,19 @@ was because by doing so we are killing the noise that may have gotten through [8
 and easier interpretation and it will be useful in analyzing the possible seasonal trends we might see in the
 Covid-19 data.
 
+# Data Availability
+
+We obtained the Covid-19 time-series data from [John Hopkins University's Center for Systems Sciences and Engineering](https://github.com/datasets/covid-19/blob/main/data/time-series-19-covid-combined.csv). We used Covid cases data from March 5th, 2020 all the way up until February 7th, 2022. We used a start date of March 5th because most countries did not experience a patient zero until then. In order to see whether there is some endemic like behaviour, we must take into account the difference in seasons that occur naturally from the northern and southern hemispheres. Therefore we take a deeper look into 4 countries from each respective hemisphere: Argentina (Southern), Brazil (Southern), India (Northern), Indonesia (Southern), Russia (Northern), South Africa (Southern), United Kingdom (Northern), & The United States of America (Northern). The selection of these countries was motivated by mainly their population size as well as the countries that experienced the worst outbreaks during Covid. With our original hypothesis that winter is the worst  for infections, we want to see whether these claims are true within both hemispheres. 
+
+# Methods
+
+
+First, we took our daily cases time series and converted it into a weekly time series. We did this to mitigate some early noise within the data. Computationally we achieved this by writing a basic python script that would extract the data from the CSV files and store the dates as well as the case counts in separate lists. We repeated this process until we extracted all the daily case counts for each country. Next, we converted our daily case counts to weekly and we accomplished this by simply taking the summation of the case numbers and storing this into another list. We reset our summation every time our index hits a modulus of 7.
+
+We then ran the Fast Fourier Transform (FFT) algorithm on our weekly time series data to get it into a frequency domain. We used the SciPy inbuilt FFT routine to extract the frequency power spectrum. Our python script as well as all our data is stored on Github and linked below the title. 
+
+
+
 # Code
 
 {% include feature_row id="feature_row_left1" type="left" %}
