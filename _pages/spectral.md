@@ -83,7 +83,8 @@ are given whereas in a function, we have a determined values governed by the dep
 Discrete Fourier transform, it takes a data set and transforms it into another data set that contains the
 Fourier coefficients. The Fourier coefficients are computed in the following way:
 
-\\[ X_k = X_0, X_1, X_1, X_2, ...... X_N, \\ X_k = \sum^{N-1}_{n=0} x_n e^{\frac{-2 \pi i (kn)}{N}} = \sum^{N-1}_{n=0} x_n [\cos(\frac{2 \pi kn}{N})-i \sin(\frac{2 \pi kn}{N})] \\]
+\\[ X_k = X_0, X_1, X_1, X_2, ...... X_N, \\] 
+\\[ X_k = \sum^{N-1}_{n=0} x_n e^{\frac{-2 \pi i (kn)}{N}} = \sum^{N-1}_{n=0} x_n [\cos(\frac{2 \pi kn}{N})-i \sin(\frac{2 \pi kn}{N})] \\]
 
 where N is the total number of samples and n is the current sample. We also see the value k which is the
 current frequency within the boundaries \\( k ∈ [0, N − 1] \\) and xn which is the value of the current sample.
@@ -101,7 +102,7 @@ transform equations:
 
 \\[ W = e^{\frac{2 \pi i}{N}}. \\]
 
-Doing so yields a similar equation like that of Eq. (\ref{eq: 2}). The Fast Fourier Transform can be seen as the following:
+Doing so yields a similar equation like that of Discrete Fourier Transform. The Fast Fourier Transform can be seen as the following:
 
 \\[X_k = \sum^{N/2-1}_{n=0} W^{kn} x_n + \sum^{N/2-1}_{n=0} W^{kn} x_n.\\]
 
