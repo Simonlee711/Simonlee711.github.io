@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "A video game created by Simon Lee"
 header:
-  overlay_image: /images/sky_9046.jpg
+  overlay_image: /images/sky.png
   caption: "Where's my bread"
 date: 2022-09-12
 sidebar:
