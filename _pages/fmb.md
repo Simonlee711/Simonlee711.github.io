@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "A video game created by Simon Lee"
 header:
-  overlay_image: /images/sky.png
+  overlay_image: /images/projects/sky.png
   caption: "Where's my bread"
 date: 2022-09-12
 sidebar:
@@ -16,20 +16,20 @@ feature_row_left1:
     btn_class: "btn--primary"
 ---
 <p float="left">
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -38,20 +38,20 @@ feature_row_left1:
 Pygame, Game Dev, Physics Engine, Artifical Intellegence
 
 <p float="left">
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -66,20 +66,20 @@ Welcome to the 2D platformer created entirely by me titled **Where's My Bread**.
 The longest part of the game development came from the art itself. Having to hand draw everything from the players, to the enemies, even to the backdrop of Paris and the Eiffel Tower took nearly two and a half weeks of work. I used the [Aesprite](https://www.aseprite.org/) software to draw everything. Truth is the character design is widely inspired and has the same dimensions from one of my favorite vide games, Madelin from [*Celeste*](https://store.steampowered.com/app/504230/Celeste/). 
 
 <p float="left">
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" />
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" />  
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" />
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" />  
 
 </p>
 
@@ -181,20 +181,20 @@ def move(self, moving_left, moving_right):
 In the above code segment just in the movement section alone, I had to engineer how movement worked, how gravity worked, the height of jumping, checking collision between immobile objects (floors, walls), checking for collision with water/cars (instant death), how the game would react if I fell off the screen, as well as have a continuous scrolling feature since that looked real since the background is not fixed. 
 
 <p float="left">
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -247,20 +247,20 @@ When it came to the AI of the enemies, I installed cool down timers as a way of 
 {% endhighlight %}
 
 <p float="left">
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -289,20 +289,20 @@ This was an independent project done in the summer of 2021. Building a game from
 {% include feature_row id="feature_row_left1" type="left" %}
 
 <p float="left">
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/1.png" width="37" />
-  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/projects/splash2/3.png" width="80" /> 
 
 </p>
 

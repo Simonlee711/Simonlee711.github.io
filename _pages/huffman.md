@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "An incredible compression algorithm"
 header:
-  overlay_image: /images/huff.png
+  overlay_image: /images/projects/huff.png
   caption: "Huffman Coding" 
 date: 2022-09-11
 comments: true

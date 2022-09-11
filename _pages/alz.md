@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "An data-efficient Alzheimer's disease predictor"
 header:
-  overlay_image: /images/mri.png
+  overlay_image: /images/projects/mri.png
   caption: "Photo credit: Simon Lee"
 date: 2022-09-11
 sidebar:
@@ -94,7 +94,7 @@ strength to get the most clear images for our image analysis.
 
 # Model 
 
-{% include figure image_path="images/model.png" alt="this is a placeholder image" caption="CNN Architecture" %}
+{% include figure image_path="images/projects/model.png" alt="this is a placeholder image" caption="CNN Architecture" %}
 
 Now we begin explaining our model that we will use to train for accurate prediction. As seen in the above figure, we can see that a lot is going on before we reach our prediction stage. Therefore in the preceding subsubsections we will break down the processes that goes on within our CNN model.
 
@@ -108,7 +108,7 @@ One of the first major steps during the pre-processing was to convert our MRI sc
 
 In addition to our file format conversion, we also normalized our image data because some of the MRI scans come at varying qualities. Neural networks process inputs using small weight values, and inputs with large integer values can disrupt or slow down the learning process (Brownlee et al. 2019). As such it is good practice to normalize the pixel values so that each pixel value has a value between 0 and 1. Additionally we also converted the shape of the image to 224 x 224 x 3 which will make it really easy to feed into our Convolutional Neural Network. Our data can be visualized as seen in the below figure.
 
-{% include figure image_path="images/data_vis.png" alt="this is a placeholder image" caption="Our labeled brain data" %}
+{% include figure image_path="images/projects/data_vis.png" alt="this is a placeholder image" caption="Our labeled brain data" %}
 
 Lastly as part of the preprocessing step we split our images into testing, validation, and training sets.
 We manually performed this split and came to the following breakdown: 1568 images for the training set,

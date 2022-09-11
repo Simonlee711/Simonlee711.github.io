@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "A unique Physics quasiliniear simulation"
 header:
-  overlay_image: /images/fput.jpg
+  overlay_image: /images/projects/fput.jpg
   caption: "Photo credit: Simon Lee"
 date: 2022-09-11
 comments: true
@@ -50,7 +50,7 @@ In order to solve this particular equation second order ODE, we must find a nume
 
 It is important to know that this equation that resembles how we advance our solutions through time has a linear and non linear component. In the linear component we set our \\(\alpha\\) to be equal to 0. Doing so we will have a normal behavior where the string of masses will simply oscillate up and down without any surprises. 
 
-{% include figure image_path="images/fput.jpg" alt="this is a placeholder image" caption="Some oscillating behaviors within non-linear system" %}
+{% include figure image_path="images/projects/fput.jpg" alt="this is a placeholder image" caption="Some oscillating behaviors within non-linear system" %}
 
 There is nothing obsolete about this behavior, as long as our equation stays linear, the bahvior of the masses on a string will remain consistent. However lets revisit if we include an \\( \alpha \\) value that is not equal to 0. As mentioned in the Preface, Fermi, Pasta, Ulam, and Tsingou thought that the behavior would not follow any certain pattern. However as they ran the simulation they were shocked to find that their was a pattern within this non-linear system. As to why this occurs remains an active part of research but it is odd but amazing how this system in particular behaves.
 
