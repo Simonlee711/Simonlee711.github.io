@@ -17,19 +17,19 @@ feature_row_left1:
 ---
 <p float="left">
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -39,19 +39,19 @@ Pygame, Game Dev, Physics Engine, Artifical Intellegence
 
 <p float="left">
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -67,19 +67,19 @@ The longest part of the game development came from the art itself. Having to han
 
 <p float="left">
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" />
+  <img src="/assets/splash2/3.png" width="80" />
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" />  
+  <img src="/assets/splash2/3.png" width="80" />  
 
 </p>
 
@@ -182,19 +182,19 @@ In the above code segment just in the movement section alone, I had to engineer 
 
 <p float="left">
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -248,19 +248,19 @@ When it came to the AI of the enemies, I installed cool down timers as a way of 
 
 <p float="left">
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -290,19 +290,19 @@ This was an independent project done in the summer of 2021. Building a game from
 
 <p float="left">
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets//splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/projects/1.png" width="37" />
-  <img src="/assets/projects/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
 
 </p>
 
