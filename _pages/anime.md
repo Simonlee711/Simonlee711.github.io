@@ -100,6 +100,8 @@ Let’s say x and y are two components. If an anime talks about a high school lo
 
 {% include figure image_path="images/projects/cosine-sim.png" alt="this is a placeholder image" caption="Cosine Similarity ranks the 5 highest similar animes based on the anime in the title" %}
 
+And there we have it, an anime recommendation system!. Without a doubt this pipeline could be run on a large amount of datasets like books, movies, tv shows, etc. All you have to do is make sure you have something that the BERT model can encode into a numerical vector. 
+
 ---
 
 # Code
