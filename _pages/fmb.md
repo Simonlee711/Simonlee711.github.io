@@ -33,20 +33,17 @@ The longest part of the game development came from the art itself. Having to han
 <p float="left">
   <img src="/images/1.png" width="37" />
   <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/2.png" width="37" />
-  <img src="/images/3.png" width="37" />
+  <img src="/images/2.png" width="100" />
+  <img src="/images/3.png" width="45" />
   <img src="/images/1.png" width="37" />
   <img src="/assets/splash2/3.png" width="80" /> 
-  <img src="/images/2.png" width="37" />
-  <img src="/images/3.png" width="37" />
+  <img src="/images/2.png" width="100" />
+  <img src="/images/3.png" width="45" />
 </p>
 
-
-
-
-
-
 # Physics Engine
+
+Creating a video game make you question a lot about what we take for granted. In the context of games, that is all of physics from the amount of time we can jump once we hit the floor, to understanding what exactly is a "floor"? One of the best aspects of creating this game was being able to customize how much I could 
 
 # AI
 
