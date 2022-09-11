@@ -91,7 +91,7 @@ If on a mobile device, I suggest you tilt your phone horizontally to get the tim
 ![image-left](/images/2022/july6.jpg){: .align-left style="width: 30%;"}
 #### BJ's Westwood, Los Angeles 
 #### July 1, 2022
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ---
 
