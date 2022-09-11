@@ -26,79 +26,91 @@ sidebar:
 
 ## September 2022
 
-![image-left](/images/Sep.jpg){: .align-left style="width: 20%;"}
-#### Eiffel Tower, Paris | September 3, 2022
+![image-left](/images/2022/Sep.jpg){: .align-left style="width: 20%;"}
+#### Eiffel Tower, Paris 
+#### September 3, 2022
 <br/><br/><br/><br/>
 
 ---
 
 ## August 2022
-![image-right](/images/august.jpg){: .align-right style="width: 20%;"}
-#### Muhlebach, Switzerland | August 17, 2022
+![image-right](/images/2022/august.jpg){: .align-right style="width: 20%;"}
+#### Muhlebach, Switzerland 
+#### August 17, 2022
 <br/><br/><br/><br/>
 
 ---
 
 ## July 2022
 
-![image-left](/images/july3.jpg){: .align-left style="width: 20%;"}
-#### Baldwin Hills Scenic Overlook, Culver City | July 20, 2022
+![image-left](/images/2022/july3.jpg){: .align-left style="width: 20%;"}
+#### Baldwin Hills Scenic Overlook, Culver City 
+#### July 20, 2022
 <br/><br/><br/><br/>
 
-![image-right](/images/july2.jpg){: .align-right style="width: 30%;"}
-#### Sawtelle, Los Angeles | July 21, 2022
+![image-right](/images/2022/july2.jpg){: .align-right style="width: 30%;"}
+#### Sawtelle, Los Angeles 
+#### July 21, 2022
 <br/><br/><br/><br/>
 
-![image-left](/images/july.jpg){: .align-left style="width: 20%;"}
-#### Westwood, Los Angeles | July 11, 2022
+![image-left](/images/2022/july.jpg){: .align-left style="width: 20%;"}
+#### Westwood, Los Angeles 
+#### July 11, 2022
 <br/><br/><br/><br/>
 
 ---
 
 ## June 2022
 
-![image-right](/images/june.jpg){: .align-right style="width: 20%;"}
-#### Santa Monica Pier, Santa Monica | June 30, 2022
+![image-right](/images/2022/june.jpg){: .align-right style="width: 20%;"}
+#### Santa Monica Pier, Santa Monica 
+#### June 30, 2022
 <br/><br/><br/><br/>
 
-![image-left](/images/june2.jpg){: .align-left style="width: 20%;"}
-#### West Cliff Drive, Santa Cruz | June 10, 2022
+![image-left](/images/2022/june2.jpg){: .align-left style="width: 20%;"}
+#### West Cliff Drive, Santa Cruz 
+#### June 10, 2022
 <br/><br/><br/><br/>
 
 ---
 
 ## May 2022
 
-![image-right](/images/may2.jpg){: .align-right style="width: 30%;"}
-#### Downtown, Santa Barbara | May 27, 2022
+![image-right](/images/2022/may2.jpg){: .align-right style="width: 30%;"}
+#### Downtown, Santa Barbara 
+##### May 27, 2022
 <br/><br/><br/><br/>
 
-![image-left](/images/may1.jpg){: .align-left style="width: 30%;"}
-#### Castro, San Francisco | May 1, 2022
+![image-left](/images/2022/may1.jpg){: .align-left style="width: 30%;"}
+#### Castro, San Francisco 
+#### May 1, 2022
 <br/><br/><br/><br/>
 
 ---
 
 ## April 2022
 
-![image-right](/images/april.jpg){: .align-right style="width: 30%;"}
-#### Natural Bridges, Santa Cruz | April 19, 2022
+![image-right](/images/2022/april.jpg){: .align-right style="width: 30%;"}
+#### Natural Bridges, Santa Cruz 
+#### April 19, 2022
 <br/><br/><br/><br/>
 
 ---
 
 ## March 2022
 
-![image-left](/images/march.jpg){: .align-left style="width: 30%;"}
-#### 675 Meder Street, Santa Cruz | March 11, 2022
+![image-left](/images/2022/march.jpg){: .align-left style="width: 30%;"}
+#### 675 Meder Street, Santa Cruz 
+#### March 11, 2022
 <br/><br/><br/><br/>
 
 ---
 
 ## January 2022
 
-![image-right](/images/jan.jpg){: .align-right style="width: 20%;"}
-#### Davenport Beach | January 28, 2022
+![image-right](/images/2022/jan.jpg){: .align-right style="width: 20%;"}
+#### Davenport Beach 
+#### January 28, 2022
 <br/><br/><br/><br/>
 
 ---
