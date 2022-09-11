@@ -291,3 +291,5 @@ Then run command
 ```
 python3 paris.py
 ```
+
+{% include figure image_path="images/tower.png" alt="this is a placeholder image" caption="Au Revoir" %}
