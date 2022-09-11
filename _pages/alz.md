@@ -288,8 +288,7 @@ ease using Volumetric Convolutional Neural Network and Transfer Learning . Sci R
 biotechnology vol. 8 534592. [doi:10.3389/fbioe.2020.534592](doi:10.3389/fbioe.2020.534592)
 
 [8] Habibi, Aghdam, Hamed (2017-05-30). Guide to convolutional neural networks : a practical appli-
-cation to traffic-sign detection and classification. Heravi, Elnaz Jahani. Cham, Switzerland. ISBN
-9783319575490. OCLC 987790957.
+cation to traffic-sign detection and classification. Heravi, Elnaz Jahani. Cham, Switzerland. ISBN 9783319575490. OCLC 987790957.
 
 [9] Biscione, V. and Bowers, J (2021). Convolutional Neural Networks are not invariant to translation, but
 they can learn to be. [https://openreview.net/forum?id=WUTkGqErZ9](https://openreview.net/forum?id=WUTkGqErZ9)
