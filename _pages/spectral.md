@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "A spectral viewpoint of the ongoing Covid-19 endemic argument"
 header:
-  overlay_image: /images/fft.png
+  overlay_image: /images/projects/fft.png
   caption: "Spectral Analysis on Covid-19"
 date: 2022-09-10
 sidebar:
