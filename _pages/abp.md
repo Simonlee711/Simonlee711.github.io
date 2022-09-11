@@ -135,7 +135,7 @@ This project was done in part of the Bruin in Genomics Summer 2022 Internship at
 
 1. Run the jupyter notebook
 ```
-abp.imputer.ipynb
+abp_imputer.ipynb
 ```
 
 ---

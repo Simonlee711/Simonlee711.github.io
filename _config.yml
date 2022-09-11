@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:simonlee711@gmail.com"
     - label: "Linkedin"
-      icon: "fa-brands fa-linkedin"
+      icon: <i class="fa fa-linkedin-in"></i>
       url: "https://www.linkedin.com/in/simon-lee-307ba4172/"
     - label: "CV"
       icon: "fa-solid fa-user"
