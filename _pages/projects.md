@@ -20,14 +20,14 @@ feature_row_left2:
   - image_path: /assets/splash2/2.jpg
     title: "Anime Recommendation System"
     excerpt: "Have you ever wanted to watch a show just like your favorite anime? Well look no further because using our content based anime recommendation system, you will get 5 reliable recommendations based on the synopsis. Our sources are from myanimelist.com"
-    url: "https://simonlee711.github.io/blog/"
+    url: "https://simonlee711.github.io/anime/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left3:
   - image_path: /assets/splash2/3.png
     title: "Where's my Bread"
     excerpt: "Have you ever wondered how to build a video game from beginning to end? Well I built one using the PyGame game engine where I designed all characters using pixel art, coded up my own physics engine, and more."
-    url: "https://simonlee711.github.io/photos/"
+    url: "https://simonlee711.github.io/fmb/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
 ---
