@@ -6,7 +6,7 @@ classes: wide
 excerpt: "An data-efficient Alzheimer's disease predictor"
 header:
   overlay_image: /images/projects/mri.png
-  caption: "Photo credit: Simon Lee"
+  caption: "Alzheimer's classification system"
 date: 2022-09-11
 sidebar:
   nav: "docs2"
