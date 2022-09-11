@@ -3,7 +3,7 @@ title: "Arterial Blood Pressure Imputer"
 permalink: /projects/abp/
 layout: single 
 classes: wide
-excerpt: "deep learning model that predicts future blood pressure"
+excerpt: "Deep learning model that predicts future blood pressure"
 header:
   overlay_image: /images/ekg.png
   caption: "ABP Imputation model"
