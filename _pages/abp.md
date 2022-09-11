@@ -76,7 +76,7 @@ My main objective during the 2022 summer was to take the current imputer model a
 
 ## Data Wrangling
 
-{% include figure image_path="images/goal.jpg" alt="this is a placeholder image" caption=This is the overview of the data preparation"" %}
+{% include figure image_path="images/goal.jpg" alt="this is a placeholder image" caption="This is the overview of the data preparation" %}
 
 The first step was to scrape the EHR for these vasopressor information. The five vasopressors we looked at specifically were:     Epinephrine, Dobutamine, Dopamine, Phenylephrine, Norepinephrine. However part of the challenge was finding out which code associated with which drug. In the healthcare industry most items were masked with a numerical ID for privacy reasons so first step was going through ```D_items.csv``` to extract the 5 numerical ID's. Next we needed to look through ```INPUTEVENTS_MV.csv``` which contained *which patients got what drug*, *the time stamps of administration*, *the end time stamp of administration*, and the *dosage* of the vasopressor. 
 
@@ -94,7 +94,7 @@ Writing in the drug columns turned out to be the biggest pain in the a$$ and end
 
 One of the most valuable skills I was taught this summer was how to run code in parallel. And since the ```halperingpu``` had up to 80 gpu cores, I was allowed to use up to 20 of them. In addition I became inspired by the TV show "Silicon Valley" where they make an optimized compression algorithm called mid-out. Similarly I was going to start at the first and last patients data files and meet in the middle. A visual is displayed below:
 
-{% include figure image_path="images/parallel.jpg" alt="this is a placeholder image" caption="A procedure" %}
+{% include figure image_path="images/parallel.jpg" alt="this is a placeholder image" caption="A procedure inspired by *Silicon Valley* to make drug columns" %}
 
 The large idea was that if I could write out the drug columns and save that entry within a ```lockfile.lock``` then we could keep the progress of which files have been written into and which have not. Therefore using this Silicon valley inspired parallelized function I ran it.  and it still took nearly two weeks until it was finished... The code is shown below:
 
