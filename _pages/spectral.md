@@ -123,7 +123,7 @@ to a matrix whose \\(k\\) and \\(n\\) elements is the the power to the W . This 
 another vector whose entries are the \\(X_{k} \\) values [9]. Danielson and Lanczos, created this numerical method
 in which splitting up our DFT into two separate DFT’s \\( (N/2) \\)and summing them would produce the same
 result compared to one giant DFT. This completely changes the time complexity of such computations where
-a DFT is \\(O(n2)\\) while a FFT is \\(O(n log n)\\). This nearly linear time complexity was a breakthrough and this
+a DFT is \\(O(n^{2})\\) while a FFT is \\(O(n log n)\\). This nearly linear time complexity was a breakthrough and this
 algorithm is one of the most widely used and prominent algorithms of the 20th century
 
 ---
