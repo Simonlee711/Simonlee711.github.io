@@ -28,9 +28,6 @@ Welcome to the 2D platformer created entirely by me titled **Where's My Bread**.
 
 # Design
 
-{% include figure image_path="images/1.png" alt="this is a placeholder image" caption="French Man" %}
-
-
 The longest part of the game development came from the art itself. Having to hand draw everything from the players, to the enemies, even to the backdrop of Paris and the Eiffel Tower took nearly two and a half weeks of work. I used the [Aesprite](https://www.aseprite.org/) software to draw everything. Truth is the character design is widely inspired and has the same dimensions to Madelin from *Celeste*. 
 
 <p float="left">
