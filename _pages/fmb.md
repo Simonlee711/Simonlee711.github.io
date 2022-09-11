@@ -15,10 +15,28 @@ feature_row_left1:
     btn_label: "Code"
     btn_class: "btn--primary"
 ---
+<p float="left">
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+
+</p>
 
 # Keywords
 
-Pygame, Game Dev, Physics Engine, AI
+Pygame, Game Dev, Physics Engine, Artifical Intellegence
 
 <p float="left">
   <img src="/images/1.png" width="37" />
