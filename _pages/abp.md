@@ -17,6 +17,9 @@ feature_row_left1:
   - url: "https://Simonlee711.github.io/files/Poster.pdf"
     btn_label: "Poster"
     btn_class: "btn--primary"
+  - url: "https://Simonlee711.github.io/files/BIG%20Summer%20Project.pdf"
+    btn_label: "Slides"
+    btn_class: "btn--primary"
 ---
 
 
