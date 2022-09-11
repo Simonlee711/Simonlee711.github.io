@@ -186,7 +186,7 @@ With all that, we stand with the data that does not support classifying Covid-19
 
 # Code
 
-This project was done in AM 170B at UC Santa Cruz taught by Professor Pascale Gaurud. Below I will list the source files that were made in this assignment as well as the code linked below it.
+This project was done in AM 170A at UC Santa Cruz taught by Professor Pascale Gaurud. Below I will list the source files that were made in this assignment as well as the code linked below it.
 
 ```figures``` - folder where figures are saved
 
