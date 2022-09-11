@@ -32,9 +32,9 @@ feature_row_left:
 ---
 
 # August 2022
-![image-left](/images/august.jpg){: .align-left style="width: 10%;"}
+![image-left](/images/august.jpg){: .align-left style="width: 30%;"}
 
-I recently arrived to Switzerland.
+I recently arrived to Switzerland to pursue my graduate degree. However I moved in over a month early and took a trip to Interlaken with my family. We found this cool bridge that hung between two cliffside at a place called *Muhlebach*. 
 
 
 ---
