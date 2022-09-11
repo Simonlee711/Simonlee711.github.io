@@ -26,13 +26,13 @@ sidebar:
 
 ## September 2022
 
-![image-right](/images/Sep.jpg){: .align-right style="width: 20%;"}
+![image-left](/images/Sep.jpg){: .align-left style="width: 20%;"}
 Eiffel Tower, Paris | September 3, 2022
 
 ---
 
 ## August 2022
-![image-left](/images/august.jpg){: .align-left style="width: 20%;"}
+![image-right](/images/august.jpg){: .align-right style="width: 20%;"}
 Muhlebach, Switzerland | August 17, 2022
 
 
