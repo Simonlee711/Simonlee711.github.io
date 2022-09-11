@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "A spectral viewpoint of the ongoing Covid-19 endemic argument"
 header:
-  overlay_image: /images/fput.jpg
+  overlay_image: /images/fft.png
   caption: "Photo credit: Simon Lee"
 date: 2022-09-10
 sidebar:
@@ -18,7 +18,83 @@ feature_row_left1:
 
 # Abstract 
 
-  The Covid-19 pandemic has been a global issue for well over 2 years. However, recent reports suggests that it may be coming to an end with health officials claiming to treat it as a ``seasonal" endemic. Therefore to test the accuracy of these claims, our research runs time and spectral analysis on 8 countries Covid-19 time-series [data](https://github.com/datasets/covid-19/blob/main/data/time-series-19-covid-combined.csv). Our results reveal that the northern and southern hemisphere countries exhibit a series of outbreaks at the same time, strongly implying that there is no seasonal effect. In addition it also shows that outbreaks tend to occur bi-annually which also shows that it is very much still a pandemic. Therefore our data/analysis is potentially controversial as it disagrees with health officials and we strongly suggest it is premature to claim an end to this pandemic. 
+The Covid-19 pandemic has been a global issue for well over 2 years. However, recent reports suggests that it may be coming to an end with health officials claiming to treat it as a ``seasonal" endemic. Therefore to test the accuracy of these claims, our research runs time and spectral analysis on 8 countries Covid-19 time-series [data](https://github.com/datasets/covid-19/blob/main/data/time-series-19-covid-combined.csv). Our results reveal that the northern and southern hemisphere countries exhibit a series of outbreaks at the same time, strongly implying that there is no seasonal effect. In addition it also shows that outbreaks tend to occur bi-annually which also shows that it is very much still a pandemic. Therefore our data/analysis is potentially controversial as it disagrees with health officials and we strongly suggest it is premature to claim an end to this pandemic. 
+
+# Keywords 
+
+Spectral Analysis, Fast Fourier Transforms, Signals Processing, Covid-19 Time series analysis
+
+# Introduction
+
+As of today, the Covid-19 pandemic has stretched out for over two-plus years. And recently major news
+outlets have made the bold claim that the Covid-19 “pandemic” is coming to an end. In December 2021
+CDC director Rochelle Walensky said, “We have seen now that this is likely to become a seasonal endemic
+disease here in the United States and really around the world” [1]. This news headline is among one of
+many globally that are claiming an end to the pandemic and a start to an endemic. Many local governments
+have since acted upon these claims by lifting mask mandates and returning to normalcy. However, we are
+interested in challenging these claims to see if this is truly the direction in which this global pandemic is
+trending. Luckily with the accumulation of 2 years of daily cases data, we can test these claims using tools
+of mathematical analysis to assess our current status. So in this paper, we wish to explore the following
+questions: Is there a seasonal trend in the COVID-19 pandemic? If so, can we call this a seasonal endemic
+like the CDC suggests?
+
+In order to answer this question we first must define what a “seasonal endemic” and “pandemic” is. In
+the context of this paper we will define a seasonal endemic as a disease outbreak that occurs consistently in
+a limited season. By contrast we will define a pandemic as a disease outbreak that is prevalent globally at
+any time. So in order to arrive at an answer, we wish to explore the COVID-19 cases time series data of 8
+countries (4 from the northern hemisphere & 4 from the southern hemisphere) and see whether there tends
+to be “Covid spikes” in specific seasons. Through these Covid spikes we will determine from there whether
+they satisfy the conditions of an endemic, or a pandemic. In order to collect our data, we plan on running
+Fourier analysis to extract periodic trends and apply it with context to our time series data.
+
+# Spectral Analysis
+
+What is spectral analysis? In the simplest terms, it’s a method of observing spectra that appear within
+frequencies. [2]. Especially when modeling pandemics, time-series data tends to show a periodic behavior.
+For this reason our main objective is to get our data into spectra in order to measure the magnitude of an
+input versus just a signal frequency. But first in order to do so, we must understand the difference between
+the time and frequency domains. The time domain is typically some dynamical system that generates an
+output within an evenly spaced amount of time. In terms of our data, we are specifically counting the weekly
+cases that were recorded. Next, we have the frequency domain which is an analytical space in which “signals”
+or “impulses” are conveyed in terms of frequencies.
+
+The main advantage to observing our data in terms of the frequency domain is because Covid-19 data
+contains noise. Noise is often associated with entropy or uncertainty and in short, it means there is some
+corruption to the data [3]. Unfortunately, Covid-19 data is among some of the noisiest data and we need
+a better way to see patterns within our time series data. So while we can observe Covid spikes in the time
+domain, we may not truly understand the trends of Covid-19 in this general approach. Especially since
+Covid cases are very subject to how much testing is done, whether the test is accurate (false positives, false
+negatives), as well as how cases are not reported on weekends, we see our data fluctuate substantially from
+week to week. Therefore using spectral analysis, we get the advantage of observing strong periodic impulses
+that you cannot get from a time series approach. Hence, we can use this method to see whether there is a
+seasonal effect with Covid-19.
+
+# Mathematical Background
+
+We now provide more detail into the methods by which we will obtain our results. In this subsection, we
+will discuss Discrete Fourier Transforms (DFT), Fast Fourier Transforms (FFT), and the Power Spectrum
+Density (PSD).
+
+## Discrete Fourier Transform
+
+The fundamental concept behind the Discrete Fourier Transforms is that it takes a data set instead of
+a function like your typical Fourier Transform. Because we are working with a time series, all the numbers
+are given whereas in a function, we have a determined values governed by the dependent variable. In a
+Discrete Fourier transform, it takes a data set and transforms it into another data set that contains the
+Fourier coefficients. The Fourier coefficients are computed in the following way:
+
+\\[ X_k = X_0, X_1, X_1, X_2, ...... X_N, \\]
+
+\\[         X_k = \sum^{N-1}_{n=0} x_n e^{\frac{-2 \pi i (kn)}{N}} = \sum^{N-1}_{n=0} x_n [\cos(\frac{2 \pi kn}{N})-i \sin(\frac{2 \pi kn}{N})] \\]
+
+where N is the total number of samples and n is the current sample. We also see the value k which is the
+current frequency within the boundaries k ∈ [0, N − 1] and xn which is the value of the current sample.
+With all those parts we compute the vector Xk which produces a complex number (a + ib) whose entries are
+whats being shown in summation equation.
+
+## Fast Fourier Transform
+
+## Power Spectrum Density
 
 # Code
 
