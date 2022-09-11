@@ -7,7 +7,7 @@ excerpt: "A unique Physics quasiliniear simulation"
 header:
   overlay_image: /images/fput.jpg
   caption: "Photo credit: Simon Lee"
-date: 2022-09-10
+date: 2022-09-11
 
 feature_row_left1:
   - url: "https://github.com/Simonlee711/Research/tree/master/Fermi-Pasta-Ulam-Tsongu"
