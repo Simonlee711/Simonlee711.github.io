@@ -1,5 +1,5 @@
 ---
-title: "Optimized Alzheimer's Disease Diagnostics Machine"
+title: "Alzheimer's Disease Classification"
 permalink: /alz/
 layout: single
 classes: wide
