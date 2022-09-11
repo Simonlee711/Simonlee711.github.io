@@ -109,7 +109,7 @@ Let’s say x and y are two components. If an anime talks about a high school lo
 
 # Code
 
-This project was done in CSE13-S at UC Santa Cruz taught by Professor Darrell Long. Below I will list the source files that were made in this assignment as well as the code linked below it.
+This project was done independently with the collaborations of Eugene Lee. 
 
 ```anime.csv``` - original dataset from kaggle.
 
