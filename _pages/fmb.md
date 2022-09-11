@@ -8,7 +8,8 @@ header:
   overlay_image: /images/sky_9046.jpg
   caption: "Where's my bread"
 date: 2022-09-10
-
+sidebar:
+  nav: "docs2"
 feature_row_left1:
   - url: "https://github.com/Simonlee711/Basic_Game"
     btn_label: "Code"
