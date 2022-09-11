@@ -183,7 +183,7 @@ if __name__ == "__main__":
 
 {% endhighlight %}
 
-## retrain model
+## Retrain model
 
 Last part of my summer was to simply retrain the imputer model with this new data that I had generated. Everything was essentially written within ```abp_imputer.ipynb``` and all I had to do was change the ```git_configs.py``` and ```abp_model.py``` files so that it took in the correct amount of features. However due to time constraints, I was unable to test on the 4000+ patient files I generated in the summer. We couldn't find a way to load the data and training would have taken an extremely long time if I had trained on the whole patient sample. Therefore Dr. Akos Rudas and Dr. Jeffrey Chiang are currently working on working on those two aspects that I could not. Our hope is to release a published paper after its completion.
 
