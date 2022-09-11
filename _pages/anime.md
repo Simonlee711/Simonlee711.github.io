@@ -7,7 +7,7 @@ excerpt: "A content based recommendation system"
 header:
   overlay_image: /images/anime.png
   caption: "Anime"
-date: 2022-09-10
+date: 2022-09-11
 comments: true
 sidebar:
   nav: "docs2"
@@ -74,7 +74,7 @@ We take what is called a **transformer model** specifically the BERT model to pe
 
 *Bidirectional Encoder Representations from Transformers (BERT) is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. BERT was created and published in 2018 by Jacob Devlin and his colleagues from Google. BERT was pretrained on two tasks: language modeling (15% of tokens were masked and BERT was trained to predict them from context) and next sentence prediction (BERT was trained to predict if a chosen next sentence was probable or not given the first sentence). As a result of the training process, BERT learns contextual embeddings for words. After pretraining, which is computationally expensive, BERT can be finetuned with fewer resources on smaller datasets to optimize its performance on specific tasks.*
 
-{% include figure image_path="images/bert.png" alt="this is a placeholder image" caption="Berts pre-training and fine tuning visualization" %}
+{% include figure image_path="images/BERT.png" alt="this is a placeholder image" caption="Berts pre-training and fine tuning visualization" %}
 
 Although we now know what BERT is, why is transforming the text into a vector an important aspect of the pipeline? To that we say vectors are able to do all the operations that you usually do in machine learning pipelines. In our case we will use the vectorize test to find the similarity between two vectors. Our recommendation will be the (5) most similar vectors with the one we are considering. 
 
