@@ -1,6 +1,6 @@
 ---
 title: "Arterial Blood Pressure Imputer"
-permalink: /abp/
+permalink: /projects/abp/
 layout: single 
 classes: wide
 excerpt: "deep learning model that predicts future blood pressure"

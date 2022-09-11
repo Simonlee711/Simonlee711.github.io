@@ -1,6 +1,6 @@
 ---
 title: "Anime Recommendation System"
-permalink: /anime/
+permalink: /projects/anime/
 layout: single 
 classes: wide
 excerpt: "A content based recommendation system"

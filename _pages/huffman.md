@@ -1,6 +1,6 @@
 ---
 title: "Huffman Compression Algorithm"
-permalink: /huffman/
+permalink: /projects/huffman/
 layout: single
 classes: wide
 excerpt: "An incredible compression algorithm"

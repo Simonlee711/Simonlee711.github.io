@@ -1,6 +1,6 @@
 ---
 title: "Spectral Analysis on Covid-19 Time Series"
-permalink: /spectral/
+permalink: /projects/spectral/
 layout: single
 classes: wide
 excerpt: "A spectral viewpoint of the ongoing Covid-19 endemic argument"
