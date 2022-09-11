@@ -14,6 +14,9 @@ feature_row_left1:
   - url: "https://github.com/Simonlee711/ABP_Imputation-EHR"
     btn_label: "Code"
     btn_class: "btn--primary"
+  - url: "https://Simonlee711.github.io/files/Poster.pdf"
+    btn_label: "Code"
+    btn_class: "btn--primary"
 ---
 
 
