@@ -73,7 +73,7 @@ Castro, San Francisco | May 1, 2022
 
 ## April 2022
 
-![image-right](/images/april.jpg){: .align-right style="width: 3%;"}
+![image-right](/images/april.jpg){: .align-right style="width: 30%;"}
 Natural Bridges, Santa Cruz | April 19, 2022
 
 ---
