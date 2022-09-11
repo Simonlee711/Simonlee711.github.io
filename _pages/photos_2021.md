@@ -14,7 +14,9 @@ sidebar:
 
 # 2021 Timeline
 
-If on a mobile device, I suggest you tilt your phone horizontally to get the timeline effect. Enjoy my 2021 year.
+If you are on a mobile device, I suggest you tilt your phone horizontally to get the full timeline effect. 
+
+Enjoy Simon Lee's 2021.
 
 ![image-center](/images/phone.png){: .align-center style="width: 30%;"}
 

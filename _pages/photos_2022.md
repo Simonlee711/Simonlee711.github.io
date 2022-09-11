@@ -14,7 +14,9 @@ sidebar:
 
 # 2022 Timeline
 
-If on a mobile device, I suggest you tilt your phone horizontally to get the timeline effect. Enjoy my 2022 year.
+If you are on a mobile device, I suggest you tilt your phone horizontally to get the full timeline effect. 
+
+Enjoy Simon Lee's 2022.
 
 ![image-center](/images/phone.png){: .align-center style="width: 30%;"}
 
@@ -141,7 +143,7 @@ If on a mobile device, I suggest you tilt your phone horizontally to get the tim
 
 ## April 2022
 
-![image-right](/images/2022/april.jpg){: .align-right style="width: 30%;"}
+![image-right](/images/2022/april.jpg){: .align-right style="width: 40%;"}
 #### Natural Bridges, Santa Cruz
 {: style="text-align: right;"}
 #### April 19, 2022 
