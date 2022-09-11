@@ -33,6 +33,9 @@ Pygame, Game Dev, Physics Engine, AI
   <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/1.png" width="37" />
   <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -58,7 +61,10 @@ The longest part of the game development came from the art itself. Having to han
   <img src="/images/1.png" width="37" />
   <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" />
   <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" />  
 
 </p>
 
@@ -172,6 +178,9 @@ In the above code segment just in the movement section alone, I had to engineer 
   <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/1.png" width="37" />
   <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -236,6 +245,9 @@ When it came to the AI of the enemies, I installed cool down timers as a way of 
   <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/1.png" width="37" />
   <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
 
 </p>
 
@@ -273,6 +285,9 @@ This was an independent project done in the summer of 2021. Building a game from
   <img src="/images/1.png" width="37" />
   <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/assets/splash2/3.png" width="80" /> 
   <img src="/images/1.png" width="37" />
   <img src="/assets/splash2/3.png" width="80" /> 
