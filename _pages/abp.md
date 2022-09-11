@@ -10,7 +10,7 @@ header:
 date: 2022-09-10
 sidebar:
   nav: "docs2"
-feature_row_left1:
+feature_row:
   - url: "https://github.com/Simonlee711/ABP_Imputation-EHR"
     btn_label: "Code"
     btn_class: "btn--primary"
@@ -241,7 +241,7 @@ This project was done in part of the Bruin in Genomics Summer 2022 Internship at
 
 ```project_configs_simon.py``` - a configurations file that contains widely reused variables and folder paths
 
-{% include feature_row id="feature_row_left1" type="left" %}
+{% include feature_row %}
 
 ---
 
