@@ -234,7 +234,7 @@ When it came to the AI movement, I implemented randomness as a way of when to ch
 random.randint(1, 200) == 1:
 ```
 
-What the above code is saying is that our AI will choose a random integer from the range 1 to 200. If the random integer selected is 1 then the AI will switch direction. So in theory the AI has a \\(\frac{1}{200}\\) chance of changing direction. Though this seems like a rather small probability for the AI to switch directions, lets not forget how many computations are being immediately processed within the game. When playing the game, the amount of times the AI switches direction seems rather natural although our AI has a 0.5 \% chance of switching directions.
+What the above code is saying is that our AI will choose a random integer from the range 1 to 200. If the random integer selected is 1 then the AI will switch direction. So in theory the AI has a \\(\frac{1}{200}\\) chance of changing direction. Though this seems like a rather small probability for the AI to switch directions, lets not forget how many computations are being immediately processed within the game. When playing the game, the amount of times the AI switches direction seems rather natural although our AI has a 0.5% chance of switching directions.
 
 #### Enemy Attack
 
