@@ -223,7 +223,15 @@ In the above code segment just in the movement section alone, I had to engineer 
 # Enemy Artificial Intellegence
 
 
-When it came to the AI of the enemies, I installed cool down timers as a way of when to change directions while pacing back and forth. This was to ensure that the enemies never fall off the screen. There were also hidden hit boxes which would trigger the enemy to stop movement and launch an attack. The following Python function displays some the features implemented into the AI that made the game so much fun.
+When it came to the AI of the enemies, I implemented randomness as a way of when to change directions while pacing back and forth. This was to ensure that the enemies never fall off the screen. 
+
+In addition we had to come up with a way for when the enemy attacked the player. Therefore we made these vision rectangles that emulated vision. This was one of the rather cool features of the game and hit boxes are very conventional across most video games involving any form of AI to user interface.
+
+{% include figure image_path="images/projects/hitbox.jpg" alt="this is a placeholder image" caption="" %}
+
+{% include figure image_path="images/projects/hitbox2.jpg" alt="this is a placeholder image" caption="Vision boxes were triggered when player was within them" %}
+
+In the images above we can see what I briefly described in the previous paragraph. Each player and enemy had their own personal rectangular hit box drawn in *blue* and then the enemies had a red vision box, where if the player ever entered it, it would signal our Ai to begin shooting at the player. However as the player you are given a little under a second to react and dodge the projectile coming at your way so that there would be some fairness to the game. The code for these concepts can be seen within our ai method within our Player class.
 
 {% highlight Python linenos %}
     def ai(self):
