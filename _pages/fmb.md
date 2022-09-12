@@ -238,9 +238,9 @@ What the above code is saying is that our AI will choose a random integer from t
 
 In addition we had to come up with a way for when the enemy attacked the player. Therefore we made these vision rectangles that emulated vision. This was one of the rather cool features of the game and hit boxes are very conventional across most video games involving any form of AI to user interface.
 
-{% include figure image_path="images/projects/hitbox.jpg" alt="this is a placeholder image" caption="" %}
+![image-center](/images/projects/hitbox.jpg){: .align-center style="width: 40%;"}
+![image-center](/images/projects/hitbox2.jpg){: .align-center style="width: 40%;"}
 
-{% include figure image_path="images/projects/hitbox2.jpg" alt="this is a placeholder image" caption="Vision boxes were triggered when player was within them" %}
 
 In the images above we can see what I briefly described in the previous paragraph. Each player and enemy had their own personal rectangular hit box drawn in *blue* and then the enemies had a red vision box, where if the player ever entered it, it would signal our Ai to begin shooting at the player. However as the player you are given a little under a second to react and dodge the projectile coming at your way so that there would be some fairness to the game. The code for these concepts can be seen within our ai method within our Player class.
 
