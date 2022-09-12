@@ -55,6 +55,28 @@ Pygame, Game Dev, Physics Engine, Artifical Intellegence
 
 </p>
 
+# Game trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIbWen4h_qQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<p float="left">
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+  <img src="/images/projects/1.png" width="37" />
+  <img src="/assets/splash2/3.png" width="80" /> 
+
+</p>
 # Premise
 
 {% include figure image_path="images/title.png" alt="this is a placeholder image" caption="Where's my bread official logo" %}
