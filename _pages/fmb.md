@@ -107,7 +107,9 @@ The longest part of the game development came from the art itself. Having to han
 
 # Physics Engine
 
-Creating a video game make you question a lot about what we take for granted. In the context of games, that is all of physics from the amount of time we can jump once we hit the floor, to understanding what exactly is a "floor"? One of the best aspects of creating this game was being able to customize how high a player could jump or how fast gravity brought them to the floor. I will share within the ```player``` class how movement worked in my game.
+Creating a video game make you question a lot about what we take for granted. In the context of games, that is all of physics from the amount of time we can jump once we hit the floor, to understanding what exactly is a "floor"? One of the best aspects of creating this game was being able to customize how high a player could jump or how fast gravity brought them to the floor. I will share within the ```Player``` class how movement worked in my game. Though I wont explain it to much detail in this article, I have documented the code in a way so that anyone can see what the blocks of code are doing relative to the player action
+
+#### Code
 
 {% highlight Python linenos %}
 
@@ -243,6 +245,8 @@ In addition we had to come up with a way for when the enemy attacked the player.
 
 
 In the images above we can see what I briefly described in the previous paragraph. Each player and enemy had their own personal rectangular hit box drawn in *blue* and then the enemies had a red vision box, where if the player ever entered it, it would signal our Ai to begin shooting at the player. However as the player you are given a little under a second to react and dodge the projectile coming at your way so that there would be some fairness to the game. The code for these concepts can be seen within our ai method within our Player class.
+
+#### Code
 
 {% highlight Python linenos %}
     def ai(self):
