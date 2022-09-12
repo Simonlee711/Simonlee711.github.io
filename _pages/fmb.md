@@ -222,8 +222,19 @@ In the above code segment just in the movement section alone, I had to engineer 
 
 # Enemy Artificial Intellegence
 
+One of the exciting parts of implementing a video game was implementing a set of enemy ai that would try to cause discourse to the player. Since the objective of the game is to not let the user reach the goal so easily, we implemented these mafia men who would shoot at the player if they were within their line of sight. *There were also car ai's within the game that would try to run you over if you did not dodge them, however the car ai was identical to the mafia men except they didn't shoot at the player*.  
 
-When it came to the AI of the enemies, I implemented randomness as a way of when to change directions while pacing back and forth. This was to ensure that the enemies never fall off the screen. 
+#### Enemy Movement
+
+When it came to the AI movement, I implemented randomness as a way of when to change directions while pacing back and forth. This was to ensure that the enemies never fall off the screen as well as never walk continuously forever in a single direction. Randomness is a common theme in machine learning and AI and the big idea was to set some type of cool down error for the AI in order to make a pacing back and forth feature. To do this we had a boolean expression of the following:
+
+```
+random.randint(1, 200) == 1:
+```
+
+What the above code is saying is that our AI will choose a random integer from the range 1 to 200. If the random integer selected is 1 then the AI will switch direction. So in theory the AI has a \\(\frac{1}{200}\\) chance of changing direction. Though this seems like a rather small probability for the AI to switch directions, lets not forget how many computations are being immediately processed within the game. When playing the game, the amount of times the AI switches direction seems rather natural although our AI has a 0.5 \% chance of switching directions.
+
+#### Enemy Attack
 
 In addition we had to come up with a way for when the enemy attacked the player. Therefore we made these vision rectangles that emulated vision. This was one of the rather cool features of the game and hit boxes are very conventional across most video games involving any form of AI to user interface.
 
