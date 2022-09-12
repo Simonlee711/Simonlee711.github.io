@@ -79,7 +79,7 @@ Pygame, Game Dev, Physics Engine, Artifical Intellegence
 </p>
 # Premise
 
-{% include figure image_path="images/title.png" alt="this is a placeholder image" caption="Where's my bread official logo" %}
+{% include figure image_path="images/projects/title.png" alt="this is a placeholder image" caption="Where's my bread official logo" %}
 
 Welcome to the 2D platformer created entirely by me titled **Where's My Bread**. The game has two goals to be awarded the maximum points. One of the objectives of the game is to collect as many pieces of bread that are scattered around Paris, France. The second objective is to reach the end goal flag as fast as you can. In a way if you think of *Super Mario Bros* it is the same concept entirely except the two features of the game have been split up. The backstory of this game is that we have a baker whose bread was stolen and was therefore scattered around the city of Paris. Because there has yet to be a release of version 2.0.0 +, we have not met all the characters that could have possibly been in the realm of *Where's My Bread*. Future releases will come as I find free time for myself.
 
