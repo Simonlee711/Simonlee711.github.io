@@ -37,17 +37,20 @@ In Fall 2021, I entered [Dr. Vanessa Jonsson's](https://jonssonlab.com/) lab as 
 
 In Spring 2022, I graduated with my Bachelors in Science in Applied Mathematics at UCSC's Jack Baskin School of Engineering with Summa Cum Laude honors. I originally entered as a pure mathematics major in fall 2019 but soon realized that logic and proofs was not the academic path I wanted to pursue. Therefore in my second year at university, I took my first programming class and was forever changed. I ended up switching into the Applied mathematics department after the conclusion of my second year, where I focused primarily on computing and mathematical biology. Taking courses like numerical analysis, scientific computing, and data driven modeling, I was inspired to commit to a totally new field change at the graduate level. Thanks to the generalities of mathematics, I was able to pursue biological data science at the graduate level. 
 
-{% include figure image_path="images/AM.jpg" alt="this is a placeholder image" caption="Applied Mathematics Pi Party" %}
+
 
 
 ---
 
 # Goals
 
-Some of my recent goals consist on becoming specialized in deep learning, and have the skills necessary to pursue a field in data sciences. Over the summer I hope to return back to the USA to pursue an industrial internship in this field. Also after the completion of my masters degree, I likely will return to the San Francisco Bay area to pursue several dream companies to work at for a life time.
+Some of my recent goals consist on becoming more well rounded and specialized in machine learning (supervised and unsupervised), and have the skills necessary to pursue a field in data sciences. Over the summer I hope to return back to the USA to pursue an industrial internship in this field. Also after the completion of my masters degree, I likely will return to the San Francisco Bay area to pursue several companies to work at.
 
 ---
 
 # Outside Interests
 
+Outside the realm of academics, I am widely interested in a few things. First and foremost is photography. I enjoy photography so much that I gave my hobby its own tab [here](https://simonlee711.github.io/photos/). Photography has been my escape and has been a way to document my young hectic life. With everything going by so quickly, I am quick to forget about every little thing that has happened. However, photography has been a way for me to capture the moment and a chance to once again relive it.
+
+**Will update more in time**
 
