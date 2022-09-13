@@ -5,6 +5,10 @@ permalink: /version/
 layout: single
 date: 2022-09-12
 --- 
+## Version 1.0.2
+**Septmeber 13, 2022**
+
+Updated some of my about page and added a new blog post. Since I have applied to internships already, I must make this website presentable.  
 
 ## Version 1.0.1
 **Septmeber 12, 2022**
