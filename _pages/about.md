@@ -37,7 +37,7 @@ In Fall 2021, I entered [Dr. Vanessa Jonsson's](https://jonssonlab.com/) lab as 
 
 In Spring 2022, I graduated with my Bachelors in Science in Applied Mathematics at UCSC's Jack Baskin School of Engineering with Summa Cum Laude honors. I originally entered as a pure mathematics major in fall 2019 but soon realized that logic and proofs was not the academic path I wanted to pursue. Therefore in my second year at university, I took my first programming class and was forever changed. I ended up switching into the Applied mathematics department after the conclusion of my second year, where I focused primarily on computing and mathematical biology. Taking courses like numerical analysis, scientific computing, and data driven modeling, I was inspired to commit to a totally new field change at the graduate level. Thanks to the generalities of mathematics, I was able to pursue biological data science at the graduate level. 
 
-
+<!---{% include figure image_path="images/AM.jpg" alt="this is a placeholder image" caption="Applied Mathematics Pi Party" %}-->
 
 
 ---
