@@ -5,6 +5,11 @@ permalink: /version/
 layout: single
 date: 2022-09-12
 --- 
+## Version 1.0.3
+**September 14, 2022**
+
+I know updates have been pretty frequent but that is due to my surplus of leisure time. In this update I add a website logo as well as a new blog post about the collatz conjecture. Promise the blog will slow down soon...
+
 ## Version 1.0.2
 **Septmeber 13, 2022**
 
