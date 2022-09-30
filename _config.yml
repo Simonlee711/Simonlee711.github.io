@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Simon Lee"
   avatar           : "images/IMG_1959.jpg"
-  bio              : "Hello. I am a current graduate student at EPFL studying biological data science."
+  bio              : "Hello. I am a current student at EPFL studying biology & data science."
   location         : "San Francisco Bay Area"
   email            : 
   url              : https://simonlee711.github.io/about/
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Simonlee711"
+      #url: "https://github.com/Simonlee711"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/simonlee.a/"
@@ -141,7 +141,7 @@ footer:
       url: "https://www.linkedin.com/in/simon-lee-307ba4172/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Simonlee711"
+      #url: "https://github.com/Simonlee711"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

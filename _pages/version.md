@@ -25,8 +25,3 @@ Alot of beta website errors like incorrect rendering of images, videos, and equa
 
 The official launch of the website. Explore at your own free will.
 
-## Source code
-
-If anyone is interested in the source code behind the version edits feel free to look.
-
-[https://github.com/Simonlee711/Simonlee711.github.io/commits/main](https://github.com/Simonlee711/Simonlee711.github.io/commits/main)
