@@ -27,7 +27,7 @@ docs2:
       - title: "Anime Recommendation System"
         url: /projects/anime/
       - title: "Arterial Blood Pressure Imputer"
-        url: /projects/abp/
+        url: /projects/ab/
       - title: "Alzheimer's Disease Predictor"
         url: /projects/alz/
       - title: "Spectral Analysis of Covid-19"
