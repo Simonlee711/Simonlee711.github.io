@@ -16,7 +16,7 @@ sidebar:
 ---
 # Introduction
 
-Hello. My name is Simon Austin Lee. I am currently a post baccalaureate at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am currently studying biology and building on my skills in statistics In order to strengthen my profile for graduate school in life sciences research. My recent interests have been widely associated with running  machine learning algorithms on healthcare and genetic data. I wish to therefore pursue a career in biomedical data science at the industry level after obtaining proper training in research through a Ph.D.
+Hello. My name is Simon Austin Lee. I am currently a post baccalaureate at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am studying biology and building on my skills in statistics In order to strengthen my profile for graduate school in life sciences research. My recent interests have been widely associated with running  machine learning algorithms on healthcare and genetic data. I wish to therefore pursue a career in biomedical data science at the industry level after obtaining proper training in research through a Ph.D.
 
 ---
 
