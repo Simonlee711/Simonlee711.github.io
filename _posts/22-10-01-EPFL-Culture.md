@@ -1,5 +1,5 @@
 ---
-title: "EPFL's Business Mindset"
+title: "EPFL's Business Mindset & Education System"
 categories:
   - Blogging
 tags:
