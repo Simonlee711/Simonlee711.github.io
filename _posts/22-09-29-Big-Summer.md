@@ -20,5 +20,5 @@ Lastly, this summer was a perfect work-to-life balance which is so important esp
 Overall this summer will forever be a happy memory in my life. It was spent with amazing people in an awesome location where I truly got to maximize both my time in the lab and doing outside activities. I am so grateful to have been selected and to have been able to create all the memories I could. So thank you UCLA!
 
 ![image-center](/images/IMG_9320.JPG){: .align-center style="width: 30%;"}
-![image-center](/images/IMG_IMG_7942.jpg){: .align-center style="width: 40%;"}
+![image-center](/images/IMG_7942.jpg){: .align-center style="width: 40%;"}
 ![image-center](/images/IMG_7619.jpg){: .align-center style="width: 40%;"}
