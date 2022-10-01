@@ -13,7 +13,7 @@ feature_row_left1:
   - image_path: /assets/splash2/1.png
     title: "Arterial Blood Pressure Imputer"
     excerpt: "Hypotension (a sustained decrease in blood pressure) within critical care patients is associated with a higher risk of mortality and other severe complications. Therefore we built a deep learning architecture that can predict future blood pressure."
-    url: "https://simonlee711.github.io/projects/ab/"
+    url: "https://simonlee711.github.io/projects/abp/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left2:
