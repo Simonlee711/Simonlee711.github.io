@@ -222,7 +222,7 @@ Based on our data we can see that our model does tend to be performing better, b
 
  # Code
 
- The code is not shared for privacy reasons between the Collaborators and I. Our future hope is that we do publish the code along with the new paper.
+ The code is not publicly available for privacy reasons between the Collaborators and I. Our future hope is that we do publish the code along with the new paper.
 
 <!---
 # Code
