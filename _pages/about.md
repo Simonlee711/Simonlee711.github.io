@@ -52,5 +52,7 @@ Some of my recent goals consist on becoming more well rounded and specialized in
 
 Outside the realm of academics, I am widely interested in a few things. First and foremost is photography. I enjoy photography so much that I gave my hobby its own tab [here](https://simonlee711.github.io/photos/). Photography has been my escape and has been a way to document my young hectic life. With everything going by so quickly, I am quick to forget about every little thing that has happened. However, photography has been a way for me to capture the moment and a chance to once again relive it.
 
+I have also been widely interested with traveling ever since moving to Europe. Since Switzerland is surrounded by many neighboring big countries, it has been very accessible to travel. Also Western Europe is very central in terms of reaching the USA, Africa, and Asia, and when I have holiday breaks, I wish to travel to these areas.
+
 **Will update more in time**
 
