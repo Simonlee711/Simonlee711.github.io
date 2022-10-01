@@ -219,6 +219,7 @@ In order to verify that this model is within the gold standard of invasive blood
 Based on our data we can see that our model does tend to be performing better, but also contains bias. This bias from my understanding is that we only took into account specific clinical interventions (vasopressors) which would only improve the predictions based on the lower blood pressure. Therefore we can see at higher blood pressures, the variability is much greater causing a diagnol distribution. Meanwhile we can see that the original model had no such relationship and was just widely variable. It is safe to say that the predictions done on this small subset of data are only small implications, and I look forward to seeing the results of the 4000+ patient model that is currently in the works
 
 ---
+
  # Code
 
  The code is not shared for privacy reasons between the Collaborators and I. Our future hope is that we do publish the code along with the new paper.
