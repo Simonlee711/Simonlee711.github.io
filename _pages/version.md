@@ -8,7 +8,7 @@ date: 2022-09-12
 ## Version 1.0.4
 **October 4, 2022**
 
-I have been refining the website so much with correcting grammatical errors, allowing for users to visit everything. Whether thats future HR managers or others who look through the website.
+I have been refining the website so much by correcting grammatical errors, and organizing the interface to be better. Therefore future HR managers or others who look through the website have a smoot experience on this website.
 
 ## Version 1.0.3
 **September 14, 2022**
