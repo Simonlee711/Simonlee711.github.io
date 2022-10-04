@@ -5,6 +5,11 @@ permalink: /version/
 layout: single
 date: 2022-09-12
 --- 
+## Version 1.0.4
+**October 4, 2022**
+
+I have been refining the website so much with correcting grammatical errors, allowing for users to visit everything. Whether thats future HR managers or others who look through the website.
+
 ## Version 1.0.3
 **September 14, 2022**
 
