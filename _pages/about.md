@@ -16,7 +16,7 @@ sidebar:
 ---
 # Introduction
 
-Hello. My name is Simon Austin Lee. I am currently a post baccalaureate at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am studying biology and building on my skills in statistics in order to strengthen my profile for graduate school in life sciences research. My recent interests have been widely associated with running  machine learning algorithms on healthcare and genetic data. I wish to therefore pursue a career in biomedical data science at the industry level after obtaining proper training in research through a Ph.D.
+Hello. My name is Simon Austin Lee. I am currently a student at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am studying life sciences engineering and building on my skills in statistics in order to strengthen my profile for a Ph.D. in computational biology/biomathematics research. My recent interests have been widely associated with running  machine learning algorithms on healthcare and genetic data. I wish to therefore pursue a career in biomedical data science at the industry level after obtaining proper training in research through a Ph.D. I am also very open to any internships that offer practical experience in the field currently.
 
 ---
 
@@ -44,7 +44,7 @@ In Spring 2022, I graduated with my Bachelors in Science in Applied Mathematics 
 
 # Goals
 
-Some of my recent goals consist on becoming more well rounded and specialized in machine learning (supervised and unsupervised), and have the skills necessary to pursue data science orineted tasks. I also wanted to have a better understanding of the current biological research landscape by understanding the basics of life sciences. Primarily I have been studying about transcription factors, genetic engineering, epigenetics, just to name a few within my post-bacc coursework. 
+Some of my recent goals consist on becoming more well rounded and specialized in machine learning (supervised and unsupervised), and have the skills necessary to pursue data science orineted tasks. I also wanted to have a better understanding of the current biological research landscape by understanding the basics of life sciences. Therefore I have been taking a variety of courses at EPFL that have all helped me work towards this goal.
 
 ---
 
