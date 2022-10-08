@@ -8,7 +8,7 @@ tags:
   - Mystery
 ---
 
-Mathematics can most definitley be a head ache to many people including myself. However it is impossible to evade as every field uses mathematics as a stepping stone within their field. However within mathematics is also a subfield of theorems, proofs, and conjectures that can be deemed as beautiful. Today I wanted to introduce a problem in mathematics with no intuition. Its been a problem that has long been worked for many years yet there is no feasible explanation for why this system occurs the way it does. It is called the **Collatz Conjecture**. 
+Mathematics can most definitley be a head ache to many people including myself. However it is impossible to evade as almost every field of study uses mathematics as a stepping stone within their field. On the other hand, within mathematics is also a subfield of theorems, proofs, and conjectures that can be deemed as beautiful. Today I wanted to introduce a problem in mathematics with no intuition. Its been a problem that has long been worked on for many years, yet there is no feasible explanation for why this system occurs the way it does. It is called the **Collatz Conjecture**. 
 
 The rules are fairly simple, pick any number \\(N\\) and apply these two simple rules. If positive (\\(N%2 == 0\\)) then you divide your current number by 2 (\\(N/2\\)) and if your number is odd (\\(N%2 == 1\\)) you multiply your current number by 3 and add 1 (\\(3N+1\\)). You would think that there would be a positive number that becomes infinite but this is not the case ever. Every single positive integer will end up in a 4-2-1 loop at some point and no one quite knows why? Here I have generated a plot that shows the iterations of the first 100,000 numbers on the number scale.
 
