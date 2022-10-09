@@ -5,6 +5,11 @@ permalink: /version/
 layout: single
 date: 2022-09-12
 --- 
+## Version 1.0.5
+**October 9, 2022**
+
+On html there is no grammatical errors checker so I fixed a lot of the spelling and grammatical errors found on all the posts and the pages. Would be silly to present this website publicly without having proper syntax. Also updated website with new blog post about "Discipline".
+
 ## Version 1.0.4
 **October 4, 2022**
 
