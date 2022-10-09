@@ -12,7 +12,6 @@ sidebar:
  - title: "Simon Lee"
    image: images/IMG_8952.jpg
    image_alt: "image"
-   text: "Current Age: 21"
 ---
 # Introduction
  
