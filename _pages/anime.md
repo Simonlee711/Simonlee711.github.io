@@ -13,8 +13,8 @@ sidebar:
  nav: "docs2"
 feature_row_left1:
 - url: "https://github.com/Simonlee711/Anime-recommendations"
- btn_label: "Code"
- btn_class: "btn--primary"
+  btn_label: "Code"
+  btn_class: "btn--primary" 
 ---
  
 # Keywords:
