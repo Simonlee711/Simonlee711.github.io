@@ -1,7 +1,7 @@
 ---
 title: "Alzheimer's Disease Classification"
 permalink: /projects/alz/
-layout: single
+layout: single 
 classes: wide
 excerpt: "An data-efficient Alzheimer's disease predictor"
 header:
