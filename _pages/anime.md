@@ -17,7 +17,7 @@ feature_row_left1:
   btn_class: "btn--primary" 
 ---
  
-# Keywords:
+# Keywords
  
 Recommendation Systems, Transformer models, Cosine-similarity functions, anime
  
