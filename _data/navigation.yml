@@ -24,6 +24,8 @@ docs:
 docs2:
   - title: "2022"
     children:
+      - title: "Processing Faces - Brain Activity Modeling"
+        url: /projects/brain/
       - title: "Anime Recommendation System"
         url: /projects/anime/
       - title: "Arterial Blood Pressure Imputer"
