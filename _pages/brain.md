@@ -53,7 +53,7 @@ We mimic showing participants images of faces by creating an input signal consis
 
 A mathematical model is then fitted to the obtained imitation of raw fMRI data. The model is linear and of first order, with weight optimisation achieved by least squares with a mean square error cost function. The resulting optimal weights will be tested for statistical significance from the null hypothesis by
 
-{% include figure image_path="images/projects/brain1/convolution.png" alt="this is a placeholder image" caption="Visual Demonstration of Convolution" %}
+{% include figure image_path="images/projects/brain1/convoltuion.png" alt="this is a placeholder image" caption="Visual Demonstration of Convolution" %}
 
 **page is not finished**
 
