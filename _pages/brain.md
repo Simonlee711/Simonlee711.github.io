@@ -90,9 +90,9 @@ This project was done in NX-421 (Neural Signals & Signals Processing) at EPFL ta
 
 # References
 
-Principles of Neural Science, Sixth Edition, 2021 - McGraw Hill. By Eric R. Kandel, John D. Koester, Sarah H. Mack and Steven A. Siegelbaum.
+[1] Principles of Neural Science, Sixth Edition, 2021 - McGraw Hill. By Eric R. Kandel, John D. Koester, Sarah H. Mack and Steven A. Siegelbaum.
 
-Human Neural Systems for Face Recognition and Social Communication
+[2] Human Neural Systems for Face Recognition and Social Communication
 James V. Haxby, Elizabeth A. Hoffman, and M. Ida Gobbini
 
 ---
