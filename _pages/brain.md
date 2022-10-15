@@ -7,7 +7,7 @@ excerpt: "Modeling visual brain activity"
 header:
  overlay_image: /images/projects/brain1/brain_cover.png
  caption: "Photo credit: Simon Lee"
-date: 2022-09-10
+date: 2022-10-15
 sidebar:
   nav: "docs2"
 feature_row_left1:
@@ -15,6 +15,8 @@ feature_row_left1:
   btn_label: "Code"
   btn_class: "btn--primary" 
 ---
+
+{% include figure image_path="images/construction.jpg" alt="this is a placeholder image" caption="Web Page is currently under development" %}
 
 # Motivation
 
@@ -45,6 +47,8 @@ In this project, we will try to understand how we can use a general linear model
 In order to acquire a detailed understanding of fMRI and of the modelling of the resulting data, we will first build a fake raw fMRI signal and then decode it with a mathematical model.
 We mimic showing participants images of faces by creating an input signal consisting of a series of rectangular pulses of 2 seconds in duration each. The convolution of this input signal with the ideal Haemodynamic Response Function (HRF), which is the response to an ideal impulse stimulus (Dirac delta), gives us the ideal output data. A representation of this output is achieved by adding normally distributed noise to the ideal data.
 
+{% include figure image_path="images/projects/brain1/stimulus.png" alt="this is a placeholder image" caption="Our Brain Voxel Stimuli" %}
+
 A mathematical model is then fitted to the obtained imitation of raw fMRI data. The model is linear and of first order, with weight optimisation achieved by least squares with a mean square error cost function. The resulting optimal weights will be tested for statistical significance from the null hypothesis by
 
 **page is not finished**
@@ -63,7 +67,7 @@ A mathematical model is then fitted to the obtained imitation of raw fMRI data. 
 
 # Future Direction
 
-fMRI is composed of many voxels and to get a wholistic view of this model, a future direction is to be able to compute all the regressors for all the voxels of the brain manually. After doing so we can see the regressors at every voxel to see where the heightened regressors or stimulus activation occurs. Though there are currently advanced libraries that are able to visualise this for us (shown at the end of the jupyter notebook), manually running this process could allow us to gain insight of the inner workings of these advanced libraries. 
+fMRI is composed of many voxels and to get a holistic view of this model, a future direction is to be able to compute all the regressors for all the voxels of the brain manually. After doing so we can see the regressors at every voxel to see where the heightened regressors or stimulus activation occurs. Though there are currently advanced libraries that are able to visualize this for us (shown at the end of the jupyter notebook), manually running this process could allow us to gain insight into the inner workings of these advanced libraries.
 
 ---
 
