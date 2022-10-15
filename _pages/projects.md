@@ -24,10 +24,10 @@ feature_row_left2:
     btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left3:
-  - image_path: /assets/splash2/3.png
-    title: "Where's my Bread"
-    excerpt: "Have you ever wondered how to build a video game from beginning to end? Well I built one using the PyGame game engine where I designed all characters using pixel art, coded up my own physics engine, and more."
-    url: "https://simonlee711.github.io/projects/fmb/"
+  - image_path: /images/projects/brain1/brain.png
+    title: "Processing Faces - Brain Activity Modeling"
+    excerpt: "Have you ever wondered what the brain is doing when processing visual stimuli such as faces? Well in the field of computational neuroscience there have long been models that can model the brain activity when we are presented with visual stimuli. Tap to read more"
+    url: "https://simonlee711.github.io/projects/brain/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
 ---
