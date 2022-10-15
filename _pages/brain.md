@@ -16,7 +16,9 @@ feature_row_left1:
   btn_class: "btn--primary" 
 ---
 
-{% include figure image_path="images/construction.jpg" alt="this is a placeholder image" caption="Web Page is currently under development" %}
+# WEB PAGE IS CURRENTLY UNDER CONSTRUCTION
+
+{% include figure image_path="images/construction.jpg" alt="this is a placeholder image" caption="" %}
 
 # Motivation
 
