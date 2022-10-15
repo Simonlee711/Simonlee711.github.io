@@ -1,6 +1,6 @@
 ---
 title: "Processing Faces - Brain Activity Modeling"
-permalink: /brain/
+permalink: /projects/brain/
 layout: single
 classes: wide
 excerpt: "Modeling visual brain activity"
