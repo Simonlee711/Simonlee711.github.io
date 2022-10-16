@@ -57,6 +57,43 @@ Calculus is hard, confusing, and it was not one of my favorite subjects in high 
 
 <image src="/images/bird.gif" alt="Spinners" width="650"  /> 
 
+What I am trying to get at is, that this "bird artist" is a complex set of mathematical series all simply added on top of one another. But by breaking each series into individual parts, mathematicians were able to figure out how to draw birds from freaking vectors! This idea of studying simple systems to explain bigger ones is a huge application in systems biology, electrical engineering, etc. Our brain is only a finite amount of space so we need to find ways to understand large systems in easier terms. This simple to complex mindset has led to many great discoveries in our time, and one is electricity which has revolutionized our world.
+
+--- 
+
+# Where to find ∞
+
+I've tried to help you visualize infinity but now these concepts lead to a bigger question: Does infinity exist in our physical realm? And to that we say yes and no.
+
+Physicists will often refer to black holes as a physical form of infinity due to its properties. So what exactly is a black hole? In simple terms its a massive hold that packs matter so tightly that nothing gets out of this condensed space. This is why we virtually know nothing about it. A visualization of these systems were best seen in the movie "Interstellar" where physicists say its visualization is pretty accurate to the one they imagine. It has a beautiful event horizon like seen in the gif below.
+
+<image src="/images/hole.gif" alt="Spinners" width="650"  /> 
+
+So how exactly is do black holes resemble infinity? We are going to use Einstein's theory of relativity to explain how these resemble and what occurs inside a black hole theoretically. Entering a black hole will feel like yu are falling infinitely, however this falling stage is finite according to Einstein. Einstein believes at some point you will hit the "floor" of the black hole that is called the singularity: which is an infinite curvature in space-time where all the mass of the black hole is concentrated. The environment has infinite density and it is catastrophic. It is so catastrophic that being in here will literally break physics and you become unobservable. You simply cease to exist anymore. I do not want to go any further beyond this explanation because the world as we know it simply is broken when you are in a black hole. Therefore no more questions asked, according to Einstein. 
+
+However there is a group of physicists that simply refuse to accept Einstein's theory and believe a Black hole is actually a worm hole. A worm hole is simply two distant points in time connected with a funnel shape. Therefore you are able to get from point to point almost instanteously. I say almost instanteously because there also exists things in our world that are not infinite. One of that is speed. Speed has a max value at 299 792 458 meters/sec aka the speed of light, meaning no "thing" can move faster than this speed. So if two points were billion of light years away, they would still be contrained by the speed of light. 
+
+This leads us to an interesting topic about infinite time. Is time infinite? What would happen to an object in infinite time? This is where a science experiment was proposed about an object in a box. Lets say an orange was placed in a box. Over 10 days it would begin to rot, and over 100 years it may be disentegrated into dust by the bacteria. However based on the law of thermodynamics, the energy and the atoms within this object would freely move across the box and take different forms. For an orange of a given fixed size it may have \\( 10^{10^{24}} \\) different permutations the atoms can take form as. While this is an extremely large number at some point, the orange will run out of forms it can take shape as. So after an infinite amount of time, if we opened up the box, scientists believe we will have our orange perfectly in a healthy form on its own lying there. 
+
+This idea of having finite solutions within an observable space leads us to our universe.
+
+---
+
+# Parallel Universes
+
+Space is believed to be infinite. However, observable space or the couple galaxies that have we know exist is a finite dimensional space. And if we were to view this finite dimensional space as a composition of extremely tiny cubic voxels, there is a finite amount of voxels that compose our "universe". Now lets say there were special states or orientations our universe could be in. This idea puts a finite constraint on the amount of permutation designs our universe can take form as. Therefore within the finite dimensions we know (observable space), there is a limitation of what our universe can look like. So what could possibly make space infinite? 
+
+This is where sh*t starts to get crazy. What if there were copies of our orientation of the universe in an unreachable distance away. It is only unreachable to us because we mentioned earlier that speed has a maximum of 299 792 458 meters/sec. It may simply just be a couple too many billion of years away. However what if in this infinite amount of our parallel universe, there are an infinite different decisions we made going on in infinite time. Imagine our lives modeled as decision trees where we might have wanted to ask our our crush, and how that decision can widely impact the next sequences that occur after that. 
+
+![image-center](/images/tree.jpg){: .align-center style="width: 50%;"}
+
+It is very much like the time stone and what they used in "Avengers Infinty wars". So we can see that there are infinite permutations that can occur within our own lives and the crazy thought is those infinite decision paths are being executed most likely in parallel in some distant spacial point... Crazy. And the fact that we can not see ourselves in a parallel universe as a millionaire or being reincarnated as a sheep is because we are not in the proximity of our parallel universes where we infinitely exist in infinitely other spatial points. bummer.
+
+Now to those who do not believe me about the maximum value at which a thing can travel, I will present another example of the speed of light in action. The stars we see at night are minisucle in size because they are billions of light years away from the Earth. And so every night when we see the stars these are image locations of where the planet was in the past. Because that stars light traveled the billion of light years in distance, by the time it reaches you, that star is definitely in a much farther position in space. Isn't that a crazy thought in itself. Everything we see in the night sky if far enough, is just a past projection of where that star, comet, planet was light years before. It is simply because light travels at a constant 299 792 458 meters/sec that it took us so long to be able to percieve it.
+
+![image-center](/images/light.jpeg){: .align-center style="width: 50%;"}
+
+
 ---
 # Footnote
 
