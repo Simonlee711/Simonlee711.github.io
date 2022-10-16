@@ -85,13 +85,17 @@ Space is believed to be infinite. However, observable space or the couple galaxi
  
 This is where sh*it starts to get crazy. What if there were copies of our orientation of the universe in an unreachable distance away. It is only unreachable to us because we mentioned earlier that speed has a maximum of 299 792 458 meters/sec. It may simply just be a couple too many billion of years away. However what if in this infinite amount of our parallel universe, there are an infinite different decisions we made going on in infinite time. Imagine our lives modeled as decision trees where we might have wanted to ask our crush, and how that decision can widely impact the next sequences that occur after that.
  
-![image-center](/images/tree.jpg){: .align-center style="width: 100%;" caption="Video Game Decision Trees which can resemble decision trees in our own lives"}
+|![image-center](/images/tree.jpg){: .align-center style="width: 100%;"}|
+|:--:| 
+| *Video Game Decision Trees which can resemble decision trees in our own lives* |
  
 It is very much like the time stone and what they used in "Avengers Infinity wars' '. So we can see that there are infinite permutations that can occur within our own lives and the crazy thought is those infinite decision paths are being executed most likely in parallel in some distant spatial point... Crazy. And the fact that we can not see ourselves in a parallel universe as a millionaire or being reincarnated as a sheep is because we are not in the proximity of our parallel universes where we infinitely exist in infinitely other spatial points. bummer.
  
 Now to those who do not believe me about the maximum value at which a thing can travel, I will present another example of the speed of light in action. The stars we see at night are miniscule in size because they are billions of light years away from the Earth. And so every night when we see the stars these are image locations of where the planet was in the past. Because that star's light traveled a billion light years in distance, by the time it reaches you, that star is definitely in a much farther position in space. Isn't that a crazy thought in itself. Everything we see in the night sky, if far enough, is just a past projection of where that star, comet, planet was light years before. It is simply because light travels at a constant 299 792 458 meters/sec that it took us so long to be able to perceive it.
  
-![image-center](/images/light.jpeg){: .align-center style="width: 100%;" caption="A hand drawn drawing of what our eyes percieve when we see planet X in this case"}
+|![image-center](/images/light.jpeg){: .align-center style="width: 100%;"}|
+|:--:| 
+| *A hand drawn drawing of what our eyes percieve when we see planet X in this case* |
  
 ---
  
