@@ -73,6 +73,10 @@ So how exactly do black holes resemble infinity? We are going to use Einstein's 
  
 However there is a group of physicists that simply refuse to accept Einstein's theory and believe a Black hole is actually a worm hole. A wormhole is simply two distant points in time connected with a funnel shape. Therefore you are able to get from point to point almost instantaneously. I say almost instantaneously because there also exists things in our world that are not infinite. One of them is speed. Speed has a max value at 299 792 458 meters/sec aka the speed of light, meaning no "thing" can move faster than this speed. So if two points were billions of light years away, they would still be constrained by the speed of light.
  
+|![image-center](/images/worm.jpg){: .align-center style="width: 100%;"}|
+|:--:| 
+| *Visual of the wormhole: distant spatial points connected by a funnel* |
+
 This leads us to an interesting topic about infinite time. Is time infinite? What would happen to an object in infinite time? This is where a science experiment was proposed about an object in a box. Let's say an orange was placed in a box. Over 10 days it would begin to rot, and over 100 years it may be disintegrated into dust by the bacteria. However, based on the law of thermodynamics, the energy and the atoms within this object would freely move across the box and take different forms. For an orange of a given fixed size it may have \\( 10^{10^{24}} \\) different permutations the atoms can take form as. While this is an extremely large number at some point, the orange will run out of forms it can take shape as. So after an infinite amount of time, if we opened up the box, scientists believe we will have our orange perfectly in a healthy form on its own lying there.
  
 This idea of having finite solutions within an observable space leads us to our universe.
