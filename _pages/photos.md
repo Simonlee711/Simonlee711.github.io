@@ -3,7 +3,7 @@ title: "Photo Gallery"
 excerpt: A collection of photos throughout the years all taken by me.
 permalink: /photos/
 layout: single
-date: 2022-10-02
+date: 2022-10-16
 sidebar:
   nav: "docs"
 header:
