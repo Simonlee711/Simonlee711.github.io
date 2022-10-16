@@ -32,6 +32,12 @@ In the summer of 2022, I worked as a computational and genomics analyst at UCLA 
  
 In Fall 2021, I entered [Dr. Vanessa Jonsson's](https://jonssonlab.com/) lab as an undergraduate researcher and was therefore affiliated with the UCSC Genomics Institute. During my time in this institute I was collaborating with [Razvan Marinescu](http://www.mit.edu/~razvan/) (MIT Computer Science & Artificial Intelligence Laboratory) and [Vedu Mallela](https://people.csail.mit.edu/vmallela/) (Georgia Tech, School of Computing) on a single cell genomics problem. With a recent influx of biological data due to NGS & single-cell sequencing, we are trying to comprehend key changes "cell-by-cell" rather than those at a population level. The hope in this field is that we can understand things like cancer, stem cells, aging, as well as the development of drug resistance to a much greater extent. Our objective was to map chromatin accessibility assays to gene expression profiles.
  
+### Camp Kesem (2020-2022)
+
+Camp Kesem is a college-run nonprofit organization where college students volunteer our time year-round to fundraise and host a free summer camp for children whose parents are affected by cancer. During my time at this non-profit organization, I served as the treasurer of the UC Santa Cruz Chapter. As the treasurer, I really got to use some of my mathematics to crunch some numbers and really get a hands on experience with working with financial data management through excel spreadsheets. More sepcifically I managed chapter finances, filed company grants from local Santa Cruz non-profit businesses, and created budgets for all the expenses needed to host a summer camp. I enjoyed my time serving as a treasurer and counselor for this non-profit organization
+
+{% include figure image_path="images/kesem.jpg" alt="this is a placeholder image" caption="Getting a $5000 grant from Caroline's Non Profit, Santa Cruz" %}
+
  
 ### UC Santa Cruz, Baskin School of Engineering (2019-2022)
  
@@ -44,17 +50,17 @@ In Spring 2022, I graduated with my Bachelors in Science in Applied Mathematics 
  
 # Goals
  
-Some of my recent goals consist of becoming more well rounded and specialized in machine learning (supervised and unsupervised), and have the skills necessary to pursue data science oriented tasks. I also wanted to have a better understanding of the current biological research landscape by understanding the basics of life sciences. Therefore I have been taking a variety of courses at EPFL that have all helped me work towards this goal.
+Some of my recent goals consist of becoming more well rounded and specialized in machine learning (supervised and unsupervised), and have the skills necessary to pursue data science oriented tasks. I also wanted to have a better understanding of the current biological research landscape by understanding the basics of life sciences. Therefore I have been taking a variety of courses at EPFL that have all helped me work towards this goal. Outside of my academic goals, I have been trying to read more and maintaining good fitness to live a healthier life style.
  
 ---
  
 # Outside Interests
  
-Outside the realm of academics, I am widely interested in a few things. First and foremost is photography. I enjoy photography so much that I gave my hobby its own tab [here](https://simonlee711.github.io/photos/). Photography has been my escape and has been a way to document my young hectic life. With everything going by so quickly, I am quick to forget about every little thing that has happened. However, photography has been a way for me to capture the moment and a chance to once again relive it.
+Outside the realm of academics, I am widely interested in a few things. First and foremost is photography. I enjoy photography so much that I gave my hobby its own tab [here](https://simonlee711.github.io/photos/). Photography has been my escape and has been a way to document my young hectic life. With everything going by so quickly, I am quick to forget every little thing that has happened. However, photography has been a way for me to capture the moment and it gives me a chance to once again relive the moment.
  
-I have also been widely interested in traveling ever since moving to Europe. Since Switzerland is surrounded by many neighboring big countries, it has been very accessible to travel. Also Western Europe is very central in terms of reaching the USA, Africa, and Asia, and when I have holiday breaks, I wish to travel to these areas.
+I have also been widely interested in traveling ever since moving to Europe. Since Switzerland is surrounded by many neighboring big countries, it has been very accessible to travel. Also Western Europe is very central in terms of reaching the USA, Africa, and Asia, and when I have holiday breaks, I wish to travel to some of these areas. Experiencing brand new cultures has been widely rewarding because you get exposed to new ideas and new experiences. Though California is pretty multicultural, nothing compares to the experiences spent inside another country. 
  
-**Will update more in time**
+
  
  
  
