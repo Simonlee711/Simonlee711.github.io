@@ -7,7 +7,7 @@ excerpt: "A brief biography."
 header:
  overlay_image: /images/IMG_9046.jpg
  caption: "Photo credit: Simon Lee"
-date: 2022-09-10
+date: 2022-10-16
 sidebar:
  - title: "Simon Lee"
    image: images/IMG_8952.jpg
