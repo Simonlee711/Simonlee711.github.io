@@ -65,7 +65,7 @@ What I am trying to get at is, that this "bird artist" is a complex set of mathe
  
 I've tried to help you visualize infinity but now these concepts lead to a bigger question: Does infinity exist in our physical realm? And to that we say yes and no.
  
-Physicists will often refer to black holes as a physical form of infinity due to its properties. So what exactly is a black hole? In simple terms it's a massive hold that packs matter so tightly that nothing gets out of this condensed space. This is why we virtually know nothing about it. A visualization of these systems were best seen in the movie "Interstellar" where physicists say its visualization is pretty accurate to the one they imagine. It has a beautiful event horizon like seen in the gif below.
+Physicists will often refer to black holes as a physical form of infinity due to its properties. So what exactly is a black hole? In simple terms it's a massive hole that packs matter so tightly that nothing gets out of this condensed space. This is why we virtually know nothing about it. A visualization of these systems were best seen in the movie "Interstellar" where physicists say its visualization is pretty accurate to the one they imagine. It has a beautiful event horizon like seen in the gif below.
  
 <image src="/images/hole.gif" alt="Spinners" width="650" caption="Black hole visualized" />
  
