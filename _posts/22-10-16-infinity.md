@@ -17,7 +17,7 @@ This is a hard read because it is technical but I tried to explain it as simply 
  
 # Introduction
  
-<image src="/images/space.gif" alt="Spinners" width="650"  />
+<image src="/images/space.gif" alt="Spinners" width="650" caption="Infinitely moving in one direction" />
  
 I just finished watching an incredible documentary about infinity. However it first leads to the question: what is infinity? A number, a concept, a spatial or temporal domain? The answer I guess is dependent on who we are talking to. So the next question that comes to mind is can we visualize infinity? I will provide a mathematical example.
  
@@ -55,7 +55,7 @@ Typically we think that infinity is a large quantity. However let me demonstrate
  
 Calculus is hard, confusing, and it was not one of my favorite subjects in high school. However maturing is knowing that everything that changes is modeled through calculus. Whether its movement, a complex system, or even how electricity works, we need calculus to make sense of it. So based on our definition we can use calculus to control infinity. After all, as a mathematician, we know that something exists if you can observe it and constrain it using a set of tools. Calculus is that tool. So let's say we have a curve that models the position the earth is around the sun. We can model the orbit or the curve as an infinitely discretized set of lines that give us a "orbital feature". If we constrained our elliptic behavior to be  \\( n = 5 \\) lines, we would have a very bumpy pentagon-like orbit around the sun. But with this infinite discretization, we can model any rotation and even curve all revolving around our time constant. And what makes this infinite discretization awesome is that we can simplify complex systems. Take for example a fourier series [1]. In simple terms a fourier series is an infinite amount of sines and cosines summed together to form any waveform possible. Using the power of fourier series and the amount of times it takes to get through one cycle, mathematicians have been able to concatenate a whole bunch of different series to draw pictures using these fourier series... simply INCREDIBLE.
  
-<image src="/images/bird.gif" alt="Spinners" width="650"  />
+<image src="/images/bird.gif" alt="Spinners" width="650"  caption="Fourier Series Drawings" />
  
 What I am trying to get at is, that this "bird artist" is a complex set of mathematical series all simply added on top of one another. But by breaking each series into individual parts, mathematicians were able to figure out how to draw birds from freaking vectors! This idea of studying simple systems to explain bigger ones is a huge application in systems biology, electrical engineering, etc. Our brain is only a finite amount of space so we need to find ways to understand large systems in easier terms. This simple to complex mindset has led to many great discoveries in our time, and one is electricity which has revolutionized our world.
  
@@ -67,7 +67,7 @@ I've tried to help you visualize infinity but now these concepts lead to a bigge
  
 Physicists will often refer to black holes as a physical form of infinity due to its properties. So what exactly is a black hole? In simple terms it's a massive hold that packs matter so tightly that nothing gets out of this condensed space. This is why we virtually know nothing about it. A visualization of these systems were best seen in the movie "Interstellar" where physicists say its visualization is pretty accurate to the one they imagine. It has a beautiful event horizon like seen in the gif below.
  
-<image src="/images/hole.gif" alt="Spinners" width="650"  />
+<image src="/images/hole.gif" alt="Spinners" width="650" caption="Black hole visualized" />
  
 So how exactly do black holes resemble infinity? We are going to use Einstein's theory of relativity to explain how these resemble and what occurs inside a black hole theoretically. Entering a black hole will feel like you're falling infinitely, however this falling stage is finite according to Einstein. Einstein believes at some point you will hit the "floor" of the black hole that is called the singularity: which is an infinite curvature in space-time where all the mass of the black hole is concentrated. The environment has infinite density and it is catastrophic. It is so catastrophic that being in here will literally break physics and you become unobservable. You simply cease to exist anymore. I do not want to go any further beyond this explanation because the world as we know it simply is broken when you are in a black hole. Therefore no more questions asked, according to Einstein.
  
@@ -85,13 +85,13 @@ Space is believed to be infinite. However, observable space or the couple galaxi
  
 This is where sh*it starts to get crazy. What if there were copies of our orientation of the universe in an unreachable distance away. It is only unreachable to us because we mentioned earlier that speed has a maximum of 299 792 458 meters/sec. It may simply just be a couple too many billion of years away. However what if in this infinite amount of our parallel universe, there are an infinite different decisions we made going on in infinite time. Imagine our lives modeled as decision trees where we might have wanted to ask our crush, and how that decision can widely impact the next sequences that occur after that.
  
-![image-center](/images/tree.jpg){: .align-center style="width: 100%;"}
+![image-center](/images/tree.jpg){: .align-center style="width: 100%;" caption="Video Game Decision Trees which can resemble decision trees in our own lives"}
  
 It is very much like the time stone and what they used in "Avengers Infinity wars' '. So we can see that there are infinite permutations that can occur within our own lives and the crazy thought is those infinite decision paths are being executed most likely in parallel in some distant spatial point... Crazy. And the fact that we can not see ourselves in a parallel universe as a millionaire or being reincarnated as a sheep is because we are not in the proximity of our parallel universes where we infinitely exist in infinitely other spatial points. bummer.
  
 Now to those who do not believe me about the maximum value at which a thing can travel, I will present another example of the speed of light in action. The stars we see at night are miniscule in size because they are billions of light years away from the Earth. And so every night when we see the stars these are image locations of where the planet was in the past. Because that star's light traveled a billion light years in distance, by the time it reaches you, that star is definitely in a much farther position in space. Isn't that a crazy thought in itself. Everything we see in the night sky, if far enough, is just a past projection of where that star, comet, planet was light years before. It is simply because light travels at a constant 299 792 458 meters/sec that it took us so long to be able to perceive it.
  
-![image-center](/images/light.jpeg){: .align-center style="width: 100%;"}
+![image-center](/images/light.jpeg){: .align-center style="width: 100%;" caption="A hand drawn drawing of what our eyes percieve when we see planet X in this case"}
  
 ---
  
