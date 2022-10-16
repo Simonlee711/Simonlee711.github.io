@@ -17,17 +17,17 @@ feature_row_left1:
     btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left2:
-  - image_path: /assets/splash2/2.jpg
-    title: "Anime Recommendation System"
-    excerpt: "Have you ever wanted to watch a show just like your favorite anime? Well look no further because using our content based anime recommendation system, you will get 5 reliable recommendations based on the synopsis. Our sources are from myanimelist.com"
-    url: "https://simonlee711.github.io/projects/anime/"
-    btn_label: "Read More"
-    btn_class: "btn--secondar"
-feature_row_left3:
   - image_path: /images/projects/brain1/brain.png
     title: "Processing Faces - Brain Activity Modeling"
     excerpt: "Have you ever wondered what the brain is doing when processing visual stimuli such as faces? Well in the field of computational neuroscience there have long been models that can model the brain activity when we are presented with visual stimuli. Tap to read more"
     url: "https://simonlee711.github.io/projects/brain/"
+    btn_label: "Read More"
+    btn_class: "btn--secondar"
+feature_row_left3:
+  - image_path: /assets/splash2/2.jpg
+    title: "Anime Recommendation System"
+    excerpt: "Have you ever wanted to watch a show just like your favorite anime? Well look no further because using our content based anime recommendation system, you will get 5 reliable recommendations based on the synopsis. Our sources are from myanimelist.com"
+    url: "https://simonlee711.github.io/projects/anime/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
 ---
