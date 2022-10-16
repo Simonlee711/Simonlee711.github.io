@@ -117,7 +117,7 @@ So let's go back to the theoretical side of things and ask what if we went in on
  
 # So what
  
-Truth is no one should care. A lot of the worries and theoretical physics and mathematics is being done is all mathematically proven theory which might not be true at all. I will conclude with one last thought. Are humans infinite? Will there be an infinite variation of human beings for the next 100 billion years? The answer is probably not but there is no way to compare human beings due to their short life spans. However I have reached this point because like the observable universe our brains can only hold so many neurons. And these neurons can be intertwined in an exponential amount of ways but this number is likely to still be finite. So based on everything that was discussed in this blog post, I believe that due to the finite dimensions of our brains, humans themselves also cannot be infinite.
+Truth is no one should care. A lot of the theoretical physics and mathematics is being done is purely to understand the universe we live in. I will conclude with one last thought. Are humans infinite? Will there be an infinite variation of human beings for the next 100 billion years? The answer is probably not but there is no way to compare human beings due to their short life spans. However I have reached this point because like the observable universe our brains can only hold so many neurons. And these neurons can be intertwined in an exponential amount of ways but this number is likely to still be finite. So based on everything that was discussed in this blog post, I believe that due to the finite dimensions of our brains, humans themselves also cannot be infinite.
  
 So this leads me back to my original question: What is Infinity? 
 
