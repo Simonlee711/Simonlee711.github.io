@@ -47,6 +47,6 @@ To take it a step further, mathematicians have made a new way to visualize this 
  
 ![image-center](/images/post_photos/1.png){: .align-center style="width: 60%;"}
  
-This problem has been impossible to prove. Famous mathematician Paul Erdos says, "Mathematics is not yet ripe enough for such questions." Therefore I do not incline to speak any further. I hope you learned something, and I hope you have a good day.
+This problem remains impossible to prove and has been something we have been told to avoid as mathematicians. Famous mathematician Paul Erdos says, "Mathematics is not yet ripe enough for such questions." Therefore following Paul's words, I wish to not speak any further. I hope you learned something, and I hope you have a good day.
  
 
