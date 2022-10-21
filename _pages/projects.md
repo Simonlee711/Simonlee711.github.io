@@ -33,7 +33,7 @@ feature_row_left3:
 ---
 # Overview
 
-In this tab you will see some of the personal and academic projects I have done over the years. This is my projects portfolio containing a wide array of different projects. Within each project you will get an in-depth description as well as any source code/papers/posters that go along with each associated project. On top of this, I will list any group collaborations, and I will provide their contact information within each subpage. Feel free to roam around and if there are any questions regarding the projects, feel free to contact me at ```simonlee711@gmail.com```.
+In this tab, you will see some of my personal and academic projects over the years. This is my project portfolio containing a wide array of different projects. Within each project, you will get an in-depth description and any source code/papers/posters that go along with each associated project. On top of this, I will list any group collaborations and provide their contact information within each subpage. Feel free to roam around, and if there are any questions regarding the projects, please contact me at ```simonlee711@gmail.com```.
 
 ---
 

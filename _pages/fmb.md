@@ -6,7 +6,7 @@ classes: wide
 excerpt: "A video game created by Simon Lee"
 header:
  overlay_image: /images/projects/sky.png
- caption: "Where's my bread"
+ caption: "Where's my bread."
 date: 2022-09-12
 sidebar:
  nav: "docs2"
@@ -81,11 +81,11 @@ Pygame, Game Dev, Physics Engine, Artificial Intelligence
  
 {% include figure image_path="images/projects/title.png" alt="this is a placeholder image" caption="Where's my bread official logo" %}
  
-Welcome to the 2D platformer created entirely by me titled **Where's My Bread**. The game has two goals to be awarded the maximum points. One of the objectives of the game is to collect as many pieces of bread that are scattered around Paris, France. The second objective is to reach the end goal flag as fast as you can. In a way if you think of *Super Mario Bros* it is the same concept entirely except the two features of the game have been split up. The backstory of this game is that we have a baker whose bread was stolen and was therefore scattered around the city of Paris. Because there has yet to be a release of version 2.0.0 +, we have not met all the characters that could have possibly been in the realm of *Where's My Bread*. Future releases will come as I find free time for myself.
+Welcome to the 2D platformer created entirely by me titled **Where's My Bread**. The game has two goals to be awarded the maximum points. One of the game's objectives is to collect as many pieces of bread as are scattered around Paris, France. The second objective is reaching the end goal flag as quickly as possible. In a way, if you think of *Super Mario Bros* it is the same concept entirely, except the two features of the game have been split up. The backstory of this game is that we have a baker whose bread was stolen and was therefore scattered around the city of Paris. Because there has yet to be a release of version 2.0.0 +, we have not met all the characters that could have possibly been in the realm of *Where's My Bread*. Future releases will come as I find free time for myself.
  
 # Design
  
-The longest part of the game development came from the art itself. Having to hand draw everything from the players, to the enemies, even to the backdrop of Paris and the Eiffel Tower took nearly two and a half weeks of work. I used the [Aesprite](https://www.aseprite.org/) software to draw everything. Truth is the character design is widely inspired and has the same dimensions from one of my favorite video games, Madelin from [*Celeste*](https://store.steampowered.com/app/504230/Celeste/).
+The longest part of the game development came from the art itself. Having to hand draw everything from the players to the enemies, even to the backdrop of Paris and the Eiffel Tower, took nearly two and a half weeks of work. I used the [Aesprite](https://www.aseprite.org/) software to draw everything. The character design is widely inspired and has the exact dimensions from one of my favorite video games, Madelin from [*Celeste*](https://store.steampowered.com/app/504230/Celeste/).
  
 <p float="left">
  <img src="/images/projects/1.png" width="37" />
@@ -107,7 +107,7 @@ The longest part of the game development came from the art itself. Having to han
  
 # Physics Engine
  
-Creating a video game makes you question a lot about what we take for granted. In the context of games, that is all of physics from the amount of time we can jump once we hit the floor, to understanding what exactly is a "floor"? One of the best aspects of creating this game was being able to customize how high a player could jump or how fast gravity brought them to the floor. I will share within the ```Player``` class how movement worked in my game. Though I won't explain it to much detail in this article, I have documented the code in a way so that anyone can see what the blocks of code are doing relative to the player action
+Creating a video game makes you question what we take for granted. In the context of games, that is all of physics, from the amount of time we can jump once we hit the floor to understand what exactly is a "floor." One of the best aspects of creating this game was customizing how high a player could jump or how fast gravity brought them to the floor. I will share within the ```Player``` class how movement works in my game. Though I will not explain it in much detail in this article, I have documented the code in a way so that anyone can see what the blocks of code are doing relative to the player action
  
 #### Code
  
@@ -202,7 +202,7 @@ def move(self, moving_left, moving_right):
  
 {% endhighlight %}
  
-In the above code segment just in the movement section alone, I had to engineer how movement worked, how gravity worked, the height of jumping, checking collision between immobile objects (floors, walls), checking for collision with water/cars (instant death), how the game would react if I fell off the screen, as well as have a continuous scrolling feature since that looked real since the background is not fixed.
+In the above code segment, just in the movement section alone, I had to engineer how movement worked, how gravity worked, the height of jumping, checking collision between immobile objects (floors, walls), checking for collision with water/cars (instant death), how the game would react if I fell off the screen, as well as have a continuous scrolling feature since that looked real since the background is not fixed.
  
 <p float="left">
  <img src="/images/projects/1.png" width="37" />
@@ -224,27 +224,27 @@ In the above code segment just in the movement section alone, I had to engineer 
  
 # Enemy Artificial Intelligence
  
-One of the exciting parts of implementing a video game was implementing a set of enemy ai that would try to cause discourse to the player. Since the objective of the game is to not let the user reach the goal so easily, we implemented these mafia men who would shoot at the player if they were within their line of sight. *There were also car ai's within the game that would try to run you over if you did not dodge them, however the car ai was identical to the mafia men except they didn't shoot at the player*. 
+One of the exciting parts of implementing a video game was implementing a set of enemy ai that would try to cause discourse to the player. Since the game's objective is not to let the user reach the goal so quickly, we implemented these mafia men who would shoot at the player if they were within their line of sight. *There were also car ai's within the game that would try to run you over if you did not dodge them; however, the car ai is identical to the mafia men except they did not shoot at the player*. 
  
 #### Enemy Movement
  
-When it came to the AI movement, I implemented randomness as a way of when to change directions while pacing back and forth. This was to ensure that the enemies never fall off the screen as well as never walk continuously forever in a single direction. Randomness is a common theme in machine learning and AI and the big idea was to set some type of cool down error for the AI in order to make a pacing back and forth feature. To do this we had a boolean expression of the following:
+When it came to the AI movement, I implemented randomness as a way of when to change directions while pacing back and forth. This was to ensure that the enemies never fell off the screen and never walked continuously forever in a single direction. Randomness is a common theme in machine learning and AI, and the big idea was to set some cool-down errors for the AI to make a pacing back-and-forth feature. To do this, we had a boolean expression of the following:
  
 ```
 random.randint(1, 200) == 1:
 ```
  
-What the above code is saying is that our AI will choose a random integer from the range 1 to 200. If the random integer selected is 1 then the AI will switch direction. So in theory the AI has a \\(\frac{1}{200}\\) chance of changing direction. Though this seems like a rather small probability for the AI to switch directions, lets not forget how many computations are being immediately processed within the game. When playing the game, the amount of times the AI switches direction seems rather natural although our AI has a 0.5% chance of switching directions.
+The above code says that our AI will choose a random integer from the range 1 to 200. If the random integer selected is 1 then the AI will switch direction. So, in theory, the AI has a \\(\frac{1}{200}\\) chance of changing direction. Though this seems like a relatively small probability for the AI to switch directions, let us not forget how many computations are immediately processed within the game. When playing the game, the number of times the AI switches direction seems natural instead. However, our AI has a 0.5% chance of switching directions.
  
 #### Enemy Attack
  
-In addition we had to come up with a way for when the enemy attacked the player. Therefore we made these vision rectangles that emulated vision. This was one of the rather cool features of the game and hit boxes are very conventional across most video games involving any form of AI to user interface.
+In addition, we had to devise a way for when the enemy attacked the player. Therefore we made these vision rectangles that emulated vision. This was one of the relatively cool features of the game, and hitboxes are very conventional across most video games involving any form of AI in the user interface.
  
 ![image-center](/images/projects/hitbox.jpg){: .align-center style="width: 40%;"}
 ![image-center](/images/projects/hitbox2.jpg){: .align-center style="width: 40%;"}
  
  
-In the images above we can see what I briefly described in the previous paragraph. Each player and enemy had their own personal rectangular hit box drawn in *blue* and then the enemies had a red vision box, where if the player ever entered it, it would signal our Ai to begin shooting at the player. However as the player you are given a little under a second to react and dodge the projectile coming your way so that there would be some fairness to the game. The code for these concepts can be seen within our ai method within our Player class.
+In the images above, we can see what I briefly described in the previous paragraph. Each player and enemy had their rectangular hit box drawn in *blue*. Then the enemies had a red vision box, where if the player ever entered it, it would signal our Ai to begin shooting at the player. However, as the player, you are given a little under a second to react and dodge the projectile coming your way so that there would be some fairness to the game. The code for these concepts can be seen within our ai method within our Player class.
  
 #### Code
  
@@ -311,13 +311,13 @@ In the images above we can see what I briefly described in the previous paragrap
  
 # Code
  
-This was an independent project done in the summer of 2021. Building a game from scratch was one of the longest projects I have embarked on and have wished to make a higher level game real soon on a better game engine
+This was an independent project done in the summer of 2021. Building a game from scratch was one of the most extended projects I have embarked on, and have wished to make a higher-level game real soon on a better game engine
  
 ```audio``` - contains music for the game
  
-```buttons``` - contains the 8 bit art buttons files (.png)
+```buttons``` - contains the 8-bit art buttons files (.png)
  
-```img``` - contains character, enemy, level, background sprites in 8 bit art
+```img``` - contains character, enemy, level, and background sprites in 8-bit art
  
 ```button.py``` - a file to generate buttons within the pygame environment
  
@@ -353,7 +353,7 @@ This was an independent project done in the summer of 2021. Building a game from
  
 # How to play game
  
-make sure you have pygame package installed
+Make sure you have pygame package installed
 ```
 pip install pygame==1.9.6
 ```
