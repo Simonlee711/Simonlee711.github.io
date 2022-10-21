@@ -50,7 +50,7 @@ In Spring 2022, I graduated with my Bachelor of Science degree in Applied Mathem
  
 # Goals
  
-Some of my current goals are becoming more well-rounded and specialized in machine learning (supervised and unsupervised) and having the skills necessary to pursue data science oriented tasks. I also wanted to better understand the current biological research landscape by understanding the basics of life sciences. Therefore I have been taking various courses at EPFL that have helped me work toward this goal. Outside of my academic pursuits, I have been trying to read more and maintaining good fitness to live a healthier lifestyle.
+Some of my current goals are becoming more well-rounded and specialized in machine learning (supervised and unsupervised) and having the skills necessary to pursue data science oriented tasks. I also wanted to better understand the current biological research landscape by understanding the basics of life sciences. Therefore I have been taking various courses at EPFL that have helped me work toward this goal. Outside of my academic pursuits, I have been trying to read more and maintain good fitness to live a healthier lifestyle.
  
 ---
  
