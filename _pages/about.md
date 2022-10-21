@@ -16,7 +16,7 @@ sidebar:
 
 # Introduction
  
-Hello. My name is Simon Austin Lee. I am currently a student at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am studying life sciences engineering and building my statistics and machine learning skills to strengthen my profile for a Ph.D. in computational biology/biomathematics research. My recent interest is running machine learning algorithms on healthcare and genetic data. I wish to therefore pursue a career in biomedical data science at the industry level after obtaining proper training in research through a Ph.D. The particular research focus I want to enter is precision medicine, where I hope to impact transforming healthcare. Therefore I am very open to any internships that currently offer practical experiences in the field.
+Hello. My name is Simon Austin Lee. I am currently a student at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am studying life sciences engineering and building my statistics and machine learning skills to strengthen my profile for a Ph.D. in computational biology/biomathematics research. My recent interests have been running machine learning algorithms to analyze healthcare and genetic data. The particular research focus I want to enter is precision medicine, where I hope to impact our understanding of diseases by leveraging healthcare information. My hope is to pursue a career in biomedical data science at the industry level in the near future. Therefore I am very open to any internships that currently offer practical experiences in the field.
  
 ---
  
