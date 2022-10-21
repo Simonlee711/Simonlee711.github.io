@@ -13,7 +13,7 @@ sidebar:
  nav: "docs2"
  
 feature_row_left1:
- - url: "https://github.com/Simonlee711/CSE-13S/tree/master/asgn6"
+ - url: "https://github.com/Simonlee711/UCSC/tree/main/CSE-13S/asgn6"
    btn_label: "Code"
    btn_class: "btn--primary"
 ---

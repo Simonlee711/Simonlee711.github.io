@@ -13,7 +13,7 @@ sidebar:
  nav: "docs2"
  
 feature_row_left1:
- - url: "https://github.com/Simonlee711/Research/tree/master/Fermi-Pasta-Ulam-Tsongu"
+ - url: "https://github.com/Simonlee711/UCSC/tree/main/Research%20Projects/Fermi-Pasta-Ulam-Tsongu"
    btn_label: "Code"
    btn_class: "btn--primary"
 ---
