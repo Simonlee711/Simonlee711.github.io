@@ -17,7 +17,7 @@ feature_row_left1:
     btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left2:
-  - image_path: /images/projects/brain1/brain.png
+  - image_path: /images/brain.png
     title: "Processing Faces - Brain Activity Modeling"
     excerpt: "Have you ever wondered what the brain is doing when processing visual stimuli such as faces? Well in the field of computational neuroscience there have long been models that can model the brain activity when we are presented with visual stimuli. Tap to read more"
     url: "https://simonlee711.github.io/projects/brain/"
