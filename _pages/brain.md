@@ -53,7 +53,7 @@ After constructing the design matrix, a mathematical model is then fitted to the
 
 {% include figure image_path="images/projects/brain1/conv.png" alt="this is a placeholder image" caption="Visual Demonstration of Convolution" %}
 
-{% include figure image_path="images/projects/brain1/stim2.png" alt="this is a placeholder image" caption="Our Brain Voxel Stimuli" on more sporatic and instant signals%}
+{% include figure image_path="images/projects/brain1/stim2.png" alt="this is a placeholder image" caption="Our Brain Voxel Stimuli on more sporatic and instant signals"%}
 
 {% include figure image_path="images/projects/brain1/conv2.png" alt="this is a placeholder image" caption="Visual Demonstration of Convolution of these sporatic signals" %}
 
