@@ -48,8 +48,7 @@ analysis computational framework that will allow for the early detection of AD.
 
 To solve this problem, we need to leverage innovative approaches such as machine learning, which
 are computationally intensive and non-traditional in the medical field. However, machine learning techniques
-have been increasingly used in disease prediction and visualization to offer prescient and customized pre-
-scriptions. Physicians and medical specialists sometimes are left with tough decision-making and fear the
+have been increasingly used in disease prediction and visualization to offer prescient and customized prescriptions. Physicians and medical specialists sometimes are left with tough decision-making and fear the
 extreme penalty of misdiagnosing a patient. So by taking these computational approaches, we not only im-
 prove the patients' quality of life, but this also aids physicians in making decisions. With computers showing
 promise with their high level of precision, this is only the beginning of this partnership between computation
@@ -102,13 +101,13 @@ Pre-processing is one of the most critical steps in machine learning, especially
 
 One of the first significant steps during the preprocessing was to convert our MRI scans from the NifTI (.nii) format into the png lossless image format. Therefore, we used a python script from (OfStack et al., 2021) to perform this conversion for us. By performing this critical step, we significantly reduce our dataset from 11.94 Gb to 52.10 Mb, which is a 99.60 \% compression rate. We hope that through this size reduction, our model can handle all the data on memory and be trained optimally by not having to feed such a large amount of data during our training process. 
 
-In addition to our file format conversion, we normalized our image data because some MRI scans have varying qualities. Neural networks process inputs using small weight values, and inputs with large integer values can disrupt or slow the learning process (Brownlee et al., 2019). As such, it is good practice to normalize the pixel values so that each value has a value between 0 and 1. Additionally, we also converted the image's shape to 224 x 224 x 3, making it really easy to feed into our Convolutional Neural Network. Our data can be visualized as seen in the below figure.
+In addition to our file format conversion, we normalized our image data because some MRI scans have varying qualities. Neural networks process inputs using small weight values, and inputs with large integer values can disrupt or slow the learning process (Brownlee et al., 2019). As such, it is good practice to normalize the pixel values so that each value has a value between 0 and 1. Additionally, we also converted the image's shape to 224 x 224 x 3, making it really easy to feed into our Convolutional Neural Network with no varying sizes. Our data can be visualized as seen in the below figure.
 
 {% include figure image_path="images/projects/data_vis.png" alt="this is a placeholder image" caption="Our labeled brain data" %}
 
 Lastly, as part of the preprocessing step, we split our images into testing, validation, and training sets.
 We manually performed this split and came to the following breakdown: 1568 images for the training set,
-391 images for the validation set, & 419 images for the testing set
+391 images for the validation set, & 419 images for the testing set.
 
 # CNN
 
