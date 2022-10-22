@@ -187,7 +187,7 @@ if __name__ == "__main__":
  
 ## Retrain model
  
-The last part of my summer was to retrain the imputer model with the new data I had generated. Everything was essentially written within "`abp_imputer.ipynb` "and all I had to do was change the "`git_configs.py` "and "`abp_model.py` "files so that it took in the correct amount of additional channels within our one-dimensional waveform. However, due to time constraints, I could not test the 4000+ patient files I generated in the summer. We couldn't find a way to load the data, and training would have taken an extremely long time if I had trained on the whole patient sample. Therefore Dr. Akos Rudas and Dr. Jeffrey Chiang are currently working on those two aspects that I could not. We hope to release a published paper after its completion.
+The last part of my summer was to retrain the imputer model with the new data I had generated. Everything was essentially written within "`abp_imputer.ipynb` "and all I had to do was change the "`git_configs.py` "and "`abp_model.py` "files so that it took in the correct amount of additional channels within our one-dimensional waveform. However, due to time constraints, I could not test the 4000+ patient files I generated in the summer. We couldn't find a way to load all the data, and training would have taken an extremely long time if I had trained on the whole patient sample. Therefore Dr. Akos Rudas and Dr. Jeffrey Chiang are currently working on those two aspects that I could not. We hope to release a published paper after its completion.
  
 ---
  
