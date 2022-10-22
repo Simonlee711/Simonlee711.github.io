@@ -98,7 +98,7 @@ One of the most valuable skills I was taught this summer was how to run code in 
  
 {% include figure image_path="images/projects/parallel.jpg" alt="this is a placeholder image" caption="A procedure inspired by *Silicon Valley* to make drug columns" %}
  
-The significant idea was that if I could write out the drug columns and save that entry within a "`lockfile.lock` ", we could keep the progress of which files have been written into and which have not. Therefore using this Silicon valley inspired parallelized function, I ran it. And it still took nearly two weeks until it was finished... The code is shown below:
+The significant idea was that if I could write out the drug columns and save that entry within a "`lockfile.lock` ", we could keep the progress of which files have been written into and which have not. Therefore using this Silicon valley inspired parallelized function, I executed this brutal task. And it still took nearly two weeks until it was finished... The code is shown below:
  
 {% highlight python linenos %}
  
