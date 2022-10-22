@@ -80,7 +80,7 @@ My main objective during the 2022 summer was to improve the current imputer mode
  
 {% include figure image_path="images/projects/goal.jpg" alt="this is a placeholder image" caption="This is the overview of the data preparation" %}
  
-The first step was to scrape the EHR for this vasopressor information. The five vasopressors we looked at specifically were:     Epinephrine, Dobutamine, Dopamine, Phenylephrine, and Norepinephrine. However, part of the challenge was finding out which code was associated with which drug. In the healthcare industry, most items were masked with a numerical ID for privacy reasons. The first step was going through "`D_items.csv` "to extract the five numerical IDs. Next, we needed to look through "`INPUTEVENTS_MV.csv` "which contained *which patients got what drug*, *the timestamps of administration*, *the end timestamp of administration*, and the *dosage* of the vasopressor.
+The first step was to scrape the EHR for this vasopressor information. The five vasopressors we looked at specifically were:     Epinephrine, Dobutamine, Dopamine, Phenylephrine, and Norepinephrine. However, part of the challenge was finding out which code that was associated with which drug. In the healthcare industry, most items were masked with a numerical ID for privacy reasons. The first step was therefore going through "`D_items.csv` "to extract the five numerical IDs. Next, we needed to look through "`INPUTEVENTS_MV.csv` "which contained *which patients got what drug*, *the timestamps of administration*, *the end timestamp of administration*, and the *dosage* of the vasopressor.
  
 {% highlight python linenos %}
  
@@ -92,7 +92,7 @@ Through running this simple one line of code, I could filter out all the patient
  
 ## Creating new Drug Columns
  
-Writing in the drug columns was the biggest pain in the a$$ and took nearly three out of the eight weeks of my internship. Because each patient's EKG, PPG, was being tracked through milliseconds, this resulted in files of upwards to ***100 billion*** rows by six columns. The worst part was that we would be adding five columns for each unique vasopressor, which would only increase the file size. Right before I was about to generate these new data files, I checked the data size of our dataset. I was astonished that our dataset came out to **4.4 Terabyte** of data even while compressed. Therefore we needed a clever solution to write out these new drug columns.
+Writing in the drug columns was the biggest hardship I faced and took nearly three out of the eight weeks of my internship. Because each patient's EKG, PPG, was being tracked through milliseconds, this resulted in files of upwards to ***100 million*** rows by six columns. The worst part was that we would be adding five columns for each unique vasopressor, which would only increase the file size. Right before I was about to generate these new data files, I checked the data size of our dataset. I was astonished that our dataset came out to **4.4 Terabyte** of data even while compressed. Therefore we needed a clever solution to write out these new drug columns.
  
 One of the most valuable skills I was taught this summer was how to run code in parallel. And since the "`halperingpu` "had up to 80 CPU cores, I was allowed to use up to 20 of them. In addition, I became inspired by the TV show "Silicon Valley," where they make an optimized compression algorithm called mid-out. Similarly, I was going to start with the first and last patients' data files and meet in the middle. A visual is displayed below:
  
