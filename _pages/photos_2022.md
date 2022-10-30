@@ -30,9 +30,27 @@ Enjoy Simon Lee's 2022.
 
 ## October 2022
 
+![image-right](/images/2022/oct.JPG){: .align-right style="width: 30%;"}
+#### TEDxEcublens, Switzerland
+{: style="text-align: right;"}
+#### October 19, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 ---
 
 ## September 2022
+
+![image-left](/images/2022/sep3.JPG){: .align-left style="width: 30%;"}
+#### Basel, Switzerland 
+#### September 24, 2022
+<br/><br/><br/><br/>
+
+![image-right](/images/2022/sep2.JPG){: .align-right style="width: 40%;"}
+#### Brussels, Belgium
+{: style="text-align: right;"}
+#### September 23, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ![image-left](/images/2022/Sep.jpg){: .align-left style="width: 30%;"}
 #### Eiffel Tower, Paris 
