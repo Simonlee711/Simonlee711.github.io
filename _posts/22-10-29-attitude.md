@@ -8,8 +8,6 @@ tags:
   - Lessons
 ---
 
-# Introduction
-
 It is safe to say that life has not been easy. However, this may be the case for many people around the world. For this reason, I wanted to provide an update and explain why a change in attitude is all you need to turn your life around. My most significant barrier when struggling is oftentimes myself. After all, there is no pressure unless you inflict it upon yourself. I am not a life coach so please do take my words with a grain of salt. But, there is value in sharing perspectives from different points of view, which has been one of my most proud attributes about growing myself.
 
 # The Importance of Attitude
