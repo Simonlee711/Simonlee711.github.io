@@ -5,6 +5,11 @@ permalink: /version/
 layout: single
 date: 2022-09-12
 --- 
+## Version 1.0.6
+**October 30, 2022**
+
+A new version is long overdue with a new feature in the projects. Also new blog posts, an added qotd section, an updated map and more. 
+
 ## Version 1.0.5
 **October 9, 2022**
 
