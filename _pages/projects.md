@@ -4,7 +4,7 @@ permalink: /projects/
 excerpt: A list or projects and their descriptions.
 layout: single 
 classes: wide
-date: 2022-09-10
+date: 2022-10-20
 sidebar:
   nav: "docs2"
 header:
