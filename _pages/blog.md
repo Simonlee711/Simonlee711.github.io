@@ -31,7 +31,7 @@ After schooling, he entered his professorship at UCLA at TWENTY (still crazy). F
 
 Though this biography has been relatively concise and could be shared in much greater detail, I am still determining to what extent people find his fascination, so I will keep it short for the case of my general audience. 
 
-# What this means for me
+## What this means for me
 
 As far as I can remember, one of my dreams was to be perceived as a creatively intelligent thinker. Becoming a specialist or a master of a field always had a nice twist, and it's still a goal I have been chasing. Though it's a rather strange goal, I have been inspired by people like John Nash and Alan Turing. Dr. Nash is another famous mathematician known for his Nash Equilibrium and contributions to Game theory. For those unaware of John Nash's story, he was a brilliant mathematician who dealt with Schizophrenia from his early adulthood. Though he faced mental hardships, everyone describes him as having a "beautiful mind" and seeing the world differently than an average person would. Another big inspiration was mathematician/computer scientist Alan Turing, who helped the British government pioneer the technology to decrypt Nazi Germany's secret communications during World War II. Though his life ended tragically, he was still a big source of inspiration to me. He was regarded as the father of cryptography and computing. Some of his work lives on in the field of artificial intelligence, known as the Turing test, to see if a computer can independently exhibit intelligent behavior like a human being. To this day, no computer has beaten the Turing test, and it has been a good indication that artificial intelligence is not as far as we think it is.
 
