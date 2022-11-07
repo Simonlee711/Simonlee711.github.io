@@ -1,8 +1,6 @@
 ---
 title: "Simon's Blog"
 permalink: /blog/
-layout: single
-classes: wide
 date: 2022-11-07
 header:
   overlay_image: /images/back.jpg
