@@ -4,10 +4,12 @@ permalink: /blog/
 layout: single
 classes: wide
 date: 2022-11-07
+header:
+  overlay_image: /images/back.jpg
 toc: true
 ---
 
-# Description
+## Description
 
 Below you can find my blog posts in reverse sequential order by date. You can also find indiviudal blog posts at my home page. I started a blog because writing has been another hobby that has given me joy. There is a beauty in conveying messages through writing, and I think its a dying skill nowadays. I've been often told that my writing can sometimes be all over the place, so this is also a way to improve my writing. Therefore the goal is to convey topics I find interesting every week and explain my enthusiasm to a general audience. There may be more technical posts sometimes but my goal is to do my best to explain things better and simpler for anyone to understand. This will be an ongoing project where I will cover a variety of topics: Europe, Math/Sciences, Miscallaneous. I will attempt to write 1 to 2 posts a week based on time. I hope you enjoy!
 
