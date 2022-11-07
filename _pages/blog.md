@@ -16,7 +16,7 @@ Below you can find my blog posts in reverse sequential order by date. You can al
 ---
 
 ## Terrance Tao
-### October 30, 2022
+**October 30, 2022**
 
 
 This week the audience is lucky to get two blog posts in one weekend. Today's second half of the dual blog post is about a famous mathematician, Terrance Tao. I have heard of him since my time as an undergraduate student. However, I just found out the extent of his brilliance recently. For those who do not know, he is considered the "Mozarts of Mathematics" because math flows through him. However, recently you may have seen him in online ads for his latest masterclass, where he teaches problem-solving. Today I wanted to discuss his brief biography and what lessons I have taken from his incredible life.
@@ -41,7 +41,7 @@ On top of his words, I also realized through him that you are as far as you will
 
 
 ## Attitude
-### October 29, 2022
+**October 29, 2022**
 
 It is safe to say that life has not been easy. However, this may be the case for many people around the world. For this reason, I wanted to provide an update and explain why a change in attitude is all you need to turn your life around. My most significant barrier when struggling is oftentimes myself. After all, there is no pressure unless you inflict it upon yourself. I am not a life coach so please do take my words with a grain of salt. But, there is value in sharing perspectives from different points of view, which has been one of my most proud attributes about growing myself.
 
@@ -64,7 +64,7 @@ All these small changes I have applied have resulted in a massive transformation
 ---
 
 ## Infinity
-### October 16, 2022
+**October 16, 2022**
 
 
 ### Disclaimer
@@ -189,7 +189,7 @@ So this leads me back to one last question: What is infinity?
 ---
 
 ## Discipline
-### October 8, 2022
+**October 8, 2022**
 
 Europe has been full of experiences where I feel like I have had to grow up by 10+ years. However, what's crazy is that I have only been here for two months. To be brutally honest, moving to this new country has not been the smoothest transition. But I believe that is just one of the things you risk when you are ambitious. I did not plan a lot during the summer since I was not physically in the country. However, a lack of preparedness raised the discomfort bar tenfold. Therefore, today I wanted to talk about discipline and what it has meant and been for me since I arrived in Europe.
  
@@ -210,7 +210,7 @@ This cycle repeats nearly daily and has been a relatively rough schedule. Howeve
 ---
 
 ## EPFL Business Culture & Education System
-### October 1, 2022
+**October 1, 2022**
 
 ### Business Approach to School
  
@@ -236,7 +236,7 @@ Thanks for reading!
 ---
 
 ## BIG Summer 2022
-### September 29, 2022
+**September 29, 2022**
 
 I was fortunate to spend this summer at UCLA as part of the Bruins in Genomics summer program. Suppose you are more interested in the research side of things. In that case, I highly recommend you check that out under the projects tab, where I wrote about my summer research. This post is more about life at UCLA and all the great people I could meet.
  
@@ -277,7 +277,7 @@ Thanks for making my summer unbelievably unique, and thanks for reading!
 ---
 
 ## Why La La Land is Such a Great Movie
-### September 22, 2022
+**September 22, 2022**
 
 This week's blog post is about justifying from my point of view why La La Land is such a good movie. Before I dive deep into my take, I want to mention that Rotten Tomatoes has a rating of 91%. I think nowadays it is hard to name a film with a rating above 90%. Anyhow, this film also took 4 Academy Awards at the Oscars. Those four are the Academy Award for Best Actress, Academy Award for Best Director, Academy Award for Best Original Score, & Academy Award for Best Cinematography. It is safe to say that I endorse all these awards to the highest degree. However, let's dive into the plot and explain why this movie is so fantastic. *Also, spoiler warning if this movie review did not imply that*
 
@@ -304,7 +304,7 @@ While this is a short blog post, I was happy to share my POV about my favorite m
 ---
 
 ## The Collatz Conjecture
-### September 14, 2022
+**September 14, 2022**
 
 Mathematics can most definitely be a headache to many people, including myself. However, it is impossible to evade as almost every field of study uses mathematics as a stepping stone within their field. On the other hand, mathematics is also a subfield of theorems, proofs, and conjectures that can be deemed beautiful. Today I wanted to introduce a problem in mathematics with no intuition. It's been a problem that has long been worked on for many years, yet there is no feasible explanation for why this system occurs the way it does. It is called the **Collatz Conjecture**.
  
@@ -350,7 +350,7 @@ This problem remains impossible to prove and has been something we have been tol
 ---
 
 ## Life In Europe
-### September 23, 2022
+**September 23, 2022**
 
 Living in Europe has brought together brand-new experiences and a total cultural shock, even during my second long-term stay. Today I wanted to bring to light some of the downsides of living in Europe from my single perspective. Though there have been many positives, I wanted to highlight some downsides instead. It is safe to say I have taken some critical features for granted. * *Disclaimer I am from California, so this might not be a fair assessment* *
  
@@ -365,7 +365,7 @@ However, there have been just as many positive experiences, and I am doing well.
 ---
 
 ## Introductions
-### September 10, 2022
+**September 10, 2022**
 
 I am just about ready to launch version 1.0.0 of my website, and so far, I am delighted with the product. Although learning how to set up these free HTML themes was a bit of a headache, I am glad I stuck with it and went all the way.
  
