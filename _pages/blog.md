@@ -31,7 +31,7 @@ After schooling, he entered his professorship at UCLA at TWENTY (still crazy). F
 
 Though this biography has been relatively concise and could be shared in much greater detail, I am still determining to what extent people find his fascination, so I will keep it short for the case of my general audience. 
 
-## What this means for me
+### What this means for me
 
 As far as I can remember, one of my dreams was to be perceived as a creatively intelligent thinker. Becoming a specialist or a master of a field always had a nice twist, and it's still a goal I have been chasing. Though it's a rather strange goal, I have been inspired by people like John Nash and Alan Turing. Dr. Nash is another famous mathematician known for his Nash Equilibrium and contributions to Game theory. For those unaware of John Nash's story, he was a brilliant mathematician who dealt with Schizophrenia from his early adulthood. Though he faced mental hardships, everyone describes him as having a "beautiful mind" and seeing the world differently than an average person would. Another big inspiration was mathematician/computer scientist Alan Turing, who helped the British government pioneer the technology to decrypt Nazi Germany's secret communications during World War II. Though his life ended tragically, he was still a big source of inspiration to me. He was regarded as the father of cryptography and computing. Some of his work lives on in the field of artificial intelligence, known as the Turing test, to see if a computer can independently exhibit intelligent behavior like a human being. To this day, no computer has beaten the Turing test, and it has been a good indication that artificial intelligence is not as far as we think it is.
 
@@ -42,11 +42,11 @@ On top of his words, I also realized through him that you are as far as you will
 ---
 
 ## Attitude
-#### October 29, 2022
+### October 29, 2022
 
 It is safe to say that life has not been easy. However, this may be the case for many people around the world. For this reason, I wanted to provide an update and explain why a change in attitude is all you need to turn your life around. My most significant barrier when struggling is oftentimes myself. After all, there is no pressure unless you inflict it upon yourself. I am not a life coach so please do take my words with a grain of salt. But, there is value in sharing perspectives from different points of view, which has been one of my most proud attributes about growing myself.
 
-## The Importance of Attitude
+### The Importance of Attitude
 
 Since arriving in Europe, I have been bombarded with schoolwork and remain in a relatively challenging housing environment (I have to commute to school from a different country!). This early amount of "stress" if you will has resulted in simply not having enough time to execute everything to perfection. My two most considerable sacrifices since moving here have been a poor diet and a lack of sleep. However, these two things are relatively normal, considering what most university students go through. This ties back to a previous blog post about discipline but the looming question I think about is whether my lifestyle is maintainable? 
 
@@ -65,16 +65,16 @@ All these small changes I have applied have resulted in a massive transformation
 ---
 
 ## Infinity
-#### October 16, 2022
+### October 16, 2022
 
 
-## Disclaimer
+### Disclaimer
  
 This is a challenging read because it is technical, but I tried to explain it as simply as possible. I also think this is one of the most exciting blog posts, so even if it's hard and long, I recommend you read through the whole thing.
  
 
  
-## Introduction
+### Introduction
  
 <image src="/images/space.gif" alt="Spinners" width="650" caption="Infinitely moving in one direction" />
  
@@ -98,7 +98,7 @@ This makes no sense. Many things do not make any feasible sense in the concept o
  
 
  
-## The ∞ Hotel Paradox
+### The ∞ Hotel Paradox
  
 Suppose we have a hotel that can fit an infinite amount of people. But first, this special hotel has some rules you should know before you proceed. The hotel is always full. However, there is also always space for new customers... So if a new customer wanted to stay the night at the hotel, everyone would move to room number \\( n+1 \\), where n is their current hotel number. Sounds easy enough, right? The next evening, an infinite number of people want an infinite number of rooms to stay in since the hotel always has free space. However the customers will not move \\( n+ \infty \\) rooms. Instead there is a even more clever solution: \\( n * 2 \\). So if you were in room 1, you would move to room 2, 2->4, 3->6, 4->8, and it goes on and on and on. What did you do? You freed up every odd hotel room, and now there are an infinite number of rooms for an infinite number of customers. Well done.
 
@@ -106,13 +106,13 @@ Some people have proposed that perhaps appending the new customers to \\( \infty
  
 
  
-## ∞ is small
+### ∞ is small
  
 Typically we think that infinity is a large quantity. However, let me demonstrate that infinity can also be a small quantity. How many numbers lie between 100 and 101? That's right; it's infinite. Suppose we visualize numbers like the data structure, stack. In that case, if we keep pushing on 0 to the top of our stack, there is an endless amount of quantities that lie between these numbers (i.e., 0.00001, 0.0000000000001,...). So how do we control infinity if it is both enormous and small?
  
 
  
-## Calculus
+### Calculus
  
 Calculus is complex and confusing, and it was not one of my favorite subjects in high school. However, maturing is knowing that everything that changes is modeled through calculus. Whether it's movement, a complex system, or even how pandemics work, we need calculus to make sense of it. So based on our definition, we can use infinity to explain the world around us. After all, as a mathematician, we know that something exists if you can observe it and constrain it using a set of tools. Calculus is that tool. So let's say we have a curve that models the position of the Earth around the sun. We can model the orbit or the curve as an infinitely discretized set of lines that give us an "orbital feature ."If we constrained our elliptic behavior to be  \\( n = 5 \\) lines, we would have a very bumpy pentagon-like orbit around the sun. But with this infinite discretization, we can model any rotation and even curve, all revolving around our time constant. And what makes this infinite discretization awesome is that we can simplify complex systems. Take, for example, a Fourier series [1]. In simple terms, a Fourier series is an infinite number of sines and cosines summed together to form any possible waveform. Using the power of the Fourier series and the number of times it takes to get through one cycle, mathematicians have concatenated a whole bunch of different series to draw pictures using these Fourier series... simply INCREDIBLE.
  
@@ -122,7 +122,7 @@ What I am trying to get at is that this "bird artist" is a complex set of mathem
  
 
  
-## Where to find ∞
+### Where to find ∞
  
 I've tried to help you visualize infinity. However, now these concepts lead to a bigger question: Does infinity exist in our physical realm? And to that, we say yes and no.
  
@@ -144,7 +144,7 @@ This idea of having finite solutions within an observable space leads us to our 
  
 
  
-## Parallel Universes
+### Parallel Universes
  
 Space is believed to be infinite. However, observable space, or a couple of galaxies that we know exist, is a finite-dimensional space. And suppose we were to view this finite-dimensional space as a composition of tiny cubic voxels. In that case, a finite amount of voxels compose our "universe ."Let's say there were particular states or orientations our universe could be in. This idea puts a limited constraint on the number of permutation designs our universe can take form as. Therefore within the finite dimensions we know (observable space), there is a limitation of what our universe can look like. So what could make space infinite?
  
@@ -164,7 +164,7 @@ Now to those who do not believe me about the maximum value at which a thing can 
  
 
  
-## Just a Spec in the Universe
+### Just a Spec in the Universe
  
 Now that we know that light is the fastest thing in our universe, and even that is too slow, what does that make of us? If the universe is infinite, why even bother exploring other possible exo-planets that humans can inhabit? As someone who was a big supporter of space exploration as a kid, it also makes me wonder that this may be one of the most useless uses of our funds if they are not within a reachable point (i.e., our solar system). Even then, to get to Mars, or Jupiter's moon, Europa, it would still take an incredible amount of time that is not worth it in the end.
  
@@ -176,21 +176,21 @@ So let's go back to the theoretical side and ask, what if we went in one directi
  
 
  
-## So what
+### So what
  
 The truth is that no one should care. A lot of theoretical physics and mathematics is being done purely to understand the universe we live in. I will conclude with one last thought. Are humans infinite? Will there be an infinite variety of human beings for the next 100 billion years? The answer is probably not, but there is no way to compare human beings due to their short life spans. However, I have reached this argument because, like the observable universe, our brains can only hold so many neurons. And these neurons can be intertwined in an exponential amount of ways, but this number is likely to be still finite. So based on everything that was discussed in this blog post, I believe that due to the limited amount of permutations of our brains, humans themselves also cannot be infinite.
  
 So this leads me back to one last question: What is infinity?
 
 
-## Footnote
+### Footnote
 
 [1] Fourier Series - an infinite series of trigonometric functions representing an expansion or approximation of a periodic function. 
 
 ---
 
 ## Discipline
-#### October 8, 2022
+### October 8, 2022
 
 Europe has been full of experiences where I feel like I have had to grow up by 10+ years. However, what's crazy is that I have only been here for two months. To be brutally honest, moving to this new country has not been the smoothest transition. But I believe that is just one of the things you risk when you are ambitious. I did not plan a lot during the summer since I was not physically in the country. However, a lack of preparedness raised the discomfort bar tenfold. Therefore, today I wanted to talk about discipline and what it has meant and been for me since I arrived in Europe.
  
@@ -211,7 +211,7 @@ This cycle repeats nearly daily and has been a relatively rough schedule. Howeve
 ---
 
 ## EPFL Business Culture & Education System
-#### October 1, 2022
+### October 1, 2022
 
 ### Business Approach to School
  
@@ -237,7 +237,7 @@ Thanks for reading!
 ---
 
 ## BIG Summer 2022
-#### September 29, 2022
+### September 29, 2022
 
 I was fortunate to spend this summer at UCLA as part of the Bruins in Genomics summer program. Suppose you are more interested in the research side of things. In that case, I highly recommend you check that out under the projects tab, where I wrote about my summer research. This post is more about life at UCLA and all the great people I could meet.
  
@@ -278,7 +278,7 @@ Thanks for making my summer unbelievably unique, and thanks for reading!
 ---
 
 ## Why La La Land is Such a Great Movie
-#### September 22, 2022
+### September 22, 2022
 
 This week's blog post is about justifying from my point of view why La La Land is such a good movie. Before I dive deep into my take, I want to mention that Rotten Tomatoes has a rating of 91%. I think nowadays it is hard to name a film with a rating above 90%. Anyhow, this film also took 4 Academy Awards at the Oscars. Those four are the Academy Award for Best Actress, Academy Award for Best Director, Academy Award for Best Original Score, & Academy Award for Best Cinematography. It is safe to say that I endorse all these awards to the highest degree. However, let's dive into the plot and explain why this movie is so fantastic. *Also, spoiler warning if this movie review did not imply that*
 
@@ -305,7 +305,7 @@ While this is a short blog post, I was happy to share my POV about my favorite m
 ---
 
 ## The Collatz Conjecture
-#### September 14, 2022
+### September 14, 2022
 
 Mathematics can most definitely be a headache to many people, including myself. However, it is impossible to evade as almost every field of study uses mathematics as a stepping stone within their field. On the other hand, mathematics is also a subfield of theorems, proofs, and conjectures that can be deemed beautiful. Today I wanted to introduce a problem in mathematics with no intuition. It's been a problem that has long been worked on for many years, yet there is no feasible explanation for why this system occurs the way it does. It is called the **Collatz Conjecture**.
  
@@ -351,7 +351,7 @@ This problem remains impossible to prove and has been something we have been tol
 ---
 
 ## Life In Europe
-#### September 23, 2022
+### September 23, 2022
 
 Living in Europe has brought together brand-new experiences and a total cultural shock, even during my second long-term stay. Today I wanted to bring to light some of the downsides of living in Europe from my single perspective. Though there have been many positives, I wanted to highlight some downsides instead. It is safe to say I have taken some critical features for granted. * *Disclaimer I am from California, so this might not be a fair assessment* *
  
@@ -366,7 +366,7 @@ However, there have been just as many positive experiences, and I am doing well.
 ---
 
 ## Introductions
-#### September 10, 2022
+### September 10, 2022
 
 I am just about ready to launch version 1.0.0 of my website, and so far, I am delighted with the product. Although learning how to set up these free HTML themes was a bit of a headache, I am glad I stuck with it and went all the way.
  
@@ -374,7 +374,7 @@ The purpose of starting a blog was that I forgot how much I miss recreational wr
  
 On top of just blogging occasionally, one of the other features I am excited about is my photo gallery. I have been working hard lately on a design I like, but now I think I got a pretty cool one, and you can view them by clicking [here](https://simonlee711.github.io/photos/).
  
-#### What to Expect moving forward
+### What to Expect moving forward
  
 I will try to keep an organized grouping of specific types of blogs. Those blogs are:
  
