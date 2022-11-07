@@ -16,7 +16,7 @@ Below you can find my blog posts in reverse sequential order by date. You can al
 ---
 
 ## Terrance Tao
-#### October 30, 2022
+### October 30, 2022
 
 
 This week the audience is lucky to get two blog posts in one weekend. Today's second half of the dual blog post is about a famous mathematician, Terrance Tao. I have heard of him since my time as an undergraduate student. However, I just found out the extent of his brilliance recently. For those who do not know, he is considered the "Mozarts of Mathematics" because math flows through him. However, recently you may have seen him in online ads for his latest masterclass, where he teaches problem-solving. Today I wanted to discuss his brief biography and what lessons I have taken from his incredible life.
@@ -39,7 +39,6 @@ These two mathematicians have been academic inspirations in my life, and it is s
 
 On top of his words, I also realized through him that you are as far as you will take yourself. Many of us dream significantly about being wealthy or attaining specific achievable goals. However not everyone reaches these goals ever and it is really determined with how much time you put into is what you will get out of it. Though Terrance Tao is an extreme outlier compared to our population, there is no reason why I can't be like him. Although I don't know his explicit goals, just being passionate and working hard at somthing you love is something I want to take with me moving forward. And while there are more distractions nowadays, reading his biography has added a source of inspiration for me to chase greatness. I am lucky enough to be in a current field where it is relatively new, so I hope that I can be a significant reason in some minor specialization as to why its important and impactful. This transfer of knowledge and inspiration from people to people is so valuable because you never know whom it will immensely affect. Therefore from today and moving on, I will be more intently with myself and what I can do to make my imprint in today's world. This blog is a way to share my thoughts and expressions but I really want to work on showing results instead of strictly talking about them. This is another goal added to my plate and I look forward to continue to excel. Thanks for reading and I will catch you again next week.
 
----
 
 ## Attitude
 ### October 29, 2022
