@@ -161,6 +161,9 @@ We then ran the Fast Fourier Transform (FFT) algorithm on our weekly time series
 ---
 
 # Results & Discussion 
+
+{% include figure image_path="images/projects/PSD.png" alt="this is a placeholder image" caption="The Power Spectrum Densities of each country. We can interpret them by checking for any significant peaks that appear in the histoplots. In preceding subsections we describe the significance of these peaks as well as reasonings behind these events." %}
+
 ## Northern Hemisphere
 {% include figure image_path="images/projects/cases_log1.png" alt="this is a placeholder image" caption="The Covid Cases per week with ticks at every 3 months. And since countries have varying populations, we made two additional time series graphs divided by hemisphere and log transformed our case counts to see a normalized scale." %}
 
@@ -185,8 +188,6 @@ With that, we can take a look again at Figure 3 and notice sort of an “inverse
 Meanwhile, we also have Argentina, which has a periodicity of around 30-35 weeks, which is comparable to that of India from the northern hemisphere. Though there is no connection between the two countries as to why they occur, we do want to acknowledge that they do exhibit the same behavior. This 33-week recurrence provides insight that although there isn’t a particular season in which Covid cases spike, there is indeed a periodicity that shows that Covid outbreak does make reappearances in its timeline. This is rather important to note because a lot of governments around the world are thinking along the lines of CDC director Rochelle Walensky, but we believe it is very premature to begin claiming an end to the pandemic. In the southern hemisphere, we see a majority of impulses are spiking every 25 weeks, and in the case of Argentina every 33 weeks. This means that roughly every 6 months (8 months for Argentina), there appear to be a Covid outbreak. Therefore our data suggests that like the northern hemisphere, the southern hemisphere displays conditions like a pandemic with no particular season being the worse across the world.
 
 ## Discussion
-
-{% include figure image_path="images/projects/PSD.png" alt="this is a placeholder image" caption="The Power Spectrum Densities of each country. We can interpret them by checking for any significant peaks that appear in the histoplots. In preceding subsections we describe the significance of these peaks as well as reasonings behind these events." %}
 
 With all our data accumulated, we can genuinely address whether there is a seasonal trend within the pandemic. With that, we disagree with the claim that this is endemic. The latest Omicron variant wave taking an extreme toll on cases worldwide shows that Covid-19 is a pandemic. Though some countries had localized outbreaks that differed in periodicity in the case of Argentina \& India, we found that all the countries had no seasonal effect within our data. In many cases, countries experienced a peak at around 25 weeks, and in some cases, we experienced peaks at 33 weeks. We were surprised by these results because if it were indeed an endemic, we would see a periodicity of around 52 weeks (1 year). 
 
