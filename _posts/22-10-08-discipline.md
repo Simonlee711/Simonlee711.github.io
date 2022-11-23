@@ -22,6 +22,7 @@ After my evening classes conclude around 6:00 pm, the ferry schedule is not grea
  
 This cycle repeats nearly daily and has been a relatively rough schedule. However, thanks to my discipline, I can repeat these sequences of events every day. I always considered myself hardworking and disciplined, but moving here has shown me a new level to this feat--I am doing well, in any case. I am learning a lot which is great, and I have come to enjoy my daily treks across the 35-minute Lac Leman ferry ride. I guess I knew things would not be easy, but hey, as long as I stay disciplined, which I know I can be, I can make this life work. So thanks for reading!
  
-![image-center](/images/post_photos/boat.JPG){: .align-center style="width: 30%;"}
+  {% include figure image_path="images/post_photos/boat.JPG" alt="this is a placeholder image" caption="Evian Boat Ride" %}
+
  
 
