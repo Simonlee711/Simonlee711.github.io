@@ -39,9 +39,8 @@ Well, this turned out to be a lot writing. It is safe to say I still left off a 
 - Tiffanie
 
 Thanks for making my summer unbelievably unique, and thanks for reading!
- 
-![image-center](/images/IMG_9320.JPG){: .align-center style="width: 30%;"}
-![image-center](/images/IMG_7942.jpg){: .align-center style="width: 40%;"}
-![image-center](/images/IMG_7619.jpg){: .align-center style="width: 40%;"}
+ {% include figure image_path="images/IMG_9320.JPG" alt="this is a placeholder image" caption="" %}
+ {% include figure image_path="images/IMG_7942.jpg" alt="this is a placeholder image" caption="" %}
+ {% include figure image_path="images/IMG_7619.jpg" alt="this is a placeholder image" caption="Friends <3 " %}
  
 
