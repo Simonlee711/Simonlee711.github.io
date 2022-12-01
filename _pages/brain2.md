@@ -16,10 +16,19 @@ feature_row_left1:
   btn_class: "btn--primary" 
 ---
 
-#### Introduction
+# Keywords 
+
+Independent Component Analysis, Multivariate Methods, Seed Connectivity, Functional Connectivity
+
+---
+
+
+# Introduction
 Monitoring brain activity when presented with a stimulus allows us to distinguish areas of high activity. In a previous project, we looked at univariate approaches which perform the analysis at a per voxel basis. However, when generalized to all voxels they become computationally expensive and highly inefficient. Therefore the focus of this project is to take advantage of multivariate methods. In particular, independent component analysis (ICA) will help us investigate which parts of the brain are spatially active across subjects while watching a movie. We expect to see activation in the visual cortex, and in the default mode network (DMN) regions, which should be active during a resting state experiment. Moreover, we expect to visualize activity in the temporal lobes, caused by responses to sounds coming from the MRI apparatus.
 
-#### Methods
+---
+
+# Methods
 We used preprocessed fMRI data from 60 subjects watching a silent version of ‘Partly Cloudy’, a short animated video supposed to evoke emotional reactions. Functional data was collected with a gradient-echo EPI sequence sensitive to Blood Oxygen Level Dependent (BOLD) contrast in 32 near-axial slices covering the whole brain (EPI factor: 64; TE: 30 ms, flip angle: 90°).TR used was 2 s and the entire movie was 168 TRs (<6 min).
 
 We ran ICA on this dataset. ICA is a popular multivariate approach in neuroscience, especially in fMRI, which restructures a multi-feature dataset via linear transformation into a self-organized set of functional networks. The advantage of this method over other eigendecomposition methods, like principal components analysis (PCA) or partial least squares correlation (PLSC), is that the components produced from the ICA are statistically independent in only one domain (spatial or temporal). Therefore, its strength lies in detecting brain responses while simultaneously denoising the data.
@@ -38,7 +47,9 @@ This statistical test confirms that the new independent feature space \\((yi x y
 
 ICA was performed across 60 subjects. Adult (13) and child (47) data were analyzed both together and separately. We investigated three ICA cases with 5, 10, and 20 components respectively. We the performed seed functional connectivity using a brain map of 39 regions. We selected a voxel-seed within the primary visual cortex and a corresponding sphere-seed. Following that, we generated a 39-by-39 functional connectivity matrix, and we produced networks with varying connectivity thresholds, calculating the average local clustering coefficient (ALCC), and the local efficiency (LE).
 
-#### Results
+---
+
+# Results
 
 {% include figure image_path="images/projects/brain2/6.png" alt="this is a placeholder image" caption="Frontal Lobe" %}
 {% include figure image_path="images/projects/brain2/7.png" alt="this is a placeholder image" caption="Visual Cortex" %}
@@ -65,8 +76,9 @@ Considering the above findings, we can report three main active regions. The vis
 {% include figure image_path="images/projects/brain2/2.png" alt="this is a placeholder image" caption="Functional Connectivity Network" %}
 {% include figure image_path="images/projects/brain2/1.png" alt="this is a placeholder image" caption="Networks with different connectivity thresholds" %}
 
+---
 
-#### Discussion - Theoretical Part
+# Discussion - Theoretical Part
 ICA is a powerful method, but one of its limitations is finding the correct number of components to obtain the clearest signals. In this project, multiple runs with different numbers of components were needed to get a set of meaningful results (Q1). 
 
 The main motivation behind choosing ICA is its strength as a multivariate analysis tool that can work in resting-state conditions, while producing functionally interpretable results. In this case, GLM was ruled out, because it can only be applied to active-condition tasks that can produce meaningful regressors (Q2). 
@@ -77,7 +89,9 @@ A sphere seed (3D) can be a better alternative to voxel functional activity beca
 
 A graph representation of the brain offers many opportunities for quantitative analyses that wouldn’t be possible through simple contrast visualization. It is a powerful tool to investigate how different brain regions communicate, and it can offer important insights into the overarching architecture of the brain, such as whether the brain follows a centralized architecture, or whether it can be partitioned into distributed functional hubs (Q5).
 
-#### Footnotes
+---
+
+## Footnotes
 
 [1]  Vodrahalli, K., Chen, P.-H., Liang, Y., Baldassano, C., Chen, J., Yong, E., Honey, C., Hasson, U., Ramadge, P., Norman, K. A., & Arora, S. “Mapping between fMRI responses to movies and their natural language annotations” NeuroImage 2018 180:223–231
 
