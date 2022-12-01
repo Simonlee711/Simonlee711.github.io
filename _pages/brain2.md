@@ -1,5 +1,5 @@
 ---
-title: "Multivariate stimulus processing across brain regions"
+title: "Multivariate Stimulus Processing Across Brain Regions"
 permalink: /projects/brain2/
 layout: single
 classes: wide
