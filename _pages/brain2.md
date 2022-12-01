@@ -5,7 +5,7 @@ layout: single
 classes: wide
 excerpt: "Modeling visual brain activity in multivariate approach"
 header:
- overlay_image: /images/projects/brain1/brain_cover.png
+ overlay_image: images/projects/brain2/2.png
  caption: "Photo credit: Simon Lee"
 date: 2022-10-15
 sidebar:
