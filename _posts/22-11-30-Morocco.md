@@ -46,7 +46,7 @@ Our camel ride lasted roughly 2 hours into the Sahara and to be honest it was wo
  
 {% include figure image_path="/images/post_photos/africa/6.JPG" alt="this is a placeholder image" caption="" %}
 {% include figure image_path="/images/post_photos/africa/7.JPG" alt="this is a placeholder image" caption="" %}
-{% include figure image_path="/images/post_photos/africa/8.JPG" alt="this is a placeholder image" caption="Erg Chebbi, Sahara Desert %}
+{% include figure image_path="/images/post_photos/africa/8.JPG" alt="this is a placeholder image" caption="Erg Chebbi, Sahara Desert" %}
  
 Another activity that we were able to do was also sandboard, which was quite awesome. Just think about snowboarding but on the sandy slopes of the Sahara. Though there were no straps that you could attach to your board, the natural friction between the board and the soft layer of sand made the speed very manageable. And to my surprise while we were out in the Sahara, there was no wildlife to be seen. Within the Sahara there are some really nasty and dangerous creatures that could kill you upon contact like scorpions or snakes, but due to the very fluctuating climate, it wasn't suitable for wildlife. So the desert was pretty much just us and there was no level of concern for what we did.
  
