@@ -7,7 +7,7 @@ excerpt: "Modeling visual brain activity in multivariate approach"
 header:
  overlay_image: images/projects/brain2/2.png
  caption: "Photo credit: Simon Lee"
-date: 2022-10-15
+date: 2022-12-01
 sidebar:
   nav: "docs2"
 feature_row_left1:
@@ -21,7 +21,6 @@ feature_row_left1:
 Independent Component Analysis, Multivariate Methods, Seed Connectivity, Functional Connectivity
 
 ---
-
 
 # Introduction
 Monitoring brain activity when presented with a stimulus allows us to distinguish areas of high activity. In a previous project, we looked at univariate approaches which perform the analysis at a per voxel basis. However, when generalized to all voxels they become computationally expensive and highly inefficient. Therefore the focus of this project is to take advantage of multivariate methods. In particular, independent component analysis (ICA) will help us investigate which parts of the brain are spatially active across subjects while watching a movie. We expect to see activation in the visual cortex, and in the default mode network (DMN) regions, which should be active during a resting state experiment. Moreover, we expect to visualize activity in the temporal lobes, caused by responses to sounds coming from the MRI apparatus.
@@ -37,7 +36,8 @@ Two key criteria have to be met when using ICA. The first criterion is that the 
 
 \\[ X=[x_{1}, x_{2}...x_{i}]^{T}-> [y_{1}, y_{2},....,y_{i}]^{T}, where y_{i} \independent y_{j} \\]
 
-To find this we can solve the following equation: \\(Y= WX + n \)) , where X is the original data, W is the weight matrix (linear transformation between X and Y), n  is noise and Y is the transformed data of independent components.This method can be justified by calculating mutual information, which is the measure of mutual dependence between two random variables (entropy - conditional entropy): 		
+To find this we can solve the following equation: \\(Y= WX + n \\) , where X is the original data, W is the weight matrix (linear transformation between X and Y), n  is noise and Y is the transformed data of independent components.This method can be justified by calculating mutual information, which is the measure of mutual dependence between two random variables (entropy - conditional entropy): 		
+
 
 \\[ I(X ; Y) = H(X) - H(X|Y) \\]
 
