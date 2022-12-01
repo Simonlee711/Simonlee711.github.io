@@ -34,12 +34,12 @@ We ran ICA on this dataset. ICA is a popular multivariate approach in neuroscien
 
 Two key criteria have to be met when using ICA. The first criterion is that the data must be statistically independent and that our data follows a non-Gaussian distribution. The goal ICA is to find a linear transformation of the feature space such that each of the individual new features is mutually independent:
 
-\\[ X=[x_{1}, x_{2}...x_{i}]^{T}-> [y_{1}, y_{2},....,y_{i}]^{T}\\], \\[ where  y_{i} ⊥ y_{j} \\]
+\\[ X=[x_{1}, x_{2}...x_{i}]^{T}-> [y_{1}, y_{2},....,y_{i}]^{T}\\] \\[ y_{i} ⊥ y_{j} \\]
 
 To find this we can solve the following equation: \\(Y= WX + n \\) , where X is the original data, W is the weight matrix (linear transformation between X and Y), n  is noise and Y is the transformed data of independent components.This method can be justified by calculating mutual information, which is the measure of mutual dependence between two random variables (entropy - conditional entropy): 		
 
 
-\\[ I(X ; Y) = H(X) - H(\expect{X|Y}) \\]
+\\[ I(X ; Y) = H(X) - H(X | Y) \\]
 
 This statistical test confirms that the new independent feature space \\((yi x yj)\\) has no mutual information, effectively justifying its independence: \\(I(yi ;yj)=0\\). Additionally, the mutual information of the new feature space (Y) with the original feature space (X) is the maximal sum of non-gaussianities of the estimates:  
 
