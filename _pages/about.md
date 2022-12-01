@@ -16,11 +16,15 @@ sidebar:
 
 # Introduction
  
-Hello. My name is Simon Austin Lee. I am currently a student at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am studying life sciences engineering and building my statistics and machine learning skills to strengthen my profile for a Ph.D. in computational biology/biomathematics research. My recent interests have been running machine learning algorithms to analyze healthcare and genetic data. The particular research focus I want to enter is precision medicine, where I hope to impact our understanding of diseases by leveraging healthcare information. My hope is to pursue a career in biomedical data science at the industry level in the near future. Therefore I am very open to any internships that currently offer practical experiences in the field.
+Hello. My name is Simon Austin Lee. I am currently a student at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am studying life sciences engineering and building my statistics and machine learning skills to strengthen my profile for a Ph.D. in computational biology/biomathematics research. My recent interests have been running machine learning algorithms to analyze healthcare and genetic data. The particular research focus I want to enter is precision medicine, where I hope to impact our understanding of diseases by leveraging healthcare information. My hope is to pursue a career in biomedical data science at the industry level in the near future. 
  
 ---
  
-# Past Education & Affiliations
+# Education & Affiliations
+
+### Celsius Therapeutics (January 2023 - June 2023)
+
+In January 2023, I joined the machine learning team at Celsius Therapeutics in Cambridge Massachusetts as a Data Science Co-op. This was my first industry experience and I was excited to get an opportunity for what the industry is like. During this time I will be looking at multi-omics data sets (bulk-seq, scRNA-seq, GEX, ATAC-seq, etc.) and trying to see what information can be useful for biomarker discovery. More specifically we will be working on autoimmune condition biomarker discovery. If all goes well at the end of the co-op, our machine learning pipeline will be able to be used for drug development in actual clinical trials! Talk about a really exciting and rewarding experience!
  
 ### UCLA, Computational Medicine (Summer 2022)
  
