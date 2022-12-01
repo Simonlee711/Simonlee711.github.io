@@ -39,7 +39,7 @@ Two key criteria have to be met when using ICA. The first criterion is that the 
 To find this we can solve the following equation: \\(Y= WX + n \\) , where X is the original data, W is the weight matrix (linear transformation between X and Y), n  is noise and Y is the transformed data of independent components.This method can be justified by calculating mutual information, which is the measure of mutual dependence between two random variables (entropy - conditional entropy): 		
 
 
-I(X ; Y) = H(X) - H(X | Y) 
+\\[ I(X ; Y) = H(X) - H(\expect{X|Y}) \\]
 
 This statistical test confirms that the new independent feature space \\((yi x yj)\\) has no mutual information, effectively justifying its independence: \\(I(yi ;yj)=0\\). Additionally, the mutual information of the new feature space (Y) with the original feature space (X) is the maximal sum of non-gaussianities of the estimates:  
 
