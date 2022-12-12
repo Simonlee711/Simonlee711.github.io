@@ -18,8 +18,8 @@ feature_row_left1:
     btn_class: "btn--secondar"
 feature_row_left2:
   - image_path: /images/brain.png
-    title: "Processing Faces - Brain Activity Modeling"
-    excerpt: "Have you ever wondered what the brain is doing when processing visual stimuli such as faces? Well in the field of computational neuroscience there have long been models that can model the brain activity when we are presented with visual stimuli. Tap to read more"
+    title: "Nerual Signals Processing Projects"
+    excerpt: "The brain has long been an interest for many scientists due to its complex yet fascinating mechanisms. In addition with the recent advances of software capabilities, we can use tools to process brain activity and make sense of understanding structural and functional reads from brain data. Click here to read more on several neural signals processing projects"
     url: "https://simonlee711.github.io/projects/brain/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
