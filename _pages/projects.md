@@ -16,18 +16,18 @@ feature_row_left1:
     url: "https://simonlee711.github.io/projects/abp/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
-feature_row_left2:
+feature_row_left3:
   - image_path: /images/brain.png
     title: "Nerual Signals Processing Projects"
     excerpt: "The brain has long been an interest for many scientists due to its complex yet fascinating mechanisms. In addition with the recent advances of software capabilities, we can use tools to process brain activity and make sense of understanding structural and functional reads from brain data. Click here to read more on several neural signals processing projects"
     url: "https://simonlee711.github.io/projects/brain/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
-feature_row_left3:
-  - image_path: /assets/splash2/2.jpg
-    title: "Anime Recommendation System"
-    excerpt: "Have you ever wanted to watch a show just like your favorite anime? Well look no further because using our content based anime recommendation system, you will get 5 reliable recommendations based on the synopsis. Our sources are from myanimelist.com"
-    url: "https://simonlee711.github.io/projects/anime/"
+feature_row_left2:
+  - image_path: /assets/splash2/youtube.jpg
+    title: "Youtube, a Mirror of Society?"
+    excerpt: "Youtube has grown drastically since its creation in 2005. It is responsible for providing media to many across the globe and we are curious to see if Youtube videos reflect the events that occur in our society. We therefore conduct a textual and time series analysis of our enormous Youtube dataset. Tap to check out more"
+    url: "https://siyounglee00.github.io/Project-Website/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
 ---
