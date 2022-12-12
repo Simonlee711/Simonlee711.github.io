@@ -12,21 +12,21 @@ header:
 feature_row_left1:
   - image_path: /assets/splash2/1.png
     title: "Arterial Blood Pressure Imputer"
-    excerpt: "Hypotension (a sustained decrease in blood pressure) within critical care patients is associated with a higher risk of mortality and other severe complications. Therefore we built a deep learning architecture that can predict future blood pressure."
+    excerpt: "Hypotension (a sustained decrease in blood pressure) within critical care patients is associated with a higher risk of mortality and other severe complications. Therefore we built a deep learning architecture that can accurately predict future blood pressure continuously and non-invasively."
     url: "https://simonlee711.github.io/projects/abp/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left3:
   - image_path: /images/brain.png
     title: "Nerual Signals Processing Projects"
-    excerpt: "The brain has long been an interest for many scientists due to its complex yet fascinating mechanisms. In addition with the recent advances of software capabilities, we can use tools to process brain activity and make sense of understanding structural and functional reads from brain data. Click here to read more on several neural signals processing projects"
+    excerpt: "The brain has long been an interest for many scientists due to its complex yet fascinating mechanisms. In addition with the recent advances of software capabilities, we can use tools to process brain activity and make sense of understanding structural and functional reads from brain data. Click here to read more on several neural signals processing projects."
     url: "https://simonlee711.github.io/projects/brain/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left2:
   - image_path: /assets/splash2/youtube.jpg
     title: "Youtube, a Mirror of Society?"
-    excerpt: "Youtube has grown drastically since its creation in 2005. It is responsible for providing media to many across the globe and we are curious to see if Youtube videos reflect the events that occur in our society. We therefore conduct a textual and time series analysis of our enormous Youtube dataset. Tap to check out more"
+    excerpt: "Youtube has grown drastically since its creation in 2005. It is responsible for providing media to many across the globe and we are curious to see if Youtube videos reflect the events that occur in our society. We therefore conduct a textual and time series analysis of our enormous Youtube dataset. Tap to check out more."
     url: "https://siyounglee00.github.io/Project-Website/"
     btn_label: "Read More"
     btn_class: "btn--secondar"
