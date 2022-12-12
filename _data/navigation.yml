@@ -24,9 +24,9 @@ docs:
 docs2:
   - title: "2022"
     children:
-      - title: "Multivariate Stimulus Processing Across Brain Regions"
-        url: /projects/brain2/
-      - title: "Processing Faces - Brain Activity Modeling"
+      - title: "Youtube, a mirror of Society"
+        url: https://siyounglee00.github.io/Project-Website/
+      - title: "Neural Signals Processing Projects"
         url: /projects/brain/
       - title: "Anime Recommendation System"
         url: /projects/anime/
