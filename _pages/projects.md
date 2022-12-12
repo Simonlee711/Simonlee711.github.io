@@ -24,7 +24,7 @@ feature_row_left3:
     btn_label: "Read More"
     btn_class: "btn--secondar"
 feature_row_left2:
-  - image_path: /assets/splash2/youtube.jpg
+  - image_path: /assets/splash2/youtube.png
     title: "Youtube, a Mirror of Society?"
     excerpt: "Youtube has grown drastically since its creation in 2005. It is responsible for providing media to many across the globe and we are curious to see if Youtube videos reflect the events that occur in our society. We therefore conduct a textual and time series analysis of our enormous Youtube dataset. Tap to check out more."
     url: "https://siyounglee00.github.io/Project-Website/"
