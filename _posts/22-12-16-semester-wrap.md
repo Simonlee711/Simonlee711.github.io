@@ -38,6 +38,8 @@ Anyway now that I'm back from the tangent, school is really intense. I have more
 
 In terms of living in Evian-les-bains, France, I also really enjoyed my stay there. Groceries were much cheaper, the regulations were much more lax, and overall it was a quirky city if you will. Evian water is based in Evian (duh), and it is primarily known to be a gambling town. This was no Las Vegas by any means but the city itself had a vibrant atmosphere which was nice. And one of the biggest perks was that the city was by the lake so when the weather was good, you got a nice view of Switzerland and Lac Leman.
 
+{% include figure image_path="/images/post_photos/evian.JPG" alt="this is a placeholder image" caption="Evian Boat Ride" %}
+
 ---
 
 # Bit in the eye by a Mosquito & COVID-19
@@ -58,6 +60,8 @@ For my last negative experience of the semester, I wanted to briefly discuss a p
 
 While I have discussed many negatives to this point, I would like to make the second half about the positives of living in Switzerland. The first is the structure of Europe and its convenience to Travel. Because I was studying 24/7 during the weekdays, I took the time to refresh my head over the weekends by traveling. In the span of a semester I was able to visit the following countries/cities: Paris (France), Brussels (Belgium), Basel (Switzerland), London (United Kingdom), Prague (Czech Republic), Marrakkech (Morocco). What made the travel so great was that no flight or train ever took over 3 hours. Long plane rides are often frustrating and uncomfortable so Europes centrality is really great in accessing other parts of Europe, Africa, Asia, and even the US. During this time I went with the intentions to attend an event or to go meet with friends who were studying abroad. So I was happy to have been able to see new parts of the world and get a glimpse of their culture. One of my favorite memories of the travel was getting to rekindle with Josh Moon who was one of my friends in high school in the Czech Republic. I liked this in particular because for that weekend I felt at home and comfortable being surrounded by a fellow friend and American. Since coming to Europe it is safe to say that the language barrier has made me less outgoing but I have been able to manage. 
 
+{% include figure image_path="/images/post_photos/travel.JPG" alt="this is a placeholder image" caption="pretty view outside plane window" %}
+
 ---
 
 # Making an incredible network of International Friends
@@ -66,6 +70,10 @@ Part of the large reasons I decided to come to Europe was to make international 
 
 On top of that making friends with Swiss locals have given me an insiders look into the school, lifestyle, and routine of Swiss people and I was happy to have joined their social circle as well. Among them I met Helena Binkova, a girl from my department when we were doing a group project in my genetics/genetic engineering course. Thanks to her I was able to meet a lot of her friends as well and it was nice to feel a little more at ease with the people from Switzerland. And while she is only one from my sample size, I am happy to say that I have met a good amount of people coming from all over the world: Italy, Greece, Lebanon, Zurich. 
 
+{% include figure image_path="/images/post_photos/friend1.JPG" alt="this is a placeholder image" caption="Signals Processing Friends (Julian, Mercury, Veronika)" %}
+{% include figure image_path="/images/post_photos/friend2.JPG" alt="this is a placeholder image" caption="Carol, Thomas, Pedro & I in the Sahara Desert" %}
+{% include figure image_path="/images/post_photos/friend3.JPG" alt="this is a placeholder image" caption="Lina & I eating cheese fondue" %}
+{% include figure image_path="/images/post_photos/friend4.JPG" alt="this is a placeholder image" caption="Helena & and her friends" %}
 ---
 
 # Discussion
