@@ -20,11 +20,42 @@ Enjoy Simon Lee's 2022.
 
 ![image-center](/images/phone.png){: .align-center style="width: 30%;"}
 
+---
+
 ## December 2022
+
+![image-left](/images/2022/friend1.JPG){: .align-left style="width: 40%;"}
+#### EPFL Tap House, Switzerland
+#### Decmeber 15, 2022
+<br/><br/><br/><br/>
+
+![image-right](/images/2022/friend4.JPG){: .align-right style="width: 30%;"}
+#### Lausanne, Switzerland
+{: style="text-align: right;"}
+#### December 3, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ---
 
 ## November 2022
+
+![image-left](/images/2022/camel.JPG){: .align-left style="width: 30%;"}
+#### Erg Chebbi Sahara Desert, Morocco
+#### November 28, 2022
+<br/><br/><br/><br/>
+
+![image-right](/images/2022/moroc.JPG){: .align-right style="width: 30%;"}
+#### Ighrem N'Ougdal, Morocco
+{: style="text-align: right;"}
+#### November 27, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2022/friend5.JPG){: .align-left style="width: 30%;"}
+#### Prague, Czech Republic 
+#### November 18, 2022
+<br/><br/><br/><br/>
 
 ---
 
