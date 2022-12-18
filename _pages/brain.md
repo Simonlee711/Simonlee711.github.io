@@ -312,9 +312,9 @@ Some concluding remarks is the amazing strengths of linear modeling. Our group w
 # Code
 This project was done in NX-421 (Neural Signals & Signals Processing) at EPFL taught by Professor Dimitri Van De Ville as my mini project. Below I will list the source files that were made in this assignment as well as the code linked below it.
 
-```mini_project_1.ipynb``` - the notebook that executes the stimulus recognition pipeline
+```mini_project1/mini_project_1.ipynb``` - the notebook that executes the stimulus recognition pipeline
 
-```example_voxel_signal.npy``` - the numpy file containing an example voxel
+```mini_project1/example_voxel_signal.npy``` - the numpy file containing an example voxel
 
 {% include feature_row id="feature_row_left1" type="left" %}
 
