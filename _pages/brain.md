@@ -80,9 +80,13 @@ Another point of interest comes from the poor results when observing channels wi
 # References
 
 [1] A. Baraka, H. Shaban, M. Abou El-Nasr, and O. Attallah, “Wearable Accelerometer and sEMG-Based Upper Limb BSN for Tele-Rehabilitation,” Applied Sciences, vol. 9, no. 14, p. 2795, Jul. 2019, doi: 10.3390/app9142795.
+
 [2] A. Fougner, E. Scheme, A. D. C. Chan, K. Englehart and Ø. Stavdahl, "A multi-modal approach for hand motion classification using surface EMG and accelerometers," 2011 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2011, pp. 4247-4250, doi: 10.1109/IEMBS.2011.6091054.
+
 [3] M. Atzori, M. Cognolato, and H. Müller, “Deep Learning with Convolutional Neural Networks Applied to Electromyography Data: A Resource for the Classification of Movements for Prosthetic Hands,” Frontiers in Neurorobotics, vol. 10. Frontiers Media SA, Sep. 07, 2016. doi: 10.3389/fnbot.2016.00009.
+
 [4] W. Geng, Y. Du, W. Jin, W. Wei, Y. Hu, and J. Li, “Gesture recognition by instantaneous surface EMG images,” Scientific Reports, vol. 6, no. 1. Springer Science and Business Media LLC, Nov. 15, 2016. doi: 10.1038/srep36571.
+
 [5] T. Chen and C. Guestrin, “XGBoost,” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, Aug. 13, 2016. doi: 10.1145/2939672.2939785.
 
 ---
