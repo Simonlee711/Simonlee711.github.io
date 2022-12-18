@@ -11,12 +11,105 @@ date: 2022-10-15
 sidebar:
   nav: "docs2"
 feature_row_left1:
-- url: "https://github.com/Simonlee711/EPFL/blob/main/NX-422-Neural-Signals-Procesing/MiniProject_1/mini_project_1.ipynb"
+- url: "https://github.com/Simonlee711/EPFL/blob/main/NX-422-Neural-Signals-Procesing/MiniProject_1/"
   btn_label: "Code"
   btn_class: "btn--primary" 
 ---
 
 # Mini Project 3: Glove Sensor Regression
+
+---
+
+# Keywords 
+
+Kinematics, EMG, Accelerometer Data, Glove position tracking, Neuroprosthetics, Regression
+
+---
+
+# Introduction
+Predicting finger movements using forearm data is a big challenge in neuroprosthetics [1][2]. To this end, various clinical datasets have been published, enabling researchers to develop novel prosthetic hand control techniques. However, existing work has focused on deep learning methods with the goal of predicting intended movement classes [3][4]. These models do not scale well because each new movement class has to be an explicit part of the model’s training set. Therefore, our aim is to investigate whether the exact position of the hand and all digits can be regressed from forearm sensors - EMG and accelerometer data - in real time and whether this learning paradigm can be generalised to novel movements.
+
+---
+
+# Methods
+
+We used three single-subject data acquisitions (Acq.) from the NinaPro 8 dataset. Each Acq. consisted of 9 distinct movements repeated a number of times. Our input data consisted of 16 EMG sensors placed on the forearm and 48 accelerometer (ACC) channels corresponding to the three spatial dimensions for each EMG sensor. The ground truth consisted of 18 position trackers recorded with a dataglove.
+We performed fundamental data analysis by plotting all data on a time-value axis. We checked the data for outlier signals and missing values, concluding that all channels were suitable. We used the amplitude of EMG data, and all further data processing was done separately for each movement repetition to avoid possible movement artefacts caused by discontinuities between repetition Acqs.
+
+To turn raw time-series data into aggregate data suitable for supervised learning, we selected 50 equidistant sampling windows from each movement repetition. We performed Fourier analysis on each data glove tracker to assess the existence of transient, high-frequency position signals and estimate a valid lower bound for the sample window length. We then considered the practical implications of the window length and selected an intuitive value for the upper bound. We extracted 17 time, frequency, and time-frequency features from each EMG and ACC channel for every window. We then defined label data as the position channels at the end of each window. After normalising the data using their individual min-max intervals, we noticed that a different subset of features per channel produced invalid values. We further explored the root cause of these NaN values, which was the incorrect mapping of constant features to inf values. We corrected these values to 0.5, which preserves all information without the need to drop feature columns.
+
+For the supervised learning problem, we used the XGBRegressor algorithm, which is part of the XGBoost library[5]. Using SKlearn’s GridsearchCV on a subset of the training data (only acq. 1), we optimised the learning rate, max tree depth, and the number of estimators. Window and feature selection were done by training and testing on a 9:1 split of Acq. 1 data, including all movement classes in the training and test sets. The optimal window duration was selected by computing the average relative root mean squared error (relRMSE) across all channels. We performed feature selection using mutual information and imposing a minimum selection threshold. The optimal threshold of the feature score was computed using the RMSE.
+
+Following this, we used the selected parameters to train the model with the complete dataset. Training was conducted on all movements from Acq. 1 and 2, and testing was done on all movements from Acq. 3. To assess whether the model could generalise to novel movement classes, a new round of training was conducted on movements 1-8 from Acq. 1 and 2, and testing was done on movement 9 from Acq. 3.
+Finally, we investigated the effect of adding previous position data as features. Specifically, the true recordings of all finger position data from the last 3 time points were appended to the feature set. Training was conducted on all movements from Acq. 1 and 2, and the test was performed on all movements from Acq. 3, using true kinematic data as features. The feature importance of kinematic data was then assessed. Considering that ground truth data would not be available at any time point in a practical scenario, a second test was performed by replacing true kinematic test data with the last three instances of predicted tracker positions.
+
+# Results
+Given that the Fourier amplitude was consistently below 0.01 after 20 Hz (Fig. A), we selected a lower window length bound of 50ms and a practically viable upper bound of 200ms. 
+
+{% include figure image_path="images/projects/brain/figA.png" alt="this is a placeholder image" caption="Fourier Transform of Glove Data" %}
+
+We found that the optimal window length was 150ms, and the associated feature score threshold was 0.3. Test set evaluation (Fig. B) produced an average normalised RMSE (normRMSE) of 0.17 across all channels.
+
+{% include figure image_path="images/projects/brain/figB.png" alt="this is a placeholder image" caption="Training and Testing on all Movements (Channel 7 pictured)" %}
+
+However, when the tested movement was not part of the training set (Fig. C), performance dropped with an average normRMSE of 0.4. We also noticed a higher variation in individual channel performance.
+
+{% include figure image_path="images/projects/brain/figC1.png" alt="this is a placeholder image" caption="" %}
+{% include figure image_path="images/projects/brain/figC2.png" alt="this is a placeholder image" caption="Testing on a novel movement (Channel 2 & 7 Pictured)" %}
+
+The addition of true past kinematic data resulted in a near-perfect fit (Fig. D), reflected by an average normRMSE of 0.03 This increase in performance is reflected in the importance of the added features, shown in (Fig. D.1)
+
+{% include figure image_path="images/projects/brain/figD.png" alt="this is a placeholder image" caption="Training with true kinematic data" %}
+
+Nevertheless, when true kinematic data were replaced with the last 3 regressed positions (Fig. E), model performance dropped severely, with an average normRMSE of 0.26.
+
+{% include figure image_path="images/projects/brain/figE1.png" alt="this is a placeholder image" caption="" %}
+{% include figure image_path="images/projects/brain/figE2.png" alt="this is a placeholder image" caption="performance with regressed kinematics data (pictured Channels 7 & 11)" %}
+
+When comparing the results from different channels (Fig. F) we noticed that the performance across them varied the most when predicting novel movements. More specifically, the model performed poorly when dealing with rare and sudden movements versus recurring and oscillatory movements.
+
+{% include figure image_path="images/projects/brain/figE.png" alt="this is a placeholder image" caption="Results illustrating differences between channels (pictured Channel 9 and 10)" %}
+
+# Discussion
+
+In our analysis, we used raw time series data to extract relevant aggregate features. Using sample windows meant that subsampling or smoothing was not necessary, as it is already done implicitly through the feature extraction process. Using relative RMSE to select the optimal window length ensured that the homogeneity of performance across channels was taken into account. The relatively large optimal window justifies our argument that transient effects do not exist, and therefore do not need to be captured by smaller windows. 
+
+Initial model testing results suggest that EMG and ACC data from the forearm are adequate for training models capable of regressing hand position. However, it seems that training on a vast number of different movements is necessary for the model to generalise well to novel hand movements. This is detrimental to our initial hypothesis that exact position regression could prove a better alternative than movement classification for practical applications. Additionally, while the addition of true kinematic data produces wildly positive results, this performance is unattainable when working with real amputees, as no true hand position would be available. Although these results are disappointing, they are expected given that forecasting long movements without the underlying ground truth is heavily sensitive to divergence. It should be noted that time-series forecasting paradigms exist, which attempt to alleviate the lack of ground truth data by interleaving training and testing sessions. However, these techniques are beyond the scope of standard regression analysis, and they nevertheless require the existence of some ground truth data during training, which makes them potentially not applicable to amputees.
+Another point of interest comes from the poor results when observing channels with sudden, uncharacteristic movement, which produces unpredictable spikes. This effect places greater importance on using a bigger set of varied movements, in order to introduce intra-channel variation. Nevertheless, it remains to be seen whether the presented model can scale to more movement classes, or whether an upper bound of performance exists as the dimensionality of data increases.
+
+# References
+
+[1] A. Baraka, H. Shaban, M. Abou El-Nasr, and O. Attallah, “Wearable Accelerometer and sEMG-Based Upper Limb BSN for Tele-Rehabilitation,” Applied Sciences, vol. 9, no. 14, p. 2795, Jul. 2019, doi: 10.3390/app9142795.
+[2] A. Fougner, E. Scheme, A. D. C. Chan, K. Englehart and Ø. Stavdahl, "A multi-modal approach for hand motion classification using surface EMG and accelerometers," 2011 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2011, pp. 4247-4250, doi: 10.1109/IEMBS.2011.6091054.
+[3] M. Atzori, M. Cognolato, and H. Müller, “Deep Learning with Convolutional Neural Networks Applied to Electromyography Data: A Resource for the Classification of Movements for Prosthetic Hands,” Frontiers in Neurorobotics, vol. 10. Frontiers Media SA, Sep. 07, 2016. doi: 10.3389/fnbot.2016.00009.
+[4] W. Geng, Y. Du, W. Jin, W. Wei, Y. Hu, and J. Li, “Gesture recognition by instantaneous surface EMG images,” Scientific Reports, vol. 6, no. 1. Springer Science and Business Media LLC, Nov. 15, 2016. doi: 10.1038/srep36571.
+[5] T. Chen and C. Guestrin, “XGBoost,” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, Aug. 13, 2016. doi: 10.1145/2939672.2939785.
+
+---
+
+# Code
+
+This project was done in NX-421 (Neural Signals & Signals Processing) at EPFL taught by Professor Silvestro Micera as my mini project. Below I will list the source files that were made in this assignment as well as the code linked below it.
+
+```mini_project3/regression_all_acquisistions.ipynb``` - the notebook that executes the main pipeline
+
+```mini_project3/presentation/Project 3 Presentation.pdf``` - powerpoint presentation in pdf form of our glove tracking kinematic regression results presented at EPFL. 
+
+{% include feature_row id="feature_row_left1" type="left" %}
+
+---
+
+# How to run code
+
+Run the program: (1) Jupyter Notebook 
+
+1. Run the jupyter notebook
+
+```
+regression_all_acquisistions.ipynb
+```
+
+data can be downloaded [here](http://ninapro.hevs.ch/DB8). 
 
 ---
 ---
@@ -116,9 +209,9 @@ A graph representation of the brain offers many opportunities for quantitative a
 
 This project was done in NX-421 (Neural Signals & Signals Processing) at EPFL taught by Professor Dimitri Van De Ville as my mini project. Below I will list the source files that were made in this assignment as well as the code linked below it.
 
-```ICA.ipynb``` - the notebook that executes the main pipeline
+```mini_project2/ICA.ipynb``` - the notebook that executes the main pipeline
 
-```New - Seed Functional Connectivity & Graph Metrics.ipynb``` - Extended analysis done for seed functional connectivity and graph based plots
+```mini_project2/New - Seed Functional Connectivity & Graph Metrics.ipynb``` - Extended analysis done for seed functional connectivity and graph based plots
 
 {% include feature_row id="feature_row_left1" type="left" %}
 
@@ -126,7 +219,7 @@ This project was done in NX-421 (Neural Signals & Signals Processing) at EPFL ta
 
 # How to run code
 
-There are two ways to run the program: (1) Jupyter Notebook 
+Run the program: (1) Jupyter Notebook 
 
 1. Run the jupyter notebook
 
