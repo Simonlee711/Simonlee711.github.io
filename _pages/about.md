@@ -12,9 +12,9 @@ date: 2023-01-24
 
 feature_row:
   - image_path: /assets/splash/2.jpg
-    title: "About"
-    excerpt: "Click here to read more about myself, my education, and my affiliations."
-    url: "https://simonlee711.github.io/about/"
+    title: "Blog"
+    excerpt: "Click here to read my blog about life and academics."
+    url: "https://simonlee711.github.io/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/splash/1.jpg
