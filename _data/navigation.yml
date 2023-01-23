@@ -1,18 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://simonlee711.github.io/
-  - title: "About"
-    url: /about/
+    url: https://simonlee711.github.io/about/
   - title: "Projects" 
     url: /projects/
   - title: "Photos"
     url: /photos/
   - title: "Blog"
     url: /blog/
-  - title: "Version"
-    url: /version/
-
 docs:
   - title: Photo Gallery
     children:

@@ -1,17 +1,35 @@
 ---
-title: "About Me"
+title: "Welcome to Simon's website"
 permalink: /about/
 layout: single
 classes: wide
+author_profile: true
 excerpt: "A brief biography."
 header:
  overlay_image: /images/IMG_9046.jpg
  caption: "Photo credit: Simon Lee"
-date: 2022-10-16
-sidebar:
- - title: "Simon Lee"
-   image: images/IMG_8952.jpg
-   image_alt: "image"
+date: 2023-01-24
+
+feature_row:
+  - image_path: /assets/splash/2.jpg
+    title: "About"
+    excerpt: "Click here to read more about myself, my education, and my affiliations."
+    url: "https://simonlee711.github.io/about/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/splash/1.jpg
+    title: "Projects"
+    excerpt: "Click here to view some of the projects I have done."
+    url: "https://simonlee711.github.io/projects/"
+    btn_label: "View Code"
+    btn_class: "btn--primary"
+  - image_path: /assets/splash/3.jpg
+    title: "Photos"
+    excerpt: "Click here to review my public photo gallery."
+    url: "https://simonlee711.github.io/photos/"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+  
 ---
 
 # Introduction
@@ -65,6 +83,10 @@ Outside academics, I am widely interested in a few things. First and foremost is
 I have also been widely interested in traveling ever since moving to Europe. A lot of my freedom, I think, was deprived during COVID-19, like many people. Since then, I have only wanted to regain some of the years I lost in college ("the best time of our lives") by doing ambitious things (safely)! Since many neighboring big countries surround Switzerland, it has been accessible to travel. Also, Western Europe is central in reaching the USA, Africa, and Asia and I wish to take advantage of traveling to some of these areas when I have holiday breaks. Experiencing brand-new cultures has been widely rewarding because you are exposed to new ideas and experiences. Though California is pretty multicultural, nothing compares to the experiences spent inside another country. 
 
 Lastly is just helping people. Throughout my whole life, helping people has been one of the most rewarding experiences that I have ever felt. It is something I value and has widely become the reason I wanted to pursue biomedical-type work. There was a time in my life when I was very ill with an autoimmune condition, and I spent a lot of my time being helped by others because there was not much I could do with my frail body. So life comes at you full circle. I plan to dedicate my time if time allows to hopefully go volunteer in Africa with a humanitarian group (UNICEF, etc.) during my breaks. This experience would allow me to knock out two of my interests and let me travel as well! I look forward to using my time to help those who are in need.  
+
+---
+
+{% include feature_row %}
  
 
  
