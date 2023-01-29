@@ -34,15 +34,25 @@ feature_row:
 
 # Introduction
  
-Hello. My name is Simon Austin Lee. I am currently a student at the École Polytechnique Fédérale de Lausanne (Swiss Federal Institute of Technology Lausanne) in Switzerland. I am studying data science and life sciences engineering to strengthen my profile for a Ph.D. in computational biology/biomathematics research. My recent interests have been running machine learning algorithms to analyze healthcare and genetic data. The particular research focus I want to enter is precision medicine, where I hope to impact our understanding of diseases by leveraging healthcare information. My current hope is to pursue a career in biomedical data science at the industry level but remain open to any application in the data science world. 
+    Hello. My name is Simon Austin Lee. I am currently a data scientist at Celisus Therapeutics in Cambridge, MA. 
+    I recieved a bachelors of science from the University of California Santa Cruz in Applied Mathematics, and found an interest at the intersection of data science and life sciences. 
+    I would like to obtain a Ph.D. soon doing some form of computational biology/biomathematics research. 
+    My recent interests have been utilizing AI/ML on clinical, genetics, and wearable technologies data and extracting meaningful insights working with these different data types. 
+    The bigger picture of these interests is to understand complex disease and also improve healthcare with AI-assisted technologies.
+    Below you will get a brief history of my education/working experience.
  
 ---
  
 # Education & Affiliations
 
-### Celsius Therapeutics (January 2023 - June 2023)
+### Celsius Therapeutics (January 2023 - Present)
 
-In January 2023, I joined the machine learning team at Celsius Therapeutics in Cambridge Massachusetts as a Data Science Co-op. This was my first industry experience and I was excited to get an opportunity for what the industry is like. During this time I will be looking at multi-omics data sets (bulk-seq, scRNA-seq, GEX, ATAC-seq, etc.) and trying to see what information can be useful for biomarker discovery. More specifically we will be working on autoimmune condition biomarker discovery. If all goes well at the end of the co-op, our machine learning pipeline will be able to be used for drug development in actual clinical trials! Talk about a really exciting and rewarding experience!
+    In January 2023, I joined the machine learning team at Celsius Therapeutics in Cambridge Massachusetts as a Data Scienctist. 
+    This is my first industry experience and I am fortunate to be working at a company with big aspirations in the pharmaceutical world. 
+    During this time I will be looking at primarily Bulk RNA-seq data & Histology images to try and validate some gene targets that the company has identified in their biomarker discovery process. 
+    In my small team we are currently trying to develop a precision medicine that will help treat a subset of patients who are diagnosed with IBD (Crohns disease & Ulcerative Colities)
+    If all goes well at the end of the day, our machine learning pipeline will be able to be used for drug development in actual clinical trials! 
+    Talk about a really exciting and rewarding experience! 
  
 ### UCLA, Computational Medicine (Summer 2022)
  
@@ -63,7 +73,11 @@ Camp Kesem is a college-run non-profit organization where college students volun
  
 ### UC Santa Cruz, Baskin School of Engineering (2019-2022)
  
-In Spring 2022, I graduated with my Bachelor of Science degree in Applied Mathematics at UCSC's Jack Baskin School of Engineering with Summa Cum Laude honors. I initially entered as a pure mathematics major in the fall of 2019. However, I soon realized that logic and proofs were not the academic paths I wanted to pursue. Therefore in my second year at university, I took my first programming class and was forever changed. I ended up switching to the Applied mathematics department after the conclusion of my second year, where I focused primarily on computing and mathematical biology. Taking courses like numerical analysis, scientific computing, and data-driven modeling, I was inspired to use my quantitative background and work toward a new field at the graduate level.
+In Spring 2022, I graduated with my Bachelor of Science degree in Applied Mathematics at UCSC's Jack Baskin School of Engineering with Summa Cum Laude honors. 
+  I initially entered as a pure mathematics major in the fall of 2019. However, I soon realized that logic and proofs were not the academic paths I wanted to pursue. 
+  Therefore in my second year at university, I took my first programming class and was forever changed. 
+  I ended up switching to the Applied mathematics department after the conclusion of my second year, where I focused primarily on computing and mathematical biology. 
+  Taking courses like numerical analysis, scientific computing, and data-driven modeling, I was inspired to use my quantitative background and work in the life sciences field.
  
 <!---{% include figure image_path="images/AM.jpg" alt="this is a placeholder image" caption="Applied Mathematics Pi Party" %}-->
  
@@ -72,7 +86,12 @@ In Spring 2022, I graduated with my Bachelor of Science degree in Applied Mathem
  
 # Goals
  
-Some of my current goals are becoming more well-rounded and specialized in machine learning (supervised and unsupervised) and having the skills necessary to pursue data science oriented tasks. I also wanted to better understand the current biological research landscape by understanding the basics of life sciences. Therefore I have been taking various courses at EPFL that have helped me work toward this goal. Outside of my academic pursuits, I have been trying to read more and maintain good fitness to live a healthier lifestyle.
+ Some of my current goals is to build a healthy work life balance. My primary work day is from 9-5 and outside of that I have become exposed to a lot of free time.
+ It has felt foreign to not have to do homework after a long work day so I am trying to utilize my time by doing side projects, going out and meeting people, and enjoying my early 20's. 
+ I plan to travel whenever I can, and truly experience the most out of my time in this brand new city of Boston. 
+ Another goal of mine is to become a better writer/storyteller, where I practice that constantly through blogging. 
+ There will be a mixture of academic focused writing, and casual writing to allow me to write in different voices. 
+ So feel free to check out my current ongoing blog! 
  
 ---
  
@@ -80,9 +99,21 @@ Some of my current goals are becoming more well-rounded and specialized in machi
  
 Outside academics, I am widely interested in a few things. First and foremost is photography. I enjoy photography so much that I gave my hobby its own tab [here](https://simonlee711.github.io/photos/). Photography has been my escape and a way to document my hectic young life. With everything going by so quickly, I forget every little thing that has happened. However, photography has been a way to capture the moment and gives me a chance to relive it again.
  
-I have also been widely interested in traveling ever since moving to Europe. A lot of my freedom, I think, was deprived during COVID-19, like many people. Since then, I have only wanted to regain some of the years I lost in college ("the best time of our lives") by doing ambitious things (safely)! Since many neighboring big countries surround Switzerland, it has been accessible to travel. Also, Western Europe is central in reaching the USA, Africa, and Asia and I wish to take advantage of traveling to some of these areas when I have holiday breaks. Experiencing brand-new cultures has been widely rewarding because you are exposed to new ideas and experiences. Though California is pretty multicultural, nothing compares to the experiences spent inside another country. 
+I have also been widely interested in traveling. Before working at Celsius, I had the privelage of living in Europe, attending EPFL and during I spent a lot of my free time traveling.
+During COVID-19, I think a lot of freedom was deprived especially during my golden college years. 
+Since then, I have only wanted to regain some of the years I lost by doing ambitious trips (safely)! 
+Since many neighboring big countries surround Switzerland, it has been accessible to travel. 
+Also, Western Europe is central in reaching the USA, Africa, and Asia and I wish to take advantage of traveling to some of these areas when I have holiday breaks. 
+Experiencing brand-new cultures has been widely rewarding because you are exposed to new ideas and experiences. 
+Though California is pretty multicultural, nothing compares to the experiences spent inside another country. 
 
-Lastly is just helping people. Throughout my whole life, helping people has been one of the most rewarding experiences that I have ever felt. It is something I value and has widely become the reason I wanted to pursue biomedical-type work. There was a time in my life when I was very ill with an autoimmune condition, and I spent a lot of my time being helped by others because there was not much I could do with my frail body. So life comes at you full circle. I plan to dedicate my time if time allows to hopefully go volunteer in Africa with a humanitarian group (UNICEF, etc.) during my breaks. This experience would allow me to knock out two of my interests and let me travel as well! I look forward to using my time to help those who are in need.  
+Lastly is just helping people. 
+Throughout my whole life, helping people has been one of the most rewarding experiences that I have ever felt. 
+It is something I value and has widely become the reason I pursued the biotech industry rather than standard tech. 
+There was a time in my life when I was very ill with an autoimmune condition, and I spent a lot of my time being helped by others because there was not much I could do with my frail body. 
+So life comes at you full circle. 
+I plan to dedicate my time if time allows to hopefully go volunteer with humanitarian groups (UNICEF, etc.) whenever time allots. 
+I look forward to using my time to help those who are in need. 
 
 ---
 
