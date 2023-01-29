@@ -34,12 +34,12 @@ feature_row:
 
 # Introduction
  
-    Hello. My name is Simon Austin Lee. I am currently a data scientist at Celisus Therapeutics in Cambridge, MA. 
-    I recieved a bachelors of science from the University of California Santa Cruz in Applied Mathematics, and found an interest at the intersection of data science and life sciences. 
-    I would like to obtain a Ph.D. soon doing some form of computational biology/biomathematics research. 
-    My recent interests have been utilizing AI/ML on clinical, genetics, and wearable technologies data and extracting meaningful insights working with these different data types. 
-    The bigger picture of these interests is to understand complex disease and also improve healthcare with AI-assisted technologies.
-    Below you will get a brief history of my education/working experience.
+Hello. My name is Simon Austin Lee. I am currently a data scientist at Celisus Therapeutics in Cambridge, MA. 
+I recieved a bachelors of science from the University of California Santa Cruz in Applied Mathematics, and found an interest at the intersection of data science and life sciences. 
+I would like to obtain a Ph.D. soon doing some form of computational biology/biomathematics research. 
+My recent interests have been utilizing AI/ML on clinical, genetics, and wearable technologies data and extracting meaningful insights working with these different data types. 
+The bigger picture of these interests is to understand complex disease and also improve healthcare with AI-assisted technologies.
+Below you will get a brief history of my education/working experience.
  
 ---
  
@@ -47,12 +47,12 @@ feature_row:
 
 ### Celsius Therapeutics (January 2023 - Present)
 
-    In January 2023, I joined the machine learning team at Celsius Therapeutics in Cambridge Massachusetts as a Data Scienctist. 
-    This is my first industry experience and I am fortunate to be working at a company with big aspirations in the pharmaceutical world. 
-    During this time I will be looking at primarily Bulk RNA-seq data & Histology images to try and validate some gene targets that the company has identified in their biomarker discovery process. 
-    In my small team we are currently trying to develop a precision medicine that will help treat a subset of patients who are diagnosed with IBD (Crohns disease & Ulcerative Colities)
-    If all goes well at the end of the day, our machine learning pipeline will be able to be used for drug development in actual clinical trials! 
-    Talk about a really exciting and rewarding experience! 
+In January 2023, I joined the machine learning team at Celsius Therapeutics in Cambridge Massachusetts as a Data Scienctist. 
+This is my first industry experience and I am fortunate to be working at a company with big aspirations in the pharmaceutical world. 
+During this time I will be looking at primarily Bulk RNA-seq data & Histology images to try and validate some gene targets that the company has identified in their biomarker discovery process. 
+In my small team we are currently trying to develop a precision medicine that will help treat a subset of patients who are diagnosed with IBD (Crohns disease & Ulcerative Colities)
+If all goes well at the end of the day, our machine learning pipeline will be able to be used for drug development in actual clinical trials! 
+Talk about a really exciting and rewarding experience! 
  
 ### UCLA, Computational Medicine (Summer 2022)
  
