@@ -35,7 +35,7 @@ feature_row:
 # Introduction
  
 Hello. My name is Simon Austin Lee. I am currently a data scientist at Celisus Therapeutics in Cambridge, MA. 
-I recieved a bachelors of science from the University of California Santa Cruz in Applied Mathematics, and found an interest at the intersection of data science and life sciences. 
+I recieved a bachelors of science from the University of California Santa Cruz in Applied Mathematics, and found an interest at the intersection of data science and life sciences spending time at EPFL. 
 I would like to obtain a Ph.D. soon doing some form of computational biology/biomathematics research. 
 My recent interests have been utilizing AI/ML on clinical, genetics, and wearable technologies data and extracting meaningful insights working with these different data types. 
 The bigger picture of these interests is to understand complex disease and also improve healthcare with AI-assisted technologies.
