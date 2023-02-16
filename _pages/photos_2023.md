@@ -79,7 +79,7 @@ Enjoy Simon Lee's 2023.
 #### February 14, 2023
 <br/><br/><br/><br/>
 
-![image-right](/images/2023/feb1.JPG){: .align-right style="width: 30%;"}
+![image-right](/images/2023/feb1.JPEG){: .align-right style="width: 30%;"}
 #### MIT, Cambridge
 {: style="text-align: right;"}
 #### February 5, 2023
