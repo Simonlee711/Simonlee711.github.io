@@ -1,11 +1,11 @@
 ---
-title: "Photos 2022"
+title: "Photos 2023"
 permalink: /photos2023/
 layout: single 
 classes: wide
 excerpt: "Photos taken from 2023"
 header:
-  overlay_image: /images/back2.jpg
+  overlay_image: /images/back3.jpg
   caption: "Photo credit: Simon Lee"
 date: 2023-02-15
 sidebar:
