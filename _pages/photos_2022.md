@@ -24,7 +24,7 @@ Enjoy Simon Lee's 2022.
 
 ## December 2022
 
-![image-left](/images/2022/dec1.JPG){: .align-left style="width: 40%;"}
+![image-left](/images/2022/dec1.JPG){: .align-left style="width: 30%;"}
 #### Rockefeller Center, NYC
 #### Decmeber 29, 2022
 <br/><br/><br/><br/>
