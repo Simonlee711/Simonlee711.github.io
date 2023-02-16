@@ -24,6 +24,30 @@ Enjoy Simon Lee's 2022.
 
 ## December 2022
 
+![image-left](/images/2022/dec1.JPG){: .align-left style="width: 40%;"}
+#### Rockefeller Center, NYC
+#### Decmeber 29, 2022
+<br/><br/><br/><br/>
+
+![image-right](/images/2022/dec4.JPG){: .align-right style="width: 30%;"}
+#### Roosevelt Island, NYC
+{: style="text-align: right;"}
+#### December 28, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2022/dec3.JPG){: .align-left style="width: 40%;"}
+#### South Point Park, NYC
+#### Decmeber 28, 2022
+<br/><br/><br/><br/>
+
+![image-right](/images/2022/dec2.JPG){: .align-right style="width: 30%;"}
+#### Empire State Building, NYC
+{: style="text-align: right;"}
+#### December 28, 2022
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ![image-left](/images/2022/friend1.JPG){: .align-left style="width: 40%;"}
 #### EPFL Tap House, Switzerland
 #### Decmeber 15, 2022

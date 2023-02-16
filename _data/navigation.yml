@@ -11,6 +11,8 @@ main:
 docs:
   - title: Photo Gallery
     children:
+      - title: "2023"
+        url: /photos2023/
       - title: "2022"
         url: /photos2022/
       - title: "2021"
