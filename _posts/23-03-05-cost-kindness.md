@@ -51,7 +51,7 @@ Therefore in that first meeting, she stopped all that she was doing just to list
 Therefore from there on in my senior year, I literally stopped going to all the non-mandatory government classes, to just go sit in her office and talk to her. It was the part of the day that I could vent without being judged by my friends, and let the weight off of my chest. I had many excused absences my senior year of high school, but reflecting on my values as a person, it led me back to this lost archive memory that I had nearly forgotten.
 
 
-{% include figure image_path="/images/post_photos/ns.jpg" alt="this is a placeholder image" caption="Naseem & I" %}
+{% include figure image_path="/images/post_photos/ns.jpg" alt="this is a placeholder image" caption="Naseem & I (Prom 2019)" %}
 
 
 I truly owe her a proper thank you for being a foundational person in my life that was outside of my friends and family. Though we worked at the time professionally on important decision making of our high school, the fact that she could bring me peace was something I admired so much. And no matter how small my accomplishments were at the time, she made sure to celebrate them. I am saddened that she no longer works at Northgate High School because she is among one of the few people I'd like to speak to once more before I prepare myself for the next part of my journey. But overall from the blog this week, I wanted to showcase that there are positives among the many negatives associated with the climate of the world. These two individuals truly inspire me to be a good person and I hope my writing conveyed a sentiment that you can also absorb. Thanks for reading!
