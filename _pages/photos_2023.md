@@ -68,7 +68,7 @@ Enjoy Simon Lee's 2023.
 #### March 13, 2023
 
 
-![image-right](/images/2023/mar4.JPEG){: .align-right style="width: 30%;"}
+![image-right](/images/2023/mar4.JPG){: .align-right style="width: 30%;"}
 #### Manhattan Beach, California
 {: style="text-align: right;"}
 #### March 16, 2023
@@ -81,7 +81,7 @@ Enjoy Simon Lee's 2023.
 #### March 13, 2023
 
 
-![image-right](/images/2023/mar2.JPEG){: .align-right style="width: 30%;"}
+![image-right](/images/2023/mar2.JPG){: .align-right style="width: 30%;"}
 #### Orlando, Florida
 {: style="text-align: right;"}
 #### March 3, 2023
