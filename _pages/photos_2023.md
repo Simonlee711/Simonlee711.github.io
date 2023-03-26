@@ -66,6 +66,7 @@ Enjoy Simon Lee's 2023.
 ![image-left](/images/2023/mar5.JPG){: .align-left style="width: 30%;"}
 #### El Segundo, California
 #### March 13, 2023
+<br/><br/><br/><br/>
 
 
 ![image-right](/images/2023/mar4.JPG){: .align-right style="width: 30%;"}
@@ -79,7 +80,7 @@ Enjoy Simon Lee's 2023.
 ![image-left](/images/2023/mar3.JPG){: .align-left style="width: 40%;"}
 #### Concord, California
 #### March 13, 2023
-
+<br/><br/><br/><br/>
 
 ![image-right](/images/2023/mar2.JPG){: .align-right style="width: 30%;"}
 #### Orlando, Florida
