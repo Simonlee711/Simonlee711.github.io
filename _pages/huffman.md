@@ -413,8 +413,6 @@ TAACCACAGTTCATTGTGGAGTTTCGGCTGTTGATTGTCTGTTTGTTGCAACGGGGTCTTACTGTGTTCT
  
 # Code
  
-This project was done in CSE13-S at UC Santa Cruz, taught by Professor Darrell Long. Below I will list the source files that were made in this assignment and the code linked below it.
- 
 ```Makefile```: a make file to easily run the program by prompting make into the Linux terminal on our
 Ubuntu virtual machine.
  

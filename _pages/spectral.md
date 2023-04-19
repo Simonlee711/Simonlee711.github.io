@@ -207,8 +207,6 @@ With all that, we stand with the data that does not support classifying Covid-19
 
 # Code
 
-This project was done in AM 170A at UC Santa Cruz, taught by Professor Pascale Gaurud. Below I will list the source files made in this assignment and the code linked below.
-
 "`figures` "- the folder where figures are saved.
 
 "`north` "- folder of all of the northern hemisphere data

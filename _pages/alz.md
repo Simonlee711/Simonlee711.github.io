@@ -225,8 +225,6 @@ software to assist medical facilities. Therefore, much excitement is ahead for t
 
 # Code
 
-This project was done in AM 170B at UC Santa Cruz, taught by Professor Vanessa Jonsson as my undergraduate thesis. Below I will list the source files made in this assignment and the code linked below.
-
 "`data` "- the folder where data generated is stored.
 
 "`mri_data_png` "- folder containing all the brain scans

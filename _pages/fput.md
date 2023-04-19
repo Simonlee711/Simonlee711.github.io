@@ -63,8 +63,6 @@ Nothing is obsolete about this behavior; as long as our equation stays linear, t
  
 # Source Code
  
-This project was done in AM 129 - Scientific Computing at UC Santa Cruz, taught by Ian May. Below I will list the source files made in this assignment and the code linked below.
- 
 ```code/fortran/Makefile```: file that compiles and builds Fortran files
  
 ```code/fortran/fput.f90```: main module that brings together the rest of the files
