@@ -34,86 +34,46 @@ feature_row:
 
 # Introduction
  
-Hello. My name is Simon Austin Lee. I am currently a data scientist at Celisus Therapeutics in Cambridge, MA. 
-I recieved a bachelors of science from the University of California Santa Cruz in Applied Mathematics, and found an interest at the intersection of data science and life sciences spending time at EPFL. 
-I would like to obtain a Ph.D. soon doing some form of computational biology/biomathematics research. 
-My recent interests have been utilizing AI/ML on clinical, genetics, and wearable technologies data and extracting meaningful insights working with these different data types. 
-The bigger picture of these interests is to understand complex disease and also improve healthcare with AI-assisted technologies.
-Below you will get a brief history of my education/working experience.
+Simon Austin Lee, born July 11, 2001 (Age 21), is a current data scientist at Celsius Therapeutics in Cambridge, Massachusettes. He obtained a degree in Applied Mathematics but found a large interest at the intersection of computation and biology/healthcare. In particular, Simon is searching for a life purpose where he is able to help and touch the lives of others. He has found different avenues to do so by sharing valuable/intruiging time with many strangers, volunteering his time for philantropic efforts, and just bringing a positive energy to those around him. Beginning in Fall 2023, he will be returning to UCLA to obtain his Ph.D. in the department of Computational Medicine, where he will continue his pursuit to find a career that he truly loves. His life mantra is: "To Do it for the Plot" as one of his biggest goals in life is to be able to tell his children stories about his young 20's. Below is a more detailed biography about his journey in life.
  
 ---
  
-# Education & Affiliations
+# Early Life
 
-### Celsius Therapeutics (January 2023 - Present)
+Simon was born in Austin, Texas to parents Seung-Wuk Lee & Shiho Okada on the date: July 11, 2001. At the time his father was obtaining his Ph.D. at the University of Texas, Austin. He has no recollections of Texas at all but is a proud native regardless. Simon also has two siblings, Eugene and Erin Lee who he was warmed up to in recent years. Simon's earliest memories as a child began in Albany, California. Growing up he was a very reserved child who was very into arts among other things. He is notorious in his neighborhood of Walnut Creek, where he grew up for being a 4x Bookmark Designer Winner at his local Contra Costa Library. At some point in his life, he turned away from his creative side to pursue sciences & mathematics but didn't really fall in love with either until later on in life. At age 10, he was diagnosed with Rheumatic Fever, an autoimmune condition where he nearly lost his life if it weren't at the expense of an emergency blood transfusion. From this experience, he was told that he would likely never be able to excercise ever again. As a result, he was forced to grow up early on, but from this experience gained a few important attributes: A hard work ethic, a willingness to help others, and to do the impossible.
 
-In January 2023, I joined the machine learning team at Celsius Therapeutics in Cambridge Massachusetts as a Data Scienctist. 
-This is my first industry experience and I am fortunate to be working at a company with big aspirations in the pharmaceutical world. 
-During this time I will be looking at primarily Bulk RNA-seq data & Histology images to try and validate some gene targets that the company has identified in their biomarker discovery process. 
-In my small team we are currently trying to develop a precision medicine that will help treat a subset of patients who are diagnosed with IBD (Crohns disease & Ulcerative Colities)
-If all goes well at the end of the day, our machine learning pipeline will be able to be used for drug development in actual clinical trials! 
-Talk about a really exciting and rewarding experience! 
- 
-### UCLA, Computational Medicine (Summer 2022)
- 
-In the summer of 2022, I worked as a computational and genomics analyst at UCLA within the computational medicine department under the Bruins in Genomics Summer Program. In this program, I worked with Dr. [Jeffrey Chaing](https://compmed.ucla.edu/member/chiang-phd) and Dr. Ákos Rudas to develop a deep learning pipeline that can predict future Arterial Blood Pressure. On top of working alongside these extraordinary scientists, I also got to meet a spectacular cohort of undergraduates across America who worked on other problems in computational biology. You can read more about the experience outside of work under my [Blog posts](https://simonlee711.github.io/blog/) tab. This experience was truly memorable, and I am grateful to have worked at a world-renowned university that runs cutting-edge research.
- 
-{% include figure image_path="images/bs.jpg" alt="this is a placeholder image" caption="Bruins in Genomics 2022" %}
- 
-### UCSC Genomics Institute (2021-2022)
- 
-In Fall 2021, I entered [Dr. Vanessa Jonsson's](https://jonssonlab.com/) lab as an undergraduate researcher affiliated with the UCSC Genomics Institute. During my time in this institute, I collaborated with [Razvan Marinescu](http://www.mit.edu/~razvan/) (MIT Computer Science & Artificial Intelligence Laboratory) and [Vedu Mallela](https://people.csail.mit.edu/vmallela/) (Georgia Tech, School of Computing) on a single cell genomics problem. With a recent influx of biological data due to NGS & single-cell sequencing, our goal was trying to comprehend fundamental changes "cell-by-cell" rather than those at a population level. The hope in this field is that we can understand things like cancer, stem cells, aging, as well as the development of drug resistance to a much greater extent. The question we were addressing was attempting to map chromatin accessibility assays to gene expression profiles because chromatin plays a massive role in gene expression regulation.
- 
-### Camp Kesem (2020-2022)
+At some point towards the end of middle school, he was cleared to exercise once more and for a lot of his adolescence, he actually preferred athletics over an education. He found particular success competing on his High school Track and Field Team where he excelled to some extent at the 400 meter. He ran with two track legends, Austin Kreseley (Now running NCAA Division 1 at Iowa State) and William Sornberger (Now Running NCAA Division 1 at UC Berkeley), which definitely amplified his success in the sport. But since being told by his doctors of his inability to compete, he ended up winning 4th place at the Meet of Champions his senior year which was one of his largest accomplishments as an athlete with health complications. On top of Track & Field, he was a fomer basketball player as well, finding real success in the sport after he quit his high school team to go play with his friends in a Mormon League. So in general Simon really saw no aspirations to go to college, and instead really wanted to prove himself in the athletic world. Things would change very quickly.
 
-Camp Kesem is a college-run non-profit organization where college students volunteer their time year-round to fundraise and host a free summer camp for children whose parents are affected by cancer. While at this non-profit organization, I served as the treasurer of the UC Santa Cruz Chapter. As the treasurer, I got to use some of my mathematics to crunch some numbers and get hands-on experience working with financial data management through excel spreadsheets. More specifically, I managed chapter finances, filed company grants from local Santa Cruz non-profit businesses, and created budgets for all the expenses needed to host a summer camp. I enjoyed my time serving as a treasurer and counselor for this non-profit organization.
+# Education & Young Career
 
-{% include figure image_path="images/kesem.jpg" alt="this is a placeholder image" caption="Getting a $5000 grant from Caroline's Non Profit, Santa Cruz" %}
+While college wasn't a requirement, Simon still ended up attending. He studied Pure Mathematics months after scoring a 1 on his AP Calculus Exam (The lowest mark on the test). However his love for mathematics would soon change after repeating the same material taught by a different professor. From his attendance in college, he was able to learn that people who truly cared about what they did, are the best teachers in life. Watching people who truly understood their fields sparked a desire in Simon to want to find his own niche. Outside of his academics, he was convinced by his best friend Mateo to join a fraternity. Fraternities were always stigmatized to be the big party animals of college, and it was just like that. He made it through the whole hazing process from beginning to end, making some of his most unqiue and interesting friends from this social experience. Though he never saw the value of it while in school, he is grateful for the short and unique time he spent in it. And last of all, somewhere in the middle of his first year at University, he was sent home due to the Coronavirus Pandemic that shook the foundations of all of society. 
 
- 
-### UC Santa Cruz, Baskin School of Engineering (2019-2022)
- 
-In Spring 2022, I graduated with my Bachelor of Science degree in Applied Mathematics at UCSC's Jack Baskin School of Engineering with Summa Cum Laude honors. 
-  I initially entered as a pure mathematics major in the fall of 2019. However, I soon realized that logic and proofs were not the academic paths I wanted to pursue. 
-  Therefore in my second year at university, I took my first programming class and was forever changed. 
-  I ended up switching to the Applied mathematics department after the conclusion of my second year, where I focused primarily on computing and mathematical biology. 
-  Taking courses like numerical analysis, scientific computing, and data-driven modeling, I was inspired to use my quantitative background and work in the life sciences field.
- 
-<!---{% include figure image_path="images/AM.jpg" alt="this is a placeholder image" caption="Applied Mathematics Pi Party" %}-->
+While the Pandemic slowed a lot of people down, some arbitrary catalyst sped things up for Simon. He picked up coding classes, changed from Pure to Applied Mathematics, and found a serious love for problem solving/engineering. His imagination coupled with his trained logical thinking worked wonders in setting up mathematical problems and trying to engineer problems in reverse from Answer to Problem. With his new interest in computing, he would take this to another level with input and outputs, and trying to logically find connections in this applied science. If there was anything joyous he found from school, it was his curiousity and desire to want to solve abstract problems. While things appeared to be going great, he failed to secure an internship after his second year of college, and truly thought about leaving school. Instead of quitting, he had the better plan to just finish in three years.
+
+In his final year of college, Simon had two goals: Get his Applied Mathematics degree & have a great senior year. The Covid-19 experience was so unqiue for everyone because it was a chance for anyone to have a fresh beginning. And this was the case for Simon who came out of his shell and prioritized a work hard, play hard mentality while simultaenouly trying to help those around him. He entered research that year in Dr. Jonsson's Genomics Lab, where he worked with [Razvan Marinescu](http://www.mit.edu/~razvan/) (MIT Computer Science & Artificial Intelligence Laboratory) and [Vedu Mallela](https://people.csail.mit.edu/vmallela/) (Georgia Tech, School of Computing) on a single cell genomics problem. In this time he specialized in the deep learning architecture Transfromer attention models, which have recently been the foundations of this Artificial Intelligence explosion (Generative AI: ChatGPT, Dall-E, etc.). Outside of academics Simon was the treasurer for Camp Kesem, which is a college-run non-profit organization where college students volunteer their time year-round to fundraise and host a free summer camp for children whose parents are affected by cancer. While at this non-profit organization, he got to use some of his mathematical abilities to crunch numbers and get hands-on experience working with financial data management through excel spreadsheets. More specifically, he managed chapter finances, filed company grants from local vendors, and created budgets for all the expenses needed to host a summer camp. In addition to his involvment in campus activities, he also worked 3 part time jobs as a Teaching Assistant for Differential Equations, a reader for multiple professors, and helped a CS Professor compile a book of all his research about Video On Demand and Computer Storage Systems. After completing all the rigorous coursework, he obtained his degree with Summa Cum Laude Honors, as well as major honors. However this was not the end of his schooling experience as he decided to continue research the following summer.
+
+In the summer, he found an opportunity to work for Dr. [Jeffrey Chaing](https://compmed.ucla.edu/member/chiang-phd) and Dr. Ákos Rudas to develop a deep learning pipeline that can predict future Arterial Blood Pressure. This research lab would later play a bigger role in his involvement in graduate school for another ability to work for Jeff. On top of all he was learning in this lab, he found a particular desire to remain in this niche field due to its direct application in healthcare. What this means is that he can remain doing computational while working on real patient data. In addition to working in his lab, Simon was able to make friends all across the country during that summer. He considers these probably his best friends at his time at University but there was so much more to come post-graduation.
+
+{% include figure image_path="images/bs.jpg" alt="this is a placeholder image" caption="UCLA 2022" %}
+
+# Post Graduation & Professional Life
+
+After Concluding his time in Los Angeles, he proceeded to move to Lausanne, Switzerland as he began his search for a job in the biotech industry. During his time he had the opportunity to take courses at a Swiss Engineering School, EPFL, while also simultaenously traveling the world. He faced many challenges alone in this period of time but also grew into that young adult that he needed to become. He hit many countries in his time there like Belgium, France, The Czech Republic but his favorite was Morocco, Africa where he went camping in the Sahara Desert. Along his trek through Europe & Africa, he once again met many people from all walks of life and listened in on their stories to become a better and more abitious person. 
+
+And at last, Simon currently resides in Boston, Massachusettes beginning his work recently as a data scientist at Celsius Therapeutics. Beginning in January 2023, he joined the machine learning team in the pharmaceutical world. During this time he has been working on Bulk RNA-seq Deconvolution & Histology image quantification to try and validate some biomarkers that the company has pushed for in their precision medicine efforts. In this small team we are currently trying to develop a medication that will help treat a subset of patients who are diagnosed with IBD (Crohns disease & Ulcerative Colities). If all goes well at the end of the day, our machine learning pipeline will be able to be used for drug development in actual clinical trials! 
  
  
 ---
  
 # Goals
- 
- Some of my current goals is to build a healthy work life balance. My primary work day is from 9-5 and outside of that I have become exposed to a lot of free time.
- It has felt foreign to not have to do homework after a long work day so I am trying to utilize my time by doing side projects, going out and meeting people, and enjoying my early 20's. 
- I plan to travel whenever I can, and truly experience the most out of my time in this brand new city of Boston. 
- Another goal of mine is to become a better writer/storyteller, where I practice that constantly through blogging. 
- There will be a mixture of academic focused writing, and casual writing to allow me to write in different voices. 
- So feel free to check out my current ongoing blog! 
- 
----
- 
-# Outside Interests
- 
-Outside academics, I am widely interested in a few things. First and foremost is photography. I enjoy photography so much that I gave my hobby its own tab [here](https://simonlee711.github.io/photos/). Photography has been my escape and a way to document my hectic young life. With everything going by so quickly, I forget every little thing that has happened. However, photography has been a way to capture the moment and gives me a chance to relive it again.
- 
-I have also been widely interested in traveling. Before working at Celsius, I had the privelage of living in Europe, attending EPFL and during I spent a lot of my free time traveling.
-During COVID-19, I think a lot of freedom was deprived especially during my golden college years. 
-Since then, I have only wanted to regain some of the years I lost by doing ambitious trips (safely)! 
-Since many neighboring big countries surround Switzerland, it has been accessible to travel. 
-Also, Western Europe is central in reaching the USA, Africa, and Asia and I wish to take advantage of traveling to some of these areas when I have holiday breaks. 
-Experiencing brand-new cultures has been widely rewarding because you are exposed to new ideas and experiences. 
-Though California is pretty multicultural, nothing compares to the experiences spent inside another country. 
 
-Lastly is just helping people. 
-Throughout my whole life, helping people has been one of the most rewarding experiences that I have ever felt. 
-It is something I value and has widely become the reason I pursued the biotech industry rather than standard tech. 
-There was a time in my life when I was very ill with an autoimmune condition, and I spent a lot of my time being helped by others because there was not much I could do with my frail body. 
-So life comes at you full circle. 
-I plan to dedicate my time if time allows to hopefully go volunteer with humanitarian groups (UNICEF, etc.) whenever time allots. 
-I look forward to using my time to help those who are in need. 
+Here are a few goals for the next 10 years in no particular order:
+
+* Live a life I want to remember
+* Meet and Help as many unqiue people as possible
+* Travel More of the world
+* Take a shot at the Forbes 30 under 30
+* To find happiness in whatever I do
 
 ---
 
