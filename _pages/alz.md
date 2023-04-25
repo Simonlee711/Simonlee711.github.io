@@ -11,7 +11,7 @@ date: 2022-09-11
 sidebar:
   nav: "docs2"
 feature_row_left1:
-  - url: "https://github.com/Simonlee711/UCSC/tree/main/Research%20Projects/Alzheimer's%20Classifier"
+  - url: "https://github.com/Simonlee711/"
     btn_label: "Code"
     btn_class: "btn--primary"
 ---

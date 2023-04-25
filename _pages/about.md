@@ -40,7 +40,7 @@ Welcome to Simon Lee's Webpage! This webpage was intended to showcase some of my
 
 # Brief Introduction
 
-{% include figure image_path="images/bs.jpg" alt="this is a placeholder image" caption="" %}
+{% include figure image_path="images/bs.jpg" alt="this is a placeholder image" caption="Santa Monica 2022" %}
 
 Hello, my name is Simon Lee, and I am currently a Data Scientist at Celsius Therapeutics in Cambridge, MA. I am also a soon-to-be Ph.D. student at the University of California, Los Angeles in the Department of Computational Medicine. I obtained a degree in Applied Mathematics where I had a high interest in computing, methods development, and machine learning applied to biology.
 

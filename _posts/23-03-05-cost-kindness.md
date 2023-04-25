@@ -39,5 +39,5 @@ During breakfast I asked him if he does this with all his uber clients and he to
 {% include figure image_path="/images/post_photos/mia1.JPG" alt="this is a placeholder image" caption="Hugo & I" %}
 
 
-With that, this concludes this week's blog. I hope some of these anecdotes are heart-warming and help you strive to live a better life. Thanks for reading this week's blog!
+With that, this concludes this week's blog. I hope some of this anecdote is heart-warming and helps you strive to live a better life. Thanks for reading this week's blog!
 

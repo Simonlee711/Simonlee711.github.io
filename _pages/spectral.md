@@ -11,7 +11,7 @@ date: 2022-09-10
 sidebar:
   nav: "docs2"
 feature_row_left1:
-  - url: "https://github.com/Simonlee711/UCSC/tree/main/Research%20Projects/Spectrum_Analysis/covidcase"
+  - url: "https://github.com/Simonlee711/"
     btn_label: "Code"
     btn_class: "btn--primary"
 ---
