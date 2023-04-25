@@ -40,6 +40,7 @@ Welcome to Simon Lee's Webpage! This webpage was intended to showcase some of my
 
 # Brief Introduction
 
+{% include figure image_path="images/bs.jpg" alt="this is a placeholder image" caption="" %}
 
 Hello, my name is Simon Lee, and I am currently a Data Scientist at Celsius Therapeutics in Cambridge, MA. I am also a soon-to-be Ph.D. student at the University of California, Los Angeles in the Department of Computational Medicine. I obtained a degree in Applied Mathematics where I had a high interest in computing, methods development, and machine learning applied to biology.
 
@@ -52,7 +53,7 @@ Throughout my academic career, I have had the opportunity to work with some amaz
 
 Outside of Mathematics, I love to meet new people and explore the world. First and foremost, building relationships and friendships, no matter the duration is of utmost importance to me since I do not get here alone. I have had the incredible privilege to meet lovely people who have shaped my character/personality/skills and I am forever grateful to have had an amazing community throughout my whole life. I recently identified that surrounding myself with the right people is what truly makes me happy and I, therefore, love to continue to meet new people and share precious moments with them. Secondly, I love to travel the world. The world is our playground and I have had the privilege to visit/live in some fascinating countries like Morocco, Switzerland, Japan, and plenty more. As a young lad, there are so many things I want to experience and traveling has allowed me to diversify my culture/taste/experience. Last of all I want to and love to help others. For much of my life, I have had great physical/mental support and it is only right for me to pay it forward and do my part to bring light and happiness to the world.
 
-
+And lastly some of my hobbies include spending time with friends, game development, basketball & working out, and photography.
 
 {% include feature_row %}
  
