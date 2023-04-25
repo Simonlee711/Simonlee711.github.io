@@ -93,8 +93,6 @@ Another point of interest comes from the poor results when observing channels wi
 
 # Code
 
-This project was done in NX-421 (Neural Signals & Signals Processing) at EPFL taught by Professor Silvestro Micera as my mini project. Below I will list the source files that were made in this assignment as well as the code linked below it.
-
 ```mini_project3/regression_all_acquisistions.ipynb``` - the notebook that executes the main pipeline
 
 ```mini_project3/presentation/Project 3 Presentation.pdf``` - powerpoint presentation in pdf form of our glove tracking kinematic regression results presented at EPFL. 
@@ -211,8 +209,6 @@ A graph representation of the brain offers many opportunities for quantitative a
 
 # Code
 
-This project was done in NX-421 (Neural Signals & Signals Processing) at EPFL taught by Professor Dimitri Van De Ville as my mini project. Below I will list the source files that were made in this assignment as well as the code linked below it.
-
 ```mini_project2/ICA.ipynb``` - the notebook that executes the main pipeline
 
 ```mini_project2/New - Seed Functional Connectivity & Graph Metrics.ipynb``` - Extended analysis done for seed functional connectivity and graph based plots
@@ -314,7 +310,6 @@ Some concluding remarks is the amazing strengths of linear modeling. Our group w
 ---
 
 # Code
-This project was done in NX-421 (Neural Signals & Signals Processing) at EPFL taught by Professor Dimitri Van De Ville as my mini project. Below I will list the source files that were made in this assignment as well as the code linked below it.
 
 ```mini_project1/mini_project_1.ipynb``` - the notebook that executes the stimulus recognition pipeline
 

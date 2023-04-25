@@ -7,7 +7,7 @@ main:
   - title: "Photos"
     url: /photos/
   - title: "Blog"
-    url: /blogs/
+    url: /blog/
 docs:
   - title: Photo Gallery
     children:
