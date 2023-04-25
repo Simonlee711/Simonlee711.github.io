@@ -77,7 +77,7 @@ Enjoy Simon Lee's 2023.
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
-![image-left](/images/2023/a6.JPG){: .align-left style="width: 30%;"}
+![image-left](/images/2023/a6.jpg){: .align-left style="width: 30%;"}
 #### Yard Fest @ Harvard
 #### April 16, 2023
 <br/><br/><br/><br/>
@@ -90,7 +90,7 @@ Enjoy Simon Lee's 2023.
 <br/><br/><br/><br/>
 
 ![image-left](/images/2023/a4.JPG){: .align-left style="width: 30%;"}
-#### Drinking w/ Khoi & Laura
+#### Drinking w/ Co-working Khoi & Laura Edition
 #### April 5, 2023
 <br/><br/><br/><br/>
 
@@ -226,7 +226,7 @@ Enjoy Simon Lee's 2023.
 ## February 2023
 
 ![image-right](/images/2023/feb3.JPG){: .align-right style="width: 30%;"}
-#### T Line, Boylston
+#### A Platonic Valentines Day
 {: style="text-align: right;"}
 #### February 14, 2023
 {: style="text-align: right;"}
