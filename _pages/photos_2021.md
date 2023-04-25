@@ -48,7 +48,7 @@ Enjoy Simon Lee's 2021.
 # November 2021
 
 ![image-left](/images/2021/nov.jpg){: .align-left style="width: 30%;"}
-#### Concert w/ Alex Pavy
+#### Concert w/ Alex
 #### November 6, 2021
 <br/><br/><br/><br/>
 

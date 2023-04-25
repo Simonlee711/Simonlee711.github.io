@@ -142,7 +142,7 @@ Enjoy Simon Lee's 2023.
 <br/><br/><br/><br/>
 
 ![image-left](/images/2023/mar5.JPG){: .align-left style="width: 30%;"}
-#### Catan w. Ben, Raquelle & Mylee
+#### Catan w/ Ben, Raquelle & Mylee
 #### March 16, 2023
 <br/><br/><br/><br/>
 
