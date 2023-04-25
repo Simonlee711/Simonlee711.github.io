@@ -58,10 +58,88 @@ Enjoy Simon Lee's 2023.
 
 ## April 2023
 
+![image-right](/images/2023/a9.JPG){: .align-right style="width: 30%;"}
+#### Elganza After Party
+{: style="text-align: right;"}
+#### April 9
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/a7.JPG){: .align-left style="width: 30%;"}
+#### Boston Common w/ Jess
+#### April 21, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/a8.JPEG){: .align-right style="width: 30%;"}
+#### Tiki Bar on 4/20
+{: style="text-align: right;"}
+#### April 20, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/a6.JPG){: .align-left style="width: 30%;"}
+#### Yard Fest @ Harvard
+#### April 16, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/a5.JPG){: .align-right style="width: 30%;"}
+#### Tik Tok Guy Drew Us w/ Jessie
+{: style="text-align: right;"}
+#### April 8, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/a4.JPG){: .align-left style="width: 30%;"}
+#### Drinking w/ Khoi & Laura
+#### April 5, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/a3.JPG){: .align-right style="width: 30%;"}
+#### Niagara Falls
+{: style="text-align: right;"}
+#### April 3, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/a2.JPG){: .align-left style="width: 30%;"}
+#### CN Tower, Toronto
+#### April 2, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/a1.JPG){: .align-right style="width: 30%;"}
+#### Ali & I in Toronto
+{: style="text-align: right;"}
+#### April 1, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ---
 
 ## March 2023
+
+![image-left](/images/rt/18.JPG){: .align-left style="width: 30%;"}
+#### J Chillin w/ Noah
+#### March 18, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/rt/16.JPG){: .align-right style="width: 30%;"}
+#### Good Times w/ Ben
+{: style="text-align: right;"}
+#### March 17, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/rt/15.JPG){: .align-left style="width: 40%;"}
+#### Bar Crawl w/ Caitlin & Adam
+#### March 17, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/rt/14.JPG){: .align-right style="width: 40%;"}
+#### La Jolla w/ Karthik & Osagie
+{: style="text-align: right;"}
+#### March 17, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ![image-left](/images/2023/mar5.JPG){: .align-left style="width: 30%;"}
 #### Catan w. Ben, Raquelle & Mylee
@@ -76,9 +154,57 @@ Enjoy Simon Lee's 2023.
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
+![image-left](/images/rt/12.JPG){: .align-left style="width: 30%;"}
+#### Jeff & I @ UCLA
+#### March 16, 2023
+<br/><br/><br/><br/>
 
-![image-left](/images/2023/mar3.JPG){: .align-left style="width: 40%;"}
+![image-right](/images/rt/10.JPG){: .align-right style="width: 30%;"}
+#### BCD Tofu w/ Saiyang & Osagie
+{: style="text-align: right;"}
+#### March 16, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/rt/6.JPG){: .align-left style="width: 30%;"}
+#### Dinner w/ Jaime
+#### March 15, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/rt/7.JPG){: .align-right style="width: 30%;"}
+#### Line Dancing w/ Camilla in SB
+{: style="text-align: right;"}
+#### March 15, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/rt/3.JPG){: .align-left style="width: 40%;"}
+#### Woodstocks w/ Old Friends
+#### March 14, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/rt/4.JPG){: .align-right style="width: 40%;"}
+#### Tiki Bar w/ Old Friends
+{: style="text-align: right;"}
+#### March 14, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/rt/2.JPG){: .align-left style="width: 30%;"}
+#### Fish Ranch w/ Osagie & Philippa
+#### March 13, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/mar3.JPG){: .align-right style="width: 40%;"}
 #### Home w/ Osagie & Philippa
+{: style="text-align: right;"}
+#### March 13, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+
+![image-left](/images/rt/1.JPG){: .align-left style="width: 30%;"}
+#### Golden Gate Bridge w/ Osagie
 #### March 13, 2023
 <br/><br/><br/><br/>
 
