@@ -64,13 +64,13 @@ Enjoy Simon Lee's 2023.
 ## March 2023
 
 ![image-left](/images/2023/mar5.JPG){: .align-left style="width: 30%;"}
-#### El Segundo, California
+#### Catan w. Ben, Raquelle & Mylee
 #### March 16, 2023
 <br/><br/><br/><br/>
 
 
 ![image-right](/images/2023/mar4.JPG){: .align-right style="width: 30%;"}
-#### Manhattan Beach, California
+#### Pool w/ Ben & Mylee
 {: style="text-align: right;"}
 #### March 16, 2023
 {: style="text-align: right;"}
@@ -78,12 +78,12 @@ Enjoy Simon Lee's 2023.
 
 
 ![image-left](/images/2023/mar3.JPG){: .align-left style="width: 40%;"}
-#### Concord, California
+#### Home w/ Osagie & Philippa
 #### March 13, 2023
 <br/><br/><br/><br/>
 
 ![image-right](/images/2023/mar2.JPG){: .align-right style="width: 30%;"}
-#### Orlando, Florida
+#### Top Golf w/ Tiffanie in Orlando
 {: style="text-align: right;"}
 #### March 3, 2023
 {: style="text-align: right;"}
@@ -123,24 +123,24 @@ Enjoy Simon Lee's 2023.
 ## January 2023
 
 ![image-left](/images/2023/jan6.JPG){: .align-left style="width: 30%;"}
-#### Salt & Straw, Assembly Row
+#### Celsius Holiday Party
 #### January 26, 2023
 <br/><br/><br/><br/>
 
 ![image-right](/images/2023/jan5.JPG){: .align-right style="width: 40%;"}
-#### Cambridge, Massachusettes
-{: style="text-align: right;"}
+#### Data Science Team 😎
+
 #### January 26, 2023
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/2023/jan4.JPG){: .align-left style="width: 30%;"}
-#### Boston Common, Boston
+#### Going Clubbing in Boston Common
 #### January 14, 2023
 <br/><br/><br/><br/>
 
 ![image-right](/images/2023/jan3.JPG){: .align-right style="width: 30%;"}
-#### TD Garden, Boston
+#### Boston Celtics Game
 {: style="text-align: right;"}
 #### January 11, 2023
 {: style="text-align: right;"}
@@ -152,7 +152,7 @@ Enjoy Simon Lee's 2023.
 <br/><br/><br/><br/>
 
 ![image-right](/images/2023/jan1.JPG){: .align-right style="width: 30%;"}
-#### Hamburg - Blankenese, Germany
+#### Visiting Philippa in Hamburg, Germany 
 {: style="text-align: right;"}
 #### January 5, 2023
 {: style="text-align: right;"}

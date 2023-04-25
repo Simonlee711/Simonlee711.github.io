@@ -32,12 +32,12 @@ Enjoy Simon Lee's 2021.
 <br/><br/><br/><br/>
 
 ![image-left](/images/2021/dec2.jpg){: .align-left style="width: 30%;"}
-#### Skaftafell, Iceland
+#### Glacier Hike
 #### December 12, 2021
 <br/><br/><br/><br/>
 
 ![image-right](/images/2021/dec.jpg){: .align-right style="width: 40%;"}
-#### London, United Kingdom
+#### Meet up w/ Tessa
 {: style="text-align: right;"}
 #### December 10, 2021
 {: style="text-align: right;"}
@@ -48,7 +48,7 @@ Enjoy Simon Lee's 2021.
 # November 2021
 
 ![image-left](/images/2021/nov.jpg){: .align-left style="width: 30%;"}
-#### Bocci Cellar, Harvey West Santa Cruz
+#### Concert w/ Alex Pavy
 #### November 6, 2021
 <br/><br/><br/><br/>
 
@@ -73,7 +73,7 @@ Enjoy Simon Lee's 2021.
 <br/><br/><br/><br/>
 
 ![image-right](/images/2021/july.jpg){: .align-right style="width: 30%;"}
-#### Great China Cafe, Walnut Creek
+#### 20th Birthday
 {: style="text-align: right;"}
 #### July 11, 2021
 {: style="text-align: right;"}
@@ -84,12 +84,12 @@ Enjoy Simon Lee's 2021.
 # June 2021
 
 ![image-left](/images/2021/june2.jpg){: .align-left style="width: 40%;"}
-#### Western Drive, Santa Cruz
+#### Party
 #### June 27, 2021
 <br/><br/><br/><br/>
 
 ![image-right](/images/2021/june.jpg){: .align-right style="width: 40%;"}
-#### Empire Grade Forest, Santa Cruz
+#### DJ in the Forest
 {: style="text-align: right;"}
 #### June 25, 2021
 {: style="text-align: right;"}
@@ -100,12 +100,12 @@ Enjoy Simon Lee's 2021.
 # May 2021
 
 ![image-left](/images/2021/may2.jpg){: .align-left style="width: 40%;"}
-#### Seabright Beach, Seabright
+#### Day @ the Beach
 #### May 27, 2021
 <br/><br/><br/><br/>
 
 ![image-right](/images/2021/may.jpg){: .align-right style="width: 40%;"}
-#### Surf City, Downtown Santa Cruz
+#### Surf City
 {: style="text-align: right;"}
 #### May 20, 2021
 {: style="text-align: right;"}
@@ -116,12 +116,12 @@ Enjoy Simon Lee's 2021.
 # April 2021
 
 ![image-left](/images/2021/april2.jpg){: .align-left style="width: 30%;"}
-#### CVS Pharmacy, Downtown, Santa Cruz
+#### Covid Shot @ CVS Pharmacy
 #### April 8, 2021
 <br/><br/><br/><br/>
 
 ![image-right](/images/2021/april.jpg){: .align-right style="width: 30%;"}
-#### West Cliff Drive, Santa Cruz
+#### Free Supply Package
 {: style="text-align: right;"}
 #### April 1, 2021
 {: style="text-align: right;"}
@@ -132,7 +132,7 @@ Enjoy Simon Lee's 2021.
 # March 2021
 
 ![image-left](/images/2021/march.jpg){: .align-left style="width: 40%;"}
-#### Carl's Jr., Oakland
+#### Spring Break
 #### March 11, 2021
 <br/><br/><br/><br/>
 
@@ -141,7 +141,7 @@ Enjoy Simon Lee's 2021.
 # February 2021
 
 ![image-right](/images/2021/feb.jpg){: .align-right style="width: 40%;"}
-#### Soquel
+#### Caroline's Non-Profit
 {: style="text-align: right;"}
 #### February 12, 2021
 {: style="text-align: right;"}
@@ -152,7 +152,7 @@ Enjoy Simon Lee's 2021.
 # January 2021
 
 ![image-left](/images/2021/jan.jpg){: .align-left style="width: 40%;"}
-#### University of California Davis, Davis
+#### Visiting Friends at UC Davis
 #### January 19, 2021
 <br/><br/><br/><br/>
 

@@ -37,24 +37,24 @@ Enjoy Simon Lee's 2022.
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/dec3.JPG){: .align-left style="width: 40%;"}
-#### South Point Park, NYC
+#### Favorite Spot in NYC
 #### Decmeber 28, 2022
 <br/><br/><br/><br/>
 
 ![image-right](/images/2022/dec2.JPG){: .align-right style="width: 30%;"}
-#### Empire State Building, NYC
+#### Empire State Building w/ Donald
 {: style="text-align: right;"}
 #### December 28, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/friend1.JPG){: .align-left style="width: 40%;"}
-#### EPFL Tap House, Switzerland
+#### Brews in Suisse
 #### Decmeber 15, 2022
 <br/><br/><br/><br/>
 
 ![image-right](/images/2022/friend4.JPG){: .align-right style="width: 30%;"}
-#### Lausanne, Switzerland
+#### Christmas Season
 {: style="text-align: right;"}
 #### December 3, 2022
 {: style="text-align: right;"}
@@ -65,7 +65,7 @@ Enjoy Simon Lee's 2022.
 ## November 2022
 
 ![image-left](/images/2022/camel.JPG){: .align-left style="width: 30%;"}
-#### Erg Chebbi Sahara Desert, Morocco
+#### Camel Ride in the Sahara Desert
 #### November 28, 2022
 <br/><br/><br/><br/>
 
@@ -77,7 +77,7 @@ Enjoy Simon Lee's 2022.
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/friend5.JPG){: .align-left style="width: 30%;"}
-#### Prague, Czech Republic 
+#### Czech Republic w/ Josh
 #### November 18, 2022
 <br/><br/><br/><br/>
 
@@ -86,7 +86,7 @@ Enjoy Simon Lee's 2022.
 ## October 2022
 
 ![image-right](/images/2022/oct.JPG){: .align-right style="width: 30%;"}
-#### TEDxEcublens, Switzerland
+#### TEDxEcublens in Switzerland
 {: style="text-align: right;"}
 #### October 19, 2022
 {: style="text-align: right;"}
@@ -96,12 +96,12 @@ Enjoy Simon Lee's 2022.
 ## September 2022
 
 ![image-left](/images/2022/sep3.JPG){: .align-left style="width: 30%;"}
-#### Basel, Switzerland 
+#### Hans Zimmer Concert
 #### September 24, 2022
 <br/><br/><br/><br/>
 
 ![image-right](/images/2022/sep2.JPG){: .align-right style="width: 40%;"}
-#### Brussels, Belgium
+#### Flight of Beers 😵‍💫
 {: style="text-align: right;"}
 #### September 23, 2022
 {: style="text-align: right;"}
@@ -127,44 +127,44 @@ Enjoy Simon Lee's 2022.
 ## July 2022
 
 ![image-left](/images/2022/july3.jpg){: .align-left style="width: 30%;"}
-#### Baldwin Hills Scenic Overlook, Culver City 
+#### Enjoying the Sunset
 #### July 30, 2022
 <br/><br/><br/><br/>
 
 ![image-right](/images/2022/july4.jpg){: .align-right style="width: 30%;"}
-#### Getty Center, Los Angeles
+#### Getty Center w/ Noelle
 {: style="text-align: right;"}
 #### July 23, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/july2.jpg){: .align-left style="width: 30%;"}
-#### Sawtelle, Los Angeles
+#### "100" Layer Cake...
 #### July 21, 2022
 <br/><br/><br/><br/>
 
 
 ![image-right](/images/2022/july5.jpg){: .align-right style="width: 40%;"}
-#### Santa Monica Pier, Santa Monica
+#### Santa Monica Pier w/ Karthik & Elijah
 {: style="text-align: right;"}
 #### July 17, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/july.jpg){: .align-left style="width: 30%;"}
-#### Westwood, Los Angeles 
+#### 21st Birthday
 #### July 11, 2022
 <br/><br/><br/><br/>
 
 ![image-right](/images/2022/july7.jpg){: .align-right style="width: 30%;"}
-#### Los Angeles Country Museum of Art (LACMA), Los Angeles
+#### LACMA Museum w/ Noelle
 {: style="text-align: right;"}
 #### July 10, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/july6.jpg){: .align-left style="width: 30%;"}
-#### BJ's Westwood, Los Angeles 
+#### Summer Research Dinner
 #### July 1, 2022
 <br/><br/><br/><br/><br/>
 
@@ -173,42 +173,31 @@ Enjoy Simon Lee's 2022.
 ## June 2022
 
 ![image-right](/images/2022/june.jpg){: .align-right style="width: 30%;"}
-#### Santa Monica Pier, Santa Monica 
+#### Santa Monica Pier w/ Friends
 {: style="text-align: right;"}
 #### June 30, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/june3.jpg){: .align-left style="width: 30%;"}
-#### Malibu Beach, Malibu
+#### Malibu Beach w/ Angelica & Danielle
 #### June 28, 2022
 <br/><br/><br/><br/>
 
-![image-right](/images/2022/june4.jpg){: .align-right style="width: 30%;"}
-#### Target, Westwood Los Angeles
-{: style="text-align: right;"}
-#### June 22, 2022
-{: style="text-align: right;"}
-<br/><br/><br/><br/>
-
-![image-left](/images/2022/june2.jpg){: .align-left style="width: 30%;"}
-#### West Cliff Drive, Santa Cruz 
-#### June 10, 2022
-<br/><br/><br/><br/>
 
 ---
 
 ## May 2022
 
 ![image-right](/images/2022/may2.jpg){: .align-right style="width: 40%;"}
-#### Downtown, Santa Barbara 
+#### Reunited w/ Jaime
 {: style="text-align: right;"}
 ##### May 27, 2022
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/2022/may1.jpg){: .align-left style="width: 40%;"}
-#### Castro, San Francisco 
+#### Meetup w/ Rohith & Scott
 #### May 1, 2022
 <br/><br/><br/><br/>
 
@@ -217,7 +206,7 @@ Enjoy Simon Lee's 2022.
 ## April 2022
 
 ![image-right](/images/2022/april.jpg){: .align-right style="width: 40%;"}
-#### Natural Bridges, Santa Cruz
+#### Surya's Birthday Dinner
 {: style="text-align: right;"}
 #### April 19, 2022 
 {: style="text-align: right;"}
@@ -229,7 +218,7 @@ Enjoy Simon Lee's 2022.
 ## March 2022
 
 ![image-left](/images/2022/march.jpg){: .align-left style="width: 40%;"}
-#### 675 Meder Street, Santa Cruz 
+#### Rat House
 #### March 11, 2022
 <br/><br/><br/><br/>
 
@@ -238,7 +227,7 @@ Enjoy Simon Lee's 2022.
 ## January 2022
 
 ![image-right](/images/2022/jan.jpg){: .align-right style="width: 30%;"}
-#### Davenport Beach 
+#### Walk On the Beach w/ Alex
 {: style="text-align: right;"}
 #### January 28, 2022
 {: style="text-align: right;"}
