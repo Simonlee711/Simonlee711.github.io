@@ -53,15 +53,43 @@ Enjoy Simon Lee's 2023.
 
 ## May 2023
 
+![image-left](/images/2023/a11.JPG){: .align-left style="width: 30%;"}
+#### Cinco De Mayo w/ Lauren
+#### May 5, 2023
+<br/><br/><br/><br/>
 
 ---
 
 ## April 2023
 
+![image-right](/images/2023/a15.JPG){: .align-right style="width: 30%;"}
+#### Formal 3 w/ Jess
+{: style="text-align: right;"}
+#### April 30
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/a14.JPG){: .align-left style="width: 30%;"}
+#### Formal 2 w/ Effy 
+#### April 29, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/a12.JPEG){: .align-right style="width: 30%;"}
+#### Harvard Football Darty
+{: style="text-align: right;"}
+#### April 29
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/a13.JPEG){: .align-left style="width: 30%;"}
+#### Formal 1 w/ Melanie 
+#### April 28, 2023
+<br/><br/><br/><br/>
+
 ![image-right](/images/2023/a9.JPG){: .align-right style="width: 30%;"}
 #### Elganza After Party
 {: style="text-align: right;"}
-#### April 9
+#### April 23
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
@@ -90,7 +118,7 @@ Enjoy Simon Lee's 2023.
 <br/><br/><br/><br/>
 
 ![image-left](/images/2023/a4.JPG){: .align-left style="width: 30%;"}
-#### Drinking w/ Co-working Khoi & Laura Edition
+#### Drinking w/ Co-workers Khoi & Laura Edition
 #### April 5, 2023
 <br/><br/><br/><br/>
 
