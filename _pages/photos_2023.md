@@ -65,7 +65,7 @@ Enjoy Simon Lee's 2023.
 ![image-right](/images/2023/a15.JPG){: .align-right style="width: 30%;"}
 #### Formal 3 w/ Jess
 {: style="text-align: right;"}
-#### April 30
+#### April 30, 2023
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
@@ -77,7 +77,7 @@ Enjoy Simon Lee's 2023.
 ![image-right](/images/2023/a12.JPEG){: .align-right style="width: 30%;"}
 #### Harvard Football Darty
 {: style="text-align: right;"}
-#### April 29
+#### April 29, 2023
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
@@ -89,7 +89,7 @@ Enjoy Simon Lee's 2023.
 ![image-right](/images/2023/a9.JPG){: .align-right style="width: 30%;"}
 #### Elganza After Party
 {: style="text-align: right;"}
-#### April 23
+#### April 23, 2023
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
