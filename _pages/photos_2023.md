@@ -41,17 +41,161 @@ Enjoy Simon Lee's 2023.
 
 ## August 2023
 
+![image-left](/images/2023/au4.JPG){: .align-left style="width: 40%;"}
+#### LILA From YOASOBI
+#### August 6, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/au3.JPG){: .align-right style="width: 30%;"}
+#### YOASOBI
+{: style="text-align: right;"}
+#### August 6, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/au2.JPG){: .align-left style="width: 30%;"}
+#### ZION T.
+#### August 6, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/au1.JPG){: .align-right style="width: 30%;"}
+#### DPR Ian
+{: style="text-align: right;"}
+#### August 5, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/au5.JPEG){: .align-left style="width: 30%;"}
+#### Eggslut DTLA
+#### August 2, 2023
+<br/><br/><br/><br/>
+
 ---
 
 ## July 2023
+
+![image-right](/images/2023/ju5.JPG){: .align-right style="width: 30%;"}
+#### Izumi & I @ SF
+{: style="text-align: right;"}
+#### July 22, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/ju4.JPG){: .align-left style="width: 30%;"}
+#### Cat cafe, Harajuku
+#### July 10, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/ju3.JPG){: .align-right style="width: 30%;"}
+#### Joanne
+{: style="text-align: right;"}
+#### July 5, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/ju2.JPG){: .align-left style="width: 30%;"}
+#### Taipei 101 w/ Joanne
+#### July 4, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/ju1.JPG){: .align-right style="width: 30%;"}
+#### Mt. Fuji Summit
+{: style="text-align: right;"}
+#### July 1, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ---
 
 ## June 2023
 
+![image-left](/images/2023/j9.JPG){: .align-left style="width: 30%;"}
+#### Drinking w/ Sakura
+#### June 21, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/j8.JPG){: .align-right style="width: 30%;"}
+#### Hakata, Fukuoka - Nakasu
+{: style="text-align: right;"}
+#### June 15, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/j7.JPG){: .align-left style="width: 30%;"}
+#### Selfie 😎
+#### June 11, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/j6.JPG){: .align-right style="width: 30%;"}
+#### Jigokudani Yaen Koen
+{: style="text-align: right;"}
+#### June 10, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/j5.JPG){: .align-left style="width: 30%;"}
+#### Dinner with Mikey
+#### June 9, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/j4.JPG){: .align-right style="width: 30%;"}
+#### Dinner with Aya-san
+{: style="text-align: right;"}
+#### June 7, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/j3.JPG){: .align-left style="width: 40%;"}
+#### Laufey Concert
+#### June 5, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/j2.JPG){: .align-right style="width: 40%;"}
+#### Dinner w/ New Japanese Frieds + Harvard
+{: style="text-align: right;"}
+#### June 3, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ---
 
 ## May 2023
+
+![image-left](/images/2023/m7.JPG){: .align-left style="width: 30%;"}
+#### Dinner with Van
+#### May 27, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/m6.JPG){: .align-right style="width: 40%;"}
+#### last day of in Person Work at Celsius
+{: style="text-align: right;"}
+#### May 26, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/m2.JPG){: .align-left style="width: 30%;"}
+#### Dinner with Julie
+#### May 18, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/m1.JPG){: .align-right style="width: 30%;"}
+#### TNT Crew ECF
+{: style="text-align: right;"}
+#### May 17, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/m5.JPG){: .align-left style="width: 30%;"}
+#### ECF Heat vs. Celtics
+#### May 17, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/m4.JPG){: .align-right style="width: 30%;"}
+#### Last day at Harvard
+{: style="text-align: right;"}
+#### May 13, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ![image-left](/images/2023/a11.JPG){: .align-left style="width: 30%;"}
 #### Cinco De Mayo w/ Lauren
