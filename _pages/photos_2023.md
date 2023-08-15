@@ -109,7 +109,7 @@ Enjoy Simon Lee's 2023.
 
 ## June 2023
 
-![image-left](/images/2023/j9.JPG){: .align-left style="width: 30%;"}
+![image-left](/images/2023/j1.JPG){: .align-left style="width: 30%;"}
 #### Drinking w/ Sakura
 #### June 21, 2023
 <br/><br/><br/><br/>
