@@ -42,7 +42,7 @@ Enjoy Simon Lee's 2023.
 ## August 2023
 
 ![image-left](/images/2023/au4.JPG){: .align-left style="width: 40%;"}
-#### LILA From YOASOBI
+#### Ikura-chan From YOASOBI
 #### August 6, 2023
 <br/><br/><br/><br/>
 
@@ -151,7 +151,7 @@ Enjoy Simon Lee's 2023.
 <br/><br/><br/><br/>
 
 ![image-right](/images/2023/j2.JPG){: .align-right style="width: 40%;"}
-#### Dinner w/ New Japanese Frieds + Harvard
+#### Dinner w/ New Japanese Friends + Harvard
 {: style="text-align: right;"}
 #### June 3, 2023
 {: style="text-align: right;"}
