@@ -33,11 +33,42 @@ Enjoy Simon Lee's 2023.
 
 ## October 2023
 
+![image-right](/images/2023/oct1.jpg){: .align-right style="width: 30%;"}
+#### Making Puzzles with Collette
+{: style="text-align: right;"}
+#### October 4, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ---
 
 ## September 2023
 
 ---
+
+![image-left](/images/2023/sep4.JPG){: .align-left style="width: 30%;"}
+#### Collette 
+#### September 30, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/sep2.JPG){: .align-right style="width: 30%;"}
+#### Trivia Night w/ Tim, Arlene, Amanda & Will
+{: style="text-align: right;"}
+#### September 26, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/sep3.JPG){: .align-left style="width: 30%;"}
+#### Bruin Bash 2023 w/ Rain Arine (Influencer), Maggie and Ranen
+#### September 25, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/sep1.JPG){: .align-right style="width: 30%;"}
+#### Trivia Night w/ Zach & Tim
+{: style="text-align: right;"}
+#### September 19, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
 
 ## August 2023
 
