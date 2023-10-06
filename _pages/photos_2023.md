@@ -47,7 +47,7 @@ Enjoy Simon Lee's 2023.
 ---
 
 ![image-left](/images/2023/sep4.JPG){: .align-left style="width: 30%;"}
-#### Collette <3
+#### Collette 
 #### September 30, 2023
 <br/><br/><br/><br/>
 
