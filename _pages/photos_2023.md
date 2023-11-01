@@ -33,6 +33,54 @@ Enjoy Simon Lee's 2023.
 
 ## October 2023
 
+![image-right](/images/2023/oct9.JPG){: .align-right style="width: 30%;"}
+#### Happy Halloween
+{: style="text-align: right;"}
+#### October 31, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/oct8.JPG){: .align-left style="width: 30%;"}
+#### Getting Ready
+#### October 29, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/oct7.JPG){: .align-right style="width: 30%;"}
+#### Sul & Beans
+{: style="text-align: right;"}
+#### October 25, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/oct6.JPG){: .align-left style="width: 30%;"}
+#### K-BBQ
+#### October 25, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/oct5.JPG){: .align-right style="width: 30%;"}
+#### Dockweiler Sunset 
+{: style="text-align: right;"}
+#### October 22, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/oct4.JPG){: .align-left style="width: 30%;"}
+#### Pumpkin Patch and Ice Cream
+#### October 22, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/2023/oct3.JPG){: .align-right style="width: 30%;"}
+#### Korean Fried Chicken
+{: style="text-align: right;"}
+#### October 15, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/2023/oct2.JPG){: .align-left style="width: 30%;"}
+#### Collette... So Cute 
+#### October 13, 2023
+<br/><br/><br/><br/>
+
 ![image-right](/images/2023/oct1.jpg){: .align-right style="width: 30%;"}
 #### Making Puzzles with Collette
 {: style="text-align: right;"}
