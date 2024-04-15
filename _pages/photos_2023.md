@@ -24,10 +24,87 @@ Enjoy Simon Lee's 2023.
 
 ## December 2023
 
+![image-left](/images/post_photos/nov2023/33.JPG){: .align-left style="width: 30%;"}
+#### 인천국제공항
+#### December 27, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/post_photos/nov2023/32.JPG){: .align-right style="width: 30%;"}
+#### Clubbing with Lisa at 이태원
+{: style="text-align: right;"}
+#### December 24, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/post_photos/nov2023/31.JPG){: .align-left style="width: 30%;"}
+#### North Korea
+#### December 22, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/post_photos/nov2023/30.JPG){: .align-right style="width: 30%;"}
+#### Korean Demilitarized Zone
+{: style="text-align: right;"}
+#### December 22, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/post_photos/nov2023/29.JPG){: .align-left style="width: 30%;"}
+#### Getting a Haircut
+#### December 21, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/post_photos/nov2023/28.jpg){: .align-right style="width: 30%;"}
+#### 청와대
+{: style="text-align: right;"}
+#### December 20, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/post_photos/nov2023/8.JPG){: .align-left style="width: 30%;"}
+#### Sumida, Tokyo Japan
+#### December 16, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/post_photos/nov2023/27.JPG){: .align-right style="width: 30%;"}
+#### teamLab Planet TOKYO
+{: style="text-align: right;"}
+#### December 15, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/post_photos/nov2023/26.JPG){: .align-left style="width: 30%;"}
+#### Living Simple 
+#### December 9, 2023
+<br/><br/><br/><br/>
+
+![image-right](/images/post_photos/nov2023/25.JPG){: .align-right style="width: 30%;"}
+#### Christmas Time pt. 2
+{: style="text-align: right;"}
+#### December 1, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+
+![image-left](/images/post_photos/nov2023/24.JPG){: .align-left style="width: 30%;"}
+#### Christmas Time
+#### December 1, 2023
+<br/><br/><br/><br/>
 
 ---
 
 ## November 2023
+
+![image-right](/images/post_photos/nov2023/23.JPG){: .align-right style="width: 30%;"}
+#### Coffee with Van & Camilla
+{: style="text-align: right;"}
+#### November 18, 2023
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/post_photos/nov2023/2.JPG){: .align-left style="width: 30%;"}
+#### Pit Stop in Boston w/ Lauren
+#### November 17, 2023
+<br/><br/><br/><br/>
 
 ---
 
