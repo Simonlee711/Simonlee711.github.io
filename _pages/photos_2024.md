@@ -137,7 +137,7 @@ Enjoy Simon Lee's 2024.
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
-![image-left](/images/post_photos/nov2023/38.JPG){: .align-left style="width: 30%;"}
+![image-left](/images/post_photos/nov2023/38.JPEG){: .align-left style="width: 30%;"}
 #### Dave and Busters
 #### January 13, 2024
 <br/><br/><br/><br/>
