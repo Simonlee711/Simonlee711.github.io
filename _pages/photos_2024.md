@@ -23,8 +23,27 @@ Enjoy Simon Lee's 2024.
 ---
 ## March 2024
 
+![image-right](/images/post_photos/nov2023/48.JPG){: .align-right style="width: 30%;"}
+#### Abu Dhabi, UAE
+{: style="text-align: right;"}
+#### March 28, 2024
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/post_photos/nov2023/50.JPG){: .align-left style="width: 30%;"}
+#### ATV Ride
+####  March 26, 2024
+<br/><br/><br/><br/>
+
+![image-right](/images/post_photos/nov2023/50.JPG){: .align-right style="width: 30%;"}
+#### Hawking
+{: style="text-align: right;"}
+#### March 26, 2024
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ![image-left](/images/post_photos/nov2023/46.JPG){: .align-left style="width: 30%;"}
-#### UAE, Burj Khalifa
+#### Hot air Balloon
 ####  March 26, 2024
 <br/><br/><br/><br/>
 
