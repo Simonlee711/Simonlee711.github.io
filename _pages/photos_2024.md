@@ -23,6 +23,11 @@ Enjoy Simon Lee's 2024.
 ---
 ## March 2024
 
+![image-left](/images/post_photos/nov2023/52.JPG){: .align-left style="width: 30%;"}
+#### Drinks with Seth, Ben
+####  March XX, 2024
+<br/><br/><br/><br/>
+
 ![image-right](/images/post_photos/nov2023/48.JPG){: .align-right style="width: 30%;"}
 #### Abu Dhabi, UAE
 {: style="text-align: right;"}
@@ -108,9 +113,9 @@ Enjoy Simon Lee's 2024.
 
 ## January 2024
 
-![image-left](/images/post_photos/nov2023/9.JPG){: .align-left style="width: 30%;"}
-#### Tangerine Crafts
-#### January 25, 2024
+![image-left](/images/post_photos/nov2023/11.JPG){: .align-left style="width: 30%;"}
+#### Happy Hour
+#### January 29, 2024
 <br/><br/><br/><br/>
 
 ![image-right](/images/post_photos/nov2023/10.JPG){: .align-right style="width: 30%;"}
