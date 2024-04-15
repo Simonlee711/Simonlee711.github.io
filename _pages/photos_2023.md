@@ -27,7 +27,7 @@ Enjoy Simon Lee's 2023.
 ![image-right](/images/post_photos/nov2023/33.JPG){: .align-right style="width: 30%;"}
 #### 인천국제공항
 {: style="text-align: right;"}
-#### December 24, 2023
+#### December 27, 2023
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
@@ -104,19 +104,19 @@ Enjoy Simon Lee's 2023.
 ![image-right](/images/post_photos/nov2023/35.JPG){: .align-right style="width: 30%;"}
 #### Boston Fall
 {: style="text-align: right;"}
-#### November 18, 2023
+#### November 19, 2023
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
 ![image-left](/images/post_photos/nov2023/23.JPG){: .align-left style="width: 30%;"}
 #### Coffee with Van & Camilla
-#### November 17, 2023
+#### November 18, 2023
 <br/><br/><br/><br/>
 
 ![image-right](/images/post_photos/nov2023/1.JPEG){: .align-right style="width: 30%;"}
 #### Night Out in Boston
 {: style="text-align: right;"}
-#### November 18, 2023
+#### November 17, 2023
 {: style="text-align: right;"}
 <br/><br/><br/><br/>
 
