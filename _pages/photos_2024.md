@@ -35,7 +35,7 @@ Enjoy Simon Lee's 2024.
 ####  March 26, 2024
 <br/><br/><br/><br/>
 
-![image-right](/images/post_photos/nov2023/50.JPG){: .align-right style="width: 30%;"}
+![image-right](/images/post_photos/nov2023/22.JPG){: .align-right style="width: 30%;"}
 #### Hawking
 {: style="text-align: right;"}
 #### March 26, 2024
