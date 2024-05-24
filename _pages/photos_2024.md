@@ -28,7 +28,7 @@ Enjoy Simon Lee's 2024.
 ####  March XX, 2024
 <br/><br/><br/><br/>
 
-![image-right](/images/post_photos/nov2023/48.JPG){: .align-right style="width: 30%;"}
+![image-right](/images/post_photos/nov2023/61.JPG){: .align-right style="width: 30%;"}
 #### Abu Dhabi, UAE
 {: style="text-align: right;"}
 #### March 28, 2024
