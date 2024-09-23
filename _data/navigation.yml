@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: https://simonlee711.github.io/about/
   - title: "Photos"
     url: /photos/
   - title: "Blog"
