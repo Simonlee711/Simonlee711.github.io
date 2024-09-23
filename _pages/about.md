@@ -9,26 +9,6 @@ header:
  overlay_image: /images/IMG_9046.jpg
  caption: "Photo credit: Simon Lee"
 date: 2023-01-24
-
-feature_row:
-  - image_path: /assets/splash/2.jpg
-    title: "Blog"
-    excerpt: "Click here to read my blog about life and academics."
-    url: "https://simonlee711.github.io/blog/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/splash/1.jpg
-    title: "Projects"
-    excerpt: "Click here to view some of the projects I have done."
-    url: "https://simonlee711.github.io/projects/"
-    btn_label: "View Code"
-    btn_class: "btn--primary"
-  - image_path: /assets/splash/3.jpg
-    title: "Photos"
-    excerpt: "Click here to review my public photo gallery."
-    url: "https://simonlee711.github.io/photos/"
-    btn_label: "Explore"
-    btn_class: "btn--primary"
   
 ---
 
