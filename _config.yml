@@ -111,21 +111,6 @@ author:
   email            : 
   url              : https://simonlee711.github.io/about/
   links:
-    - label: "  Linkedin"
-      icon: "fa-brands fa-linkedin-in"
-      url: "https://www.linkedin.com/in/simon-lee-307ba4172/"
-    - label: "   CV"
-      icon: "far fa-file-pdf"
-      #url: "https://Simonlee711.github.io/files/Curriculum%20Vitae.pdf"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Simonlee711"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/simonlee.a/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:simonlee711@gmail.com"
