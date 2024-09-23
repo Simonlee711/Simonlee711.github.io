@@ -34,27 +34,12 @@ feature_row:
 
 # Welcome
 
-Welcome to Simon Lee's Webpage! Here, you'll find a curated collection of my notable academic and professional projects, a glimpse into cherished moments captured in photographs over the years, and a log of my monthly newsletters. Whether you've known me personally or recently discovered my journey, this webpage serves as a platform for us to stay connected and embark on this adventure together. As I set out to achieve my goal of becoming a better writer in 2023, I believe this webpage perfectly combines all these elements. Feel free to navigate through the different sections and delve deeper into my world. Get to know me better and join me in this exciting chapter of personal and professional growth. Welcome, and enjoy your exploration of the webpage!
+Welcome to my page. Which more recently is a collection of random stuff, thoughts, and memories. This used to be an academic page but that has been migrated to a new one. Nowadays this is just my personal expression mood board where I can really just talk to myself and whoever reads this page. You might learn something about me or my past from this page but this is all just there to serve as a log for my future self. A lot of emotions, and memories are displayed here with the ultimate goal of chasing happiness.
 
 
 # Brief Introduction
 
-{% include figure image_path="images/bs.jpg" alt="this is a placeholder image" caption="Santa Monica 2022" %}
-
-Hello, my name is Simon Lee, and I am currently a Data Scientist at Celsius Therapeutics in Cambridge, MA. I am on the verge of beginning my Ph.D. studies at the University of California, Los Angeles, specializing in Computational Medicine. Throughout my academic and professional endeavors, I have discovered my passion for applied mathematics, computing, and the transformative potential of machine learning in the field of biology.
-
-
-As I embarked on my university journey, I, like many others, was unsure of my career path. However, my insatiable curiosity about the world led me to choose the study of mathematics. The logical and abstract thinking fascinated me, and I soon realized its wide-ranging applications in the social and physical sciences. My major perfectly aligned with my ever-evolving personality, allowing me to explore diverse problems before ultimately converging on the captivating realm of Mathematical Biology. This passion deepened as I delved into mathematical algorithms, which not only automated aspects of my life but also opened my eyes to the vast scale and ambitious possibilities of problem-solving.
-
-
-Throughout my academic career, I have had the opportunity to work with some amazing organizations and researchers both at the industry and academic levels. I have worked in the pharmaceutical/therapeutics field, single-cell genomics field, and the healthcare field just to name a few of my research endeavors. Some of my favorite notable projects were helping develop a model to continuously predict future blood pressure, as well as studying the periodicity of the COVID-19 Pandemic. Some of my current interests lie directly in the healthcare field pairing AI algorithms with Electronic Health Records to predict/study insights of a patient with their lucrative medical history.
-
-While mathematics is my foundation, my passions extend far beyond the realm of equations and algorithms. Building meaningful connections with people from diverse backgrounds has always been a priority for me. I believe that our journey is shaped by the relationships we form, and I am immensely grateful for the incredible community that has influenced my character, personality, and skills. As an explorer at heart, I find great joy in traversing the world. From the captivating landscapes of Morocco and Switzerland to the vibrant culture of Japan, each destination has enriched my perspective and broadened my horizons. Moreover, I have come to realize the importance of giving back and helping others, inspired by the support I have received throughout my life. Spreading light and happiness has become a personal mission, and I strive to make a positive impact in the lives of others.
-
-During my free time, I indulge in various hobbies that bring me fulfillment and joy. Whether it's spending quality time with friends, delving into game development, engaging in basketball and fitness, or capturing moments through photography, these pursuits fuel my creativity and provide a healthy balance to my life. As I look ahead, I am determined to strike a harmonious equilibrium between work and personal pursuits. With aspirations of making the Forbes 30 under 30 list, I embrace the boundless possibilities that lie before me. However, at the core of it all, my ultimate goal is to sustain my current zest for life and find happiness in every endeavor I undertake.
-
-My journey has been shaped by curiosity, growth, and a deep-rooted desire to make a difference. From the world of applied mathematics to the realms of healthcare and beyond, I strive to push boundaries, embrace collaboration, and leave a lasting impact. As I embark on new adventures, I remain grateful for the connections and experiences that have molded me into the person I am today. Join me as I continue to explore, learn, and create a meaningful life—one that encompasses joy, purpose, and a dedication to positively shaping the world around me.
-
+Hello, my name is Simon Lee. I am a boy trying to figure out my place in the world. I just try a whole bunch of things hoping that it sticks and truth is I have no idea what I am doing or where I am going. However, I have a current passion and I am going as deep as it will take me. However, at the very least, I know I am giving it my best and that is sometimes all I can ask for. 
 {% include feature_row %}
  
 
