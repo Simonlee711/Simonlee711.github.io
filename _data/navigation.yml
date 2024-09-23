@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: https://simonlee711.github.io/about/
-  - title: "Projects" 
-    url: /projects/
   - title: "Photos"
     url: /photos/
   - title: "Blog"
