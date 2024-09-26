@@ -23,6 +23,13 @@ Enjoy Simon Lee's 2024.
 ---
 ## May
 
+![image-right](/images/co/19.JPG){: .align-right style="width: 30%;"}
+#### I Love Collette 🖤
+{: style="text-align: right;"}
+#### May 27, 2024
+{: style="text-align: right;"}
+<br/><br/><br/><br/>
+
 ![image-left](/images/co/18.JPG){: .align-left style="width: 30%;"}
 #### Swan Boats
 #### May 27, 2024
