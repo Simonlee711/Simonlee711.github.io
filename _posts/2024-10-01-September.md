@@ -22,7 +22,11 @@ Iceland has become one of the premiere destinations for me for its unforgettable
 
 ### Day 1: Back to Vik
 
-I've come to really hate long flights. And Iceland was no exception. In fact in a way I have really begun to enjoy less travling to europe. But a recent solution I have found for dealing with long flights are sleeping pills aka melatonin which help speed up time. 
+I've come to really hate long flights. And Iceland was no exception. In fact in a way I have really begun to enjoy less travling to europe. But a recent solution I have found for dealing with long flights are sleeping pills aka melatonin which help speed up time. These sleeping pills would become much more useful later in the trip as they helped me widely as I exlpored the vast country. From LA, we had a short layover in Toronto before having an overnight flight to Keflavik. So as soon as the day started in Iceland, regardless of how much sleep i got, it was go time. 
+
+Iceland's configuration is a bit confusing because during the flight you are under the impression that you are flying to their capital of Reykyavik, but this is a large myth. Last time I had visited, we had booked a car in the captial but we were surprised to find ourselves in the small town of Keflavik which was nearly 40 minutes apart. However, this time, I did not make this mistake and I was able to pick up a car straight from the airport. So once I picked up my car, it was straight to Gullfoss (Golden Falls) which is only open in the summer due to harsh weather conditions. However, what made this trip different from the last time, was that instead of 6 hours of sun, we had nearly 16-17 hours of daylight. This made the experience incredibly different because I was able to see the beautiful nature all around me. It became a little problematic for gas consumption because I was stopping every 10 minutes to go explore a new terrain that was nothing like I had seen before.
+
+{% include figure image_path="/images/iceland/1.JPG" alt="this is a placeholder image" caption="A ravine with a waterfall at the end" %}
 
 
 
