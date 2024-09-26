@@ -59,7 +59,7 @@ Enjoy Simon Lee's 2024.
 #### May 17, 2024
 <br/><br/><br/><br/>
 
-![image-right](/images/co/13.HEIC){: .align-right style="width: 30%;"}
+![image-right](/images/co/13.JPG){: .align-right style="width: 30%;"}
 #### Polaroids 🖤
 {: style="text-align: right;"}
 #### May 13, 2024
@@ -267,4 +267,9 @@ Enjoy Simon Lee's 2024.
 {: style="text-align: right;"}
 #### January 1, 2024
 {: style="text-align: right;"}
+<br/><br/><br/><br/>
+
+![image-left](/images/co/0.jpg){: .align-left style="width: 30%;"}
+#### Happy New Years 
+#### January 1, 2024
 <br/><br/><br/><br/>
