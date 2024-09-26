@@ -30,8 +30,19 @@ What made this trip different from my last visit was the extended daylight—16-
 
 {% include figure image_path="/images/iceland/1.JPG" alt="this is a placeholder image" caption="A ravine with a waterfall at the end" %}
 
+After nearly 20 stops inbetween Keflavik and Gullfoss, we had finally made it to our destination. It was quite crowded which probably meant that it was going to be a surreal scene. However sometimes, respectfully things don't look as they seem and this was one of those cases. Gullfoss had an amazing waterfall structure but something about the colors and the contrast was offputting. Here is a side by side of our expectation versus reality:
 
 
+{% include figure image_path="/images/iceland/2.JPG" alt="this is a placeholder image" caption="expectation" %}
+{% include figure image_path="/images/iceland/3.JPG" alt="this is a placeholder image" caption="reality" %}
+
+Say what you want, but I guess beauty is relative. After watching what I thought was a dissapointing waterfall, I then made my way to the city of Vik. Vik is quite famous because it has the famous black sand beach which I learned was caused by volcano ash. There are seriously so many active volcanoes in this country that it is both scary and puts you in awe. But I just found it quite cool that nature itself was reflected in its geography and landscape. So while we made our way to Vik, we stopped by one more notable place with was Geysir, home to two active geysers and many boiling hot pots. The older geyser erupts infrequently, while the more active geyser, Strokkur, erupts about every 4-6 minutes. The sulfurous water in the area has sculpted the land in unique ways. I was fortunate to see Strokkur erupt 3 times during my short stint there before heading back on the road to Vik. 
+
+{% include figure image_path="/images/iceland/4.jpg" alt="this is a placeholder image" caption="Geysir" %}
+
+One final note from this day was that I had noticed that all towns in Iceland had Vik as their suffix. ReykyaVIK, KeflaVIK, VIK, and during this trip I had wondered the whole time what it meant. My initial guess was that it meant city or town but after looking it up on Google, I was surprised to hear that it actually means bay or creek. So ReykjaVIK means "smokey bay" and HusaVIK means "bay of houses". Just a little fun fact about Iceland.
+
+### Day 2: Ice! Ice! Ice!
 
 
 # Quote of the Monthly 
