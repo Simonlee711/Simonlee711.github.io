@@ -44,6 +44,7 @@ One final note from this day was that I had noticed that all towns in Iceland ha
 
 ### Day 2: Ice! Ice! Ice!
 
+Day two was largely about ice.
 
 # Quote of the Monthly 
 
