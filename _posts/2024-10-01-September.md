@@ -74,11 +74,23 @@ Our first objective was the hike to Svartifoss, the Black Falls, renowned for it
 {% include figure image_path="/images/iceland/9.JPG" alt="this is a placeholder image" caption="Svartifoss" %}
 {% include figure image_path="/images/iceland/10.JPG" alt="this is a placeholder image" caption="Fagrifoss" %}
 
-Still energized by the beauty of Svartifoss, we decided to venture further to Fagrifoss, aptly named "Beautiful Falls." Located near the village of Fagurhólsmýri, reaching Fagrifoss required a rugged journey through Iceland’s highlands. The drive itself was an adventure, involving river crossings and navigating through rough, unpaved roads. But as we approached, the sound of rushing water guided us to the edge of the canyon. There, Fagrifoss revealed itself in all its splendor, tumbling down a multi-tiered cliff into a serene pool below, surrounded by untouched wilderness.
+Still energized by the beauty of Svartifoss, we decided to venture further to Fagrifoss, aptly named "Beautiful Falls." Located near the village of Fagurhólsmýri, reaching Fagrifoss required a rugged journey through Iceland’s highlands. The drive itself was an adventure, involving river crossings and navigating through rough, unpaved roads. But as we approached, the sound of rushing water guided us to the edge of the canyon. There, Fagrifoss revealed itself in all its splendor, tumbling down a multi-tiered cliff into a serene pool below, surrounded by untouched wilderness. We ended the day by driving back to Reykjavik as I ended our second day of the trip.
+
+### Day 3: A Day of Disruptions
+
+Day 3 was a change in plans because I was originally trying to drive around the whole ring road. However, I got scared that it was going to snow since my whale watching tour got canceled via email. I was imagining the worst case scenario and decided to drive back to Reykjavik late last night. Therefore, it really disrupted how I was going to spend the rest of my vacation. As a result, I decided that I wanted to go see puffins which was a must see in Iceland but that meant I had to trek all the way to the peninsula in the north west as fast as possible. Foreshadowing a bit, truth is I probably would have made it but I decided to take a dip in the hot springs which delayed my departure by two hours. The goal was to take a seaboat from a port that would take me exactly where I wanted to go. The only issue was I had no idea what the schedule was like to board this boat. 
+
+Therefore Leaving Reykjavik after my hot spring, I set off on what I thought would be a smooth 2.5-hour drive to Stykkishólmsbær, a charming coastal town on the Snæfellsnes Peninsula. The goal was to catch the last ferry of the day across Breiðafjörður Bay, renowned for its scenic route and the chance to glimpse countless tiny islands dotting the water.
+
+The drive itself was stunning, with the landscape changing from the bustling cityscape of Reykjavik to wide-open fields, rugged mountains, and glimpses of the ocean along the way. Despite the beauty around me, time seemed to slip through my fingers. A few unexpected slowdowns—a mix of road construction and stopping more often than planned to soak in the breathtaking views—began to eat into my carefully calculated schedule.
+
+As I neared Stykkishólmsbær, I could feel the clock ticking against me. The picturesque town came into view, with its colorful houses and the iconic hill topped by the old church. The ferry terminal was just beyond, and for a brief moment, I thought I might still make it. But as I pulled into the parking area, the reality hit: I had missed the ferry by a mere 30 minutes.
+
+I stood there, watching as the boat I was meant to be on drifted further into the bay, its passengers embarking on the journey I had so eagerly anticipated. It was a crushing disappointment, knowing the effort I had put into getting there on time. Yet, standing on the dock, I couldn’t help but take in the quiet beauty of the harbor. The stillness of the water, the calls of seabirds overhead, and the gentle hum of the town behind me offered a small consolation.
+
+Though I missed the ferry, the experience was a reminder of how unpredictable travel can be, especially in a place as captivating as Iceland, where every corner begs you to pause and take it all in. Next time, I’d be sure to leave even earlier, factoring in those inevitable detours and the sheer allure of the journey itself.
 
 
-
-This day of exploration, from the icy grandeur of Jökulsárlón to the verdant trails of Skaftafell and the wild beauty of Fagrifoss, encapsulated the essence of Iceland’s breathtaking and varied landscapes. Each destination, unique in its own right, left us with a profound sense of awe and connection to the raw beauty of nature.
 
 
 # Quote of the Monthly 
